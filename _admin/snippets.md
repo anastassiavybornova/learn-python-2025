@@ -1,57 +1,20 @@
 
-## unit07 prep
+## lec08 remarks
 
-* try/except
-* list comprehension
+* Assignment resubmission: REPLACE old file
+* Friday (tomorrow) Live Coding: 12:30 Battle Ship 2-player game with Nielson!
 
-## lec07 remarks
+## lecture 09: 
 
-...
-* assignment questions?
+* setting with copy warning t.o.y.
 
-##  Where to insert:
-* sequence comparison: https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types
-* list comprehension
+##  coding snippets:
 * type checking with isinstance()
-* seeding of randomnes
-* try/except
+* seeding of randomness
 
-# for lec07 blackboard
+## For lecture 9:
+tbd
 
-built-in modules: csv, json
+## Coding test:
 
-software & stuff:
-* list comprehension
-* try/except statements (error catching)
-* inline functions (lambda)
-
-keywords:
-* try, except
-
-control flow:
- try/except
-
-pandas... 
-    attributes: 
-    .index .columns .shape .dtypes
-    dataframe methods:
-    .head() .tail() .keys() .describe()
-    .sort_values()
-    .reset_index()
-    .concat()
-    indexing/slicing methods:
-    .loc, [columname]
-    
-operators:
-    bitwise and, bitwise or
-
-
-## For assignment 3:
-* pandas task
-
-## For lecture 8:
-* filtering out missing values
-* changing values in a cell
-* setting a data type for a series
-* seeding of randomnes
-* type checking with isinstance()
+see learnit
