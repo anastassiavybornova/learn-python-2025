@@ -1,0 +1,116 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Blazin' Squad,Crossroads - Radio Edit,188693,False,2012,40,0.661,0.746,4,-5.153,1,0.042,0.109,0.0,0.325,0.502,144.188,set()
+3 Doors Down,Let Me Go,243053,False,2012,52,0.478,0.863,1,-4.914,0,0.0387,0.0181,0.0,0.111,0.491,92.004,"pop, rock, metal"
+Girls Aloud,Something Kinda Ooooh,201590,False,2012,49,0.681,0.908,11,-3.918,0,0.0473,0.0232,0.0,0.355,0.879,131.925,"pop, Dance/Electronic"
+Ida Corr,Let Me Think About It,151973,False,2012,43,0.762,0.754,0,-3.425,0,0.046,0.00022,0.0665,0.146,0.715,129.026,set()
+Katy Perry,California Gurls,234653,False,2012,72,0.791,0.754,0,-3.729,1,0.0569,0.00446,0.0,0.163,0.425,125.014,pop
+David Guetta,Where Them Girls At (feat. Nicki Minaj & Flo Rida),194840,True,2012,72,0.666,0.876,3,-3.078,1,0.0414,0.055,0.0,0.259,0.552,129.884,"hip hop, pop, Dance/Electronic"
+Katy Perry,E.T.,229573,False,2012,65,0.62,0.869,1,-5.252,1,0.175,0.0181,0.0,0.369,0.76,151.684,pop
+DJ Fresh,Louder (feat. Sian Evans) - Radio Edit,206776,False,2012,55,0.31,0.926,6,-1.131,0,0.0464,0.0184,0.00792,0.483,0.493,139.85,"pop, Dance/Electronic"
+Labrinth,Earthquake (feat. Tinie Tempah),274600,True,2012,62,0.54,0.856,0,-3.966,0,0.1,0.109,0.0,0.276,0.258,153.071,pop
+Katy Perry,Last Friday Night (T.G.I.F.),230746,False,2012,74,0.649,0.815,3,-3.796,0,0.0415,0.00125,4.31e-05,0.671,0.765,126.03,pop
+Calvin Harris,Bounce (feat. Kelis) - Radio Edit,222186,False,2012,62,0.779,0.963,2,-2.125,0,0.0399,0.0334,0.493,0.664,0.759,127.941,"hip hop, pop, Dance/Electronic"
+David Guetta,Without You (feat. Usher),208133,False,2012,70,0.608,0.614,2,-3.727,1,0.0285,0.227,4.06e-06,0.157,0.402,127.884,"hip hop, pop, Dance/Electronic"
+Carly Rae Jepsen,Call Me Maybe,193400,False,2012,78,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,"pop, Dance/Electronic"
+fun.,We Are Young (feat. Janelle Monáe),250626,False,2012,76,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,"rock, pop"
+Sean Paul,She Doesn't Mind,227786,False,2012,70,0.718,0.776,7,-5.208,0,0.0693,0.000624,5.3e-06,0.207,0.622,120.015,"hip hop, pop"
+DEV,In The Dark,226226,False,2012,52,0.736,0.824,8,-4.231,1,0.0672,0.00358,0.000921,0.329,0.443,124.954,"pop, Dance/Electronic"
+Adele,Skyfall,286480,False,2012,74,0.346,0.552,0,-6.864,0,0.0282,0.417,0.0,0.114,0.0789,75.881,"pop, R&B"
+David Guetta,Turn Me On (feat. Nicki Minaj),199680,False,2012,65,0.704,0.793,8,-2.266,1,0.0591,0.0488,0.0,0.575,0.412,127.96,"hip hop, pop, Dance/Electronic"
+Maroon 5,One More Night,219546,False,2012,74,0.716,0.821,5,-3.435,0,0.0314,0.0558,0.0,0.0844,0.618,92.997,pop
+The Wanted,Chasing The Sun,198800,False,2012,69,0.637,0.732,7,-6.209,0,0.0965,0.244,0.0,0.498,0.68,128.108,"pop, Dance/Electronic"
+Flo Rida,Whistle,224653,False,2012,77,0.747,0.937,0,-5.746,1,0.0453,0.0208,0.0,0.29,0.739,103.976,"hip hop, pop"
+David Guetta,She Wolf (Falling to Pieces) [feat. Sia],222500,False,2012,66,0.492,0.857,7,-2.634,1,0.0655,0.0841,7.82e-06,0.344,0.393,129.973,"hip hop, pop, Dance/Electronic"
+Nicki Minaj,Pound The Alarm,205640,True,2012,64,0.728,0.858,9,-3.686,1,0.0609,0.0403,4.09e-06,0.0241,0.591,125.055,"hip hop, pop"
+Kendrick Lamar,Swimming Pools (Drank) - Extended Version,313786,True,2012,63,0.716,0.485,1,-7.745,1,0.404,0.123,2.69e-05,0.604,0.26,74.132,hip hop
+MARINA,Primadonna,221075,False,2012,78,0.66,0.689,4,-2.671,0,0.0337,0.0884,0.0,0.0922,0.427,127.98,"pop, Dance/Electronic"
+Kanye West,Mercy,329320,True,2012,73,0.563,0.496,6,-9.381,0,0.406,0.0685,5.8e-05,0.173,0.426,139.993,hip hop
+DJ Fresh,Hot Right Now (feat. RITA ORA) - Radio Edit,182333,False,2012,58,0.524,0.972,4,-1.569,0,0.0431,0.00656,0.00058,0.224,0.476,175.017,"pop, Dance/Electronic"
+PSY,Gangnam Style (강남스타일),219493,False,2012,72,0.727,0.937,11,-2.871,0,0.286,0.00417,0.0,0.091,0.749,132.067,pop
+Kesha,Die Young,211920,False,2012,78,0.711,0.7,1,-4.805,0,0.046,0.00498,0.000125,0.215,0.801,128.001,"pop, Dance/Electronic"
+Usher,Scream,234693,False,2012,66,0.616,0.862,7,-5.18,0,0.0973,0.00117,0.0,0.179,0.569,127.992,"hip hop, pop, R&B"
+Olly Murs,Troublemaker (feat. Flo Rida),185586,False,2012,0,0.762,0.863,0,-3.689,0,0.0565,0.015,0.0,0.125,0.965,106.008,"pop, Dance/Electronic"
+Linkin Park,BURN IT DOWN,230253,False,2012,73,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,"rock, metal"
+Bruno Mars,Locked out of Heaven,233478,False,2012,85,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,pop
+Flo Rida,Good Feeling,248133,False,2012,76,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,"hip hop, pop"
+Rihanna,Diamonds,225146,False,2012,75,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,"hip hop, pop, R&B"
+Wiz Khalifa,"Work Hard, Play Hard",219026,True,2012,62,0.787,0.666,11,-4.475,1,0.0485,0.0409,1.91e-05,0.296,0.485,140.008,"hip hop, pop"
+Katy Perry,Part Of Me,216160,False,2012,73,0.678,0.918,5,-4.63,1,0.0355,0.000417,0.0,0.0744,0.769,130.028,pop
+Nicki Minaj,Starships,210626,True,2012,75,0.747,0.716,11,-2.457,0,0.075,0.135,0.0,0.251,0.751,125.008,"hip hop, pop"
+Kendrick Lamar,m.A.A.d city,350120,True,2012,67,0.487,0.729,2,-6.815,1,0.271,0.0538,4.07e-06,0.44,0.217,91.048,hip hop
+Asaf Avidan & the Mojos,One Day / Reckoning Song (Wankelmut Remix) [Radio Edit],212360,False,2012,0,0.821,0.676,3,-6.366,0,0.0547,0.187,0.0001,0.0927,0.559,119.012,pop
+Maroon 5,Payphone,231173,True,2012,82,0.743,0.752,4,-4.813,1,0.0414,0.0188,0.0,0.287,0.545,110.015,pop
+Michel Teló,Ai Se Eu Te Pego - Live,166866,False,2012,0,0.676,0.935,11,-4.55,1,0.0692,0.357,0.0,0.853,0.85,96.055,"country, latin"
+Otto Knows,Million Voices - Radio Edit,192866,False,2012,0,0.582,0.894,8,-6.298,1,0.041,0.0022,0.0223,0.0664,0.0694,125.946,"pop, Dance/Electronic"
+Icona Pop,I Love It,156773,True,2012,51,0.71,0.901,1,-2.686,1,0.0296,0.00828,1.34e-05,0.172,0.86,125.953,"pop, Dance/Electronic"
+Tyga,Rack City,203200,True,2012,61,0.929,0.339,1,-10.881,1,0.371,0.0373,1.96e-05,0.187,0.273,98.986,"hip hop, pop"
+Calvin Harris,Feel So Close - Radio Edit,206413,False,2012,79,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,"hip hop, pop, Dance/Electronic"
+Jennifer Lopez,Dance Again,237266,False,2012,0,0.797,0.867,11,-5.242,0,0.0696,0.0158,2.79e-06,0.0868,0.716,127.974,"hip hop, pop, R&B"
+Grimes,Oblivion,251266,False,2012,0,0.697,0.529,2,-8.838,1,0.0338,0.115,0.901,0.0895,0.486,155.974,"pop, rock, Dance/Electronic"
+Chris Brown,Turn Up the Music,227973,False,2012,64,0.594,0.841,1,-5.792,1,0.102,0.000238,2.22e-06,0.156,0.643,129.925,"hip hop, pop, R&B"
+Frank Ocean,Lost,234093,True,2012,64,0.913,0.603,8,-4.892,1,0.226,0.0272,0.000503,0.167,0.497,123.061,"hip hop, pop, R&B"
+Calvin Harris,Let's Go (feat. Ne-Yo),232800,False,2012,66,0.71,0.882,4,-2.932,0,0.0595,0.00777,0.00771,0.294,0.875,128.016,"hip hop, pop, Dance/Electronic"
+The Script,Hall of Fame (feat. will.i.am),202533,False,2012,78,0.421,0.873,10,-4.343,1,0.0564,0.0654,0.0,0.123,0.629,84.786,"pop, rock"
+Swedish House Mafia,Don't You Worry Child - Radio Edit,212862,False,2012,76,0.612,0.84,11,-3.145,0,0.0509,0.112,0.0,0.116,0.438,129.042,"pop, Dance/Electronic"
+MARINA,How to Be a Heartbreaker,221493,False,2012,50,0.69,0.897,11,-4.696,0,0.0506,0.0142,0.0,0.108,0.849,140.05,"pop, Dance/Electronic"
+Justin Bieber,Boyfriend,171333,False,2012,63,0.717,0.55,10,-6.019,0,0.0519,0.0358,0.00198,0.126,0.331,96.979,pop
+David Guetta,Titanium (feat. Sia),245040,False,2012,79,0.604,0.787,0,-3.674,0,0.103,0.0679,0.15,0.127,0.301,126.062,"hip hop, pop, Dance/Electronic"
+Taylor Swift,I Knew You Were Trouble.,219720,False,2012,59,0.622,0.469,3,-6.798,0,0.0363,0.00454,2.25e-06,0.0335,0.679,77.019,pop
+ScHoolboy Q,Hands on the Wheel (feat. Asap Rocky),197131,True,2012,61,0.646,0.784,1,-7.471,0,0.108,0.0166,0.0,0.0721,0.179,127.839,"hip hop, pop"
+P!nk,Try,247906,False,2012,76,0.674,0.628,2,-7.079,1,0.03,0.00144,0.0,0.0944,0.552,103.998,pop
+Robbie Williams,Candy,201053,False,2012,68,0.715,0.791,10,-6.63,1,0.0414,0.0368,0.0,0.0694,0.879,116.043,"pop, rock"
+Justin Bieber,As Long As You Love Me,229466,False,2012,67,0.571,0.873,0,-3.382,0,0.1,0.0811,0.0,0.361,0.613,139.691,pop
+Rita Ora,R.I.P. (feat. Tinie Tempah),228026,False,2012,46,0.603,0.831,11,-3.443,0,0.0479,0.027,0.0,0.652,0.358,72.022,"hip hop, pop, Dance/Electronic"
+Tyga,Faded,206666,True,2012,58,0.831,0.667,1,-8.438,1,0.188,0.0103,0.0,0.35,0.339,95.073,"hip hop, pop"
+Alesso,Years - ラジオ・エディット,195480,False,2012,0,0.37,0.823,2,-6.245,1,0.0805,0.00234,1.91e-06,0.174,0.323,128.008,"pop, Dance/Electronic"
+Guy Sebastian,Battle Scars (feat. Lupe Fiasco),250080,False,2012,0,0.61,0.863,5,-2.632,0,0.206,0.186,0.0,0.097,0.508,83.993,pop
+Katy Perry,The One That Got Away,227333,False,2012,72,0.687,0.792,1,-4.023,0,0.0353,0.000802,0.0,0.2,0.864,133.962,pop
+Avicii,Silhouettes - Original Radio Edit,211880,False,2012,53,0.605,0.8,5,-6.235,0,0.0545,0.155,0.0562,0.121,0.836,128.074,"pop, Dance/Electronic"
+Flo Rida,Wild Ones (feat. Sia),232946,False,2012,77,0.608,0.86,5,-5.324,0,0.0554,0.0991,0.0,0.262,0.437,127.075,"hip hop, pop"
+One Direction,What Makes You Beautiful,199986,False,2012,82,0.726,0.787,4,-2.494,1,0.0737,0.009,0.0,0.0596,0.888,124.99,pop
+Lana Del Rey,Born To Die,286253,False,2012,53,0.18,0.636,4,-6.591,0,0.0439,0.209,0.000133,0.217,0.39,75.223,pop
+Kesha,C'Mon,214333,False,2012,0,0.558,0.781,1,-5.448,0,0.0963,0.00657,0.00144,0.102,0.286,126.025,"pop, Dance/Electronic"
+Owl City,Good Time,205933,False,2012,77,0.56,0.872,3,-4.269,1,0.14,0.0239,6.98e-06,0.371,0.682,126.05,"rock, pop"
+Calvin Harris,We'll Be Coming Back (feat. Example),234360,False,2012,62,0.596,0.952,7,-4.364,1,0.0873,0.00131,0.0,0.598,0.571,127.945,"hip hop, pop, Dance/Electronic"
+Emeli Sandé,"Read All About It, Pt. III",283706,False,2012,65,0.63,0.44,2,-7.186,1,0.0249,0.822,3.87e-06,0.0926,0.343,98.082,"pop, R&B"
+Train,Drive By,195973,False,2012,77,0.765,0.837,1,-3.113,0,0.032,0.00107,1.06e-05,0.0801,0.721,122.028,pop
+One Direction,Live While We're Young,200186,False,2012,0,0.658,0.837,2,-2.063,1,0.0543,0.0629,0.0,0.0969,0.936,126.015,pop
+Carrie Underwood,Blown Away,240133,False,2012,63,0.531,0.843,9,-2.569,0,0.0429,0.0909,0.0,0.0283,0.392,136.991,"pop, country"
+alt-J,Breezeblocks,227080,False,2012,71,0.616,0.656,5,-7.298,1,0.0344,0.096,0.000879,0.205,0.286,150.071,rock
+Chris Brown,Don't Wake Me Up,222306,False,2012,62,0.602,0.691,7,-5.197,0,0.051,0.0548,0.0,0.144,0.206,127.967,"hip hop, pop, R&B"
+Katy Perry,Wide Awake,220946,False,2012,65,0.514,0.683,5,-5.099,1,0.0367,0.0749,2.64e-06,0.392,0.575,159.814,pop
+Rita Ora,How We Do (Party),247026,True,2012,48,0.738,0.922,7,-3.94,1,0.0833,0.0034,0.0,0.0986,0.689,116.024,"hip hop, pop, Dance/Electronic"
+Lana Del Rey,Ride,289080,True,2012,66,0.373,0.686,0,-5.52,1,0.034,0.128,1.96e-06,0.383,0.189,93.763,pop
+Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),251626,False,2012,69,0.658,0.677,5,-6.628,1,0.0393,0.248,0.0,0.368,0.248,124.91,"pop, R&B"
+Little Mix,Wings,219733,False,2012,0,0.738,0.875,7,-3.141,1,0.127,0.000673,0.000556,0.285,0.538,114.962,pop
+Imagine Dragons,Radioactive,186813,False,2012,77,0.448,0.784,9,-3.686,1,0.0627,0.106,0.000108,0.668,0.236,136.245,rock
+Bruno Mars,Locked out of Heaven,233478,False,2012,85,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,pop
+Macklemore & Ryan Lewis,Thrift Shop (feat. Wanz),235613,True,2012,1,0.781,0.526,6,-6.985,0,0.293,0.0619,0.0,0.0457,0.662,94.992,"hip hop, pop"
+David Guetta,Play Hard (feat. Ne-Yo & Akon),201000,False,2012,69,0.691,0.921,8,-1.702,0,0.0533,0.173,0.0,0.331,0.8,130.072,"hip hop, pop, Dance/Electronic"
+Pitbull,Feel This Moment (feat. Christina Aguilera),229506,False,2012,77,0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,"hip hop, pop, latin"
+Macklemore & Ryan Lewis,Can't Hold Us (feat. Ray Dalton),258342,False,2012,81,0.641,0.922,2,-4.457,1,0.0786,0.0291,0.0,0.0862,0.847,146.078,"hip hop, pop"
+Justin Bieber,Beauty And A Beat,227986,False,2012,73,0.602,0.843,0,-4.831,1,0.0593,0.000688,5.27e-05,0.0682,0.526,128.003,pop
+Pitbull,Don't Stop the Party (feat. TJR),206120,False,2012,64,0.722,0.958,4,-3.617,1,0.0912,0.00726,0.0,0.375,0.952,127.008,"hip hop, pop, latin"
+P!nk,True Love (feat. Lily Allen),230733,True,2012,71,0.457,0.823,9,-4.76,1,0.311,0.00144,0.0,0.108,0.578,192.205,pop
+Flo Rida,I Cry,223800,False,2012,60,0.693,0.822,4,-5.441,0,0.0439,0.00616,1.79e-06,0.315,0.763,126.035,"hip hop, pop"
+Avicii,I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit,208316,False,2012,68,0.509,0.79,6,-3.782,0,0.0374,0.332,6.67e-05,0.316,0.638,127.946,"pop, Dance/Electronic"
+Imagine Dragons,Demons,177506,False,2012,81,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.269,0.428,89.938,rock
+Taylor Swift,I Knew You Were Trouble.,219720,False,2012,76,0.622,0.469,3,-6.798,0,0.0363,0.00454,2.25e-06,0.0335,0.679,77.019,pop
+Calvin Harris,Drinking from the Bottle (feat. Tinie Tempah),240346,False,2012,61,0.665,0.886,9,-4.175,0,0.0514,0.0469,6.24e-05,0.0525,0.53,128.062,"hip hop, pop, Dance/Electronic"
+P!nk,Try,247906,False,2012,76,0.674,0.628,2,-7.079,1,0.03,0.00144,0.0,0.0944,0.552,103.998,pop
+Calvin Harris,I Need Your Love (feat. Ellie Goulding),234506,False,2012,70,0.695,0.869,8,-5.066,1,0.0483,0.41,0.0,0.237,0.58,124.989,"hip hop, pop, Dance/Electronic"
+Calvin Harris,Sweet Nothing (feat. Florence Welch),212560,False,2012,71,0.573,0.929,8,-3.942,0,0.109,0.197,0.000112,0.0567,0.582,127.934,"hip hop, pop, Dance/Electronic"
+Olly Murs,Dear Darlin',206373,False,2012,59,0.512,0.828,11,-4.672,0,0.0454,0.00627,8.73e-06,0.119,0.34,124.021,"pop, Dance/Electronic"
+Calvin Harris,Thinking About You (feat. Ayah Marar),247933,False,2012,65,0.725,0.874,0,-3.715,0,0.0396,0.00262,0.000412,0.0958,0.748,127.985,"hip hop, pop, Dance/Electronic"
+Bridgit Mendler,Ready or Not,200946,False,2012,72,0.715,0.872,2,-3.835,1,0.0509,0.00351,3.84e-05,0.107,0.748,93.043,pop
+Zedd,Clarity,271426,False,2012,0,0.523,0.78,8,-3.464,1,0.0753,0.0366,0.0,0.0751,0.193,128.006,"hip hop, pop, Dance/Electronic"
+Bruno Mars,Treasure,178560,True,2012,78,0.874,0.692,5,-5.28,0,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,pop
+Of Monsters and Men,Little Talks,266600,False,2012,79,0.457,0.757,1,-5.177,1,0.032,0.0206,0.0,0.146,0.417,102.961,"pop, rock, Folk/Acoustic"
+Maroon 5,Daylight,225066,False,2012,66,0.656,0.674,7,-5.473,1,0.0269,0.00242,0.0,0.255,0.369,120.001,pop
+Taylor Swift,22,232120,False,2012,68,0.661,0.729,7,-6.561,1,0.0376,0.00215,0.0013,0.0477,0.668,103.987,pop
+Passenger,Let Her Go,252866,False,2012,73,0.509,0.538,7,-7.335,1,0.0572,0.385,0.0,0.104,0.244,75.089,pop
+Rihanna,Stay,240706,False,2012,76,0.621,0.31,9,-10.164,0,0.0283,0.945,6.12e-05,0.117,0.125,111.893,"hip hop, pop, R&B"
+Bruno Mars,When I Was Your Man,213826,False,2012,83,0.612,0.28,0,-8.648,1,0.0434,0.932,0.0,0.088,0.387,72.795,pop
+Florida Georgia Line,Cruise,208960,False,2012,57,0.457,0.948,10,-3.364,1,0.0354,0.0191,0.0,0.0536,0.878,148.0,country
+Pitbull,Timber (feat. Ke$ha),204160,False,2012,80,0.581,0.963,11,-4.087,1,0.0981,0.0295,0.0,0.139,0.788,129.992,"hip hop, pop, latin"
+MKTO,Classic,175426,False,2012,82,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,"hip hop, pop"

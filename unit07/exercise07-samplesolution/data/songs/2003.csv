@@ -1,0 +1,98 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Madonna,Die Another Day,276360,False,2003,53,0.792,0.797,0,-5.166,0,0.0901,0.062,0.00325,0.0896,0.491,123.993,pop
+Marilyn Manson,Tainted Love,200426,False,2003,60,0.622,0.876,8,-7.779,1,0.0728,0.00107,1.83e-06,0.292,0.537,142.017,"rock, metal"
+Chad Kroeger,Hero (feat. Josey Scott),200480,False,2003,66,0.427,0.843,4,-4.54,1,0.0364,0.00216,0.0,0.179,0.304,147.387,metal
+Gareth Gates,Anyone of Us (Stupid Mistake),227866,False,2003,53,0.7,0.72,1,-6.061,1,0.0261,0.285,0.0,0.0845,0.654,106.986,pop
+Gareth Gates,Unchained Melody,233666,False,2003,35,0.368,0.426,10,-8.049,1,0.0277,0.255,5.39e-06,0.108,0.208,106.52,pop
+Delta Goodrem,Born to Try,251280,False,2003,54,0.542,0.589,8,-6.813,1,0.0284,0.246,0.0,0.188,0.336,133.838,pop
+50 Cent,In Da Club,193466,True,2003,81,0.899,0.713,6,-2.752,0,0.366,0.255,0.0,0.0708,0.777,90.051,"hip hop, pop"
+Beyoncé,Crazy In Love (feat. Jay-Z),236133,False,2003,76,0.646,0.77,2,-6.596,0,0.226,0.00249,0.0,0.0715,0.681,99.165,"pop, R&B"
+Counting Crows,Big Yellow Taxi,225426,False,2003,50,0.669,0.873,8,-4.315,1,0.0494,0.00204,0.0,0.137,0.827,88.029,"rock, pop"
+Black Eyed Peas,Where Is The Love?,272533,False,2003,68,0.835,0.687,5,-3.18,1,0.184,0.101,0.0,0.132,0.828,94.059,"hip hop, pop"
+Black Eyed Peas,Shut Up,296186,False,2003,56,0.81,0.714,2,-3.966,1,0.243,0.0637,0.0,0.237,0.561,112.968,"hip hop, pop"
+Benny Benassi,Satisfaction (Isak Original Extended) - Benny Benassi Presents The Biz,285570,False,2003,66,0.793,0.698,11,-3.626,1,0.104,0.163,0.145,0.0745,0.339,130.017,"pop, Dance/Electronic"
+Panjabi MC,Mundian to Bach Ke,244666,False,2003,61,0.778,0.879,8,-4.951,0,0.0371,0.399,0.792,0.15,0.942,98.077,"World/Traditional, hip hop"
+50 Cent,P.I.M.P.,249480,True,2003,76,0.712,0.772,10,-3.024,0,0.346,0.0521,4.35e-06,0.0368,0.848,84.722,"hip hop, pop"
+Jamelia,Superstar,215480,False,2003,69,0.801,0.645,1,-6.93,1,0.0356,0.0457,0.0,0.0357,0.824,110.01,pop
+Linkin Park,Faint,162600,False,2003,72,0.554,0.978,4,-3.554,1,0.131,0.111,0.0,0.0731,0.594,135.095,"rock, metal"
+Evanescence,Bring Me To Life,235893,False,2003,79,0.331,0.943,4,-3.188,0,0.0698,0.00721,2.06e-06,0.242,0.296,94.612,metal
+Sugababes,Hole In The Head,218173,False,2003,57,0.785,0.933,6,-4.629,0,0.0309,0.0303,0.0,0.137,0.962,125.011,"pop, R&B"
+Three Days Grace,I Hate Everything About You,231480,False,2003,72,0.498,0.83,6,-5.157,0,0.0421,0.00461,0.0,0.139,0.453,89.342,"rock, metal"
+B2K,"Bump, Bump, Bump (feat. P. Diddy)",282773,False,2003,62,0.835,0.68,1,-6.02,0,0.21,0.1,0.0,0.049,0.889,95.508,"hip hop, pop, R&B"
+Baby Bash,Suga Suga,239026,False,2003,73,0.662,0.748,5,-3.041,0,0.268,0.688,8.43e-06,0.0841,0.535,82.331,"hip hop, pop, R&B, latin"
+Britney Spears,Me Against the Music (feat. Madonna) - LP Version / Video Mix,223773,False,2003,59,0.804,0.836,6,-6.635,0,0.089,0.32,0.0,0.213,0.85,120.046,pop
+Delta Goodrem,Lost Without You,248546,False,2003,54,0.581,0.747,7,-6.682,1,0.0283,0.0365,1.69e-06,0.193,0.514,146.301,pop
+The White Stripes,Seven Nation Army,231920,False,2003,3,0.741,0.469,4,-7.627,0,0.0805,0.00601,0.447,0.306,0.313,123.904,"rock, blues"
+Youngbloodz,Damn! (feat. Lil' Jon) - Club Mix,298600,True,2003,54,0.772,0.724,6,-5.799,0,0.307,0.0149,0.0,0.355,0.518,84.038,"hip hop, pop"
+Beyoncé,Baby Boy (feat. Sean Paul),244826,False,2003,63,0.655,0.488,1,-9.17,1,0.22,0.0825,1.16e-06,0.221,0.791,91.025,"pop, R&B"
+Nickelback,Someday,207466,False,2003,68,0.455,0.858,11,-5.659,0,0.0391,0.000616,0.000247,0.226,0.597,163.118,"rock, metal"
+Blue,U Make Me Wanna - Radio Edit,222400,False,2003,48,0.6,0.736,7,-6.228,1,0.0329,0.325,0.0,0.137,0.848,158.108,pop
+Ashanti,Rain On Me,297960,False,2003,50,0.606,0.699,8,-3.103,0,0.0337,0.343,1.89e-06,0.0757,0.509,83.701,"hip hop, pop, R&B"
+Lumidee,"Never Leave You (Uh Oooh, Uh Oooh)",184906,False,2003,61,0.811,0.657,6,-6.197,1,0.362,0.0391,0.712,0.0798,0.777,199.958,"pop, R&B"
+Girls Aloud,Sound Of The Underground,221426,False,2003,58,0.568,0.867,11,-5.861,1,0.0365,0.00344,4.67e-05,0.328,0.88,163.944,"pop, Dance/Electronic"
+Room 5,Make Luv,212413,False,2003,57,0.883,0.887,1,-4.92,1,0.116,0.0111,0.63,0.0367,0.648,124.814,Dance/Electronic
+Limp Bizkit,Behind Blue Eyes,269973,False,2003,70,0.595,0.489,7,-6.66,1,0.0271,0.497,0.0,0.119,0.0902,120.315,metal
+Sugababes,Too Lost In You,237693,False,2003,58,0.586,0.705,1,-4.904,0,0.0287,0.0485,0.0,0.15,0.459,98.014,"pop, R&B"
+50 Cent,"Wanksta - From ""8 Mile"" Soundtrack",219400,True,2003,57,0.802,0.863,1,-3.552,1,0.2,0.0199,0.0,0.141,0.873,81.008,"hip hop, pop"
+Pharrell Williams,Frontin' (feat. Jay-Z) - Club Mix,236506,True,2003,67,0.894,0.404,9,-5.913,0,0.13,0.453,1.57e-06,0.0801,0.759,102.009,"hip hop, pop"
+Chingy,Right Thurr,250746,True,2003,69,0.866,0.749,2,-3.977,1,0.253,0.15,0.0,0.0614,0.891,92.074,"hip hop, pop, R&B"
+Lil' Kim,The Jump Off (feat. Mr. Cheeks) - Remix,234800,True,2003,48,0.853,0.752,1,-8.831,1,0.339,0.178,4.65e-06,0.0553,0.935,104.946,"hip hop, pop, R&B"
+Mýa,My Love Is Like...Wo - Main Mix,209533,False,2003,48,0.831,0.695,4,-6.491,1,0.109,0.194,1.24e-05,0.309,0.722,132.817,"pop, R&B"
+50 Cent,21 Questions,224440,True,2003,72,0.646,0.813,6,-3.846,0,0.299,0.349,9.37e-05,0.0427,0.895,92.729,"hip hop, pop"
+Girls Aloud,Jump,220360,False,2003,60,0.658,0.826,8,-6.031,1,0.0346,0.00189,0.00275,0.0492,0.795,134.465,"pop, Dance/Electronic"
+Ultrabeat,Pretty Green Eyes - Radio Edit,201920,False,2003,59,0.553,0.775,1,-10.284,0,0.043,0.212,0.0,0.0728,0.51,139.993,"pop, Dance/Electronic"
+Frankie J,Don't Wanna Try,245293,False,2003,49,0.655,0.433,5,-7.577,0,0.0348,0.444,0.0,0.221,0.199,130.127,"hip hop, pop, R&B"
+Ginuwine,In Those Jeans,243306,True,2003,59,0.691,0.541,1,-5.873,1,0.0776,0.508,0.0,0.0753,0.319,127.683,"hip hop, pop, R&B"
+Electric Six,Danger! High Voltage - Soulchild Radio Mix,214600,False,2003,0,0.66,0.698,11,-4.722,0,0.0302,1.92e-05,0.166,0.0517,0.511,123.005,rock
+Rachel Stevens,Sweet Dreams My LA Ex - Radio Edit,208386,False,2003,38,0.85,0.862,2,-3.587,1,0.138,0.0733,0.00144,0.0936,0.908,130.036,"pop, Dance/Electronic"
+Ludacris,Stand Up,213760,True,2003,57,0.751,0.84,6,-4.855,1,0.349,0.367,0.0,0.0916,0.801,99.057,"hip hop, pop"
+Westlife,Mandy,199320,False,2003,57,0.447,0.636,5,-5.08,1,0.0278,0.254,9.25e-05,0.11,0.376,105.678,pop
+No Doubt,It's My Life,226053,False,2003,60,0.612,0.735,8,-5.074,0,0.0282,0.00202,0.00118,0.328,0.783,126.326,"rock, pop"
+Amanda Perez,Angel,218760,False,2003,48,0.638,0.54,0,-6.849,1,0.0473,0.506,0.0,0.157,0.352,143.772,"pop, R&B"
+Ashanti,Rock Wit U (Awww Baby),209120,False,2003,65,0.71,0.797,4,-3.006,0,0.0582,0.408,0.0,0.16,0.849,94.998,"hip hop, pop, R&B"
+Monica,So Gone,242773,False,2003,64,0.618,0.552,8,-6.863,1,0.0981,0.176,0.0,0.252,0.586,81.975,"pop, R&B"
+Dido,White Flag,240040,False,2003,44,0.512,0.525,5,-6.823,1,0.0401,0.327,3.3e-06,0.081,0.294,169.951,pop
+Chingy,Holidae In,314400,True,2003,61,0.81,0.791,7,-5.909,1,0.181,0.0893,0.0,0.0838,0.948,153.067,"hip hop, pop, R&B"
+Fabolous,Can't Let You Go (feat. Mike Shorey & Lil' Mo),223973,True,2003,61,0.646,0.6,9,-6.569,1,0.458,0.231,0.0,0.0794,0.811,192.082,"hip hop, pop, R&B"
+Kelly Clarkson,Miss Independent,214773,False,2003,47,0.656,0.615,11,-6.359,0,0.137,0.0769,0.000415,0.0706,0.592,175.943,"pop, R&B"
+Outkast,The Way You Move (feat. Sleepy Brown),234000,True,2003,66,0.871,0.597,5,-4.932,0,0.0464,0.126,0.000113,0.0638,0.635,125.999,"hip hop, pop"
+Fabolous,Into You (feat. Tamia),295773,True,2003,67,0.546,0.538,7,-7.886,0,0.0523,0.233,0.0,0.118,0.58,182.12,"hip hop, pop, R&B"
+Switchfoot,Meant to Live,201373,False,2003,61,0.397,0.903,2,-4.577,1,0.0457,0.00575,1.6e-06,0.362,0.556,151.551,"rock, pop"
+Wayne Wonder,No Letting Go,202013,False,2003,63,0.496,0.819,5,-5.656,0,0.0444,0.0479,0.000215,0.177,0.317,100.215,"hip hop, R&B"
+The Strokes,Reptilia,219826,False,2003,74,0.489,0.649,9,-5.11,1,0.0336,0.000603,0.713,0.101,0.77,158.009,rock
+Will Young,Leave Right Now,214733,False,2003,55,0.641,0.445,6,-8.674,1,0.0368,0.145,0.0,0.108,0.383,81.931,pop
+Britney Spears,Toxic,198800,False,2003,81,0.774,0.838,5,-3.914,0,0.114,0.0249,0.025,0.242,0.924,143.04,pop
+Outkast,Hey Ya!,235213,False,2003,80,0.727,0.974,4,-2.261,0,0.0664,0.103,0.000532,0.174,0.965,79.526,"hip hop, pop"
+Hoobastank,The Reason,232800,False,2003,79,0.472,0.671,4,-4.649,1,0.029,0.0129,0.0,0.159,0.0681,82.952,"pop, rock, metal"
+The Rasmus,In the Shadows,257920,False,2003,68,0.6,0.796,2,-4.481,1,0.0275,0.000109,5.2e-05,0.484,0.75,105.991,metal
+Beyoncé,Naughty Girl,208600,False,2003,63,0.735,0.466,6,-8.65,0,0.0857,0.239,6.24e-06,0.102,0.643,99.973,"pop, R&B"
+Linkin Park,Numb,185586,False,2003,81,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,"rock, metal"
+Kelis,Trick Me,206106,True,2003,63,0.97,0.72,1,-3.347,0,0.149,0.0369,0.000389,0.326,0.962,107.17,"pop, R&B, Dance/Electronic"
+Baby Bash,Suga Suga,239026,False,2003,73,0.662,0.748,5,-3.041,0,0.268,0.688,8.43e-06,0.0841,0.535,82.331,"hip hop, pop, R&B, latin"
+Petey Pablo,Freek-A-Leek,235186,True,2003,56,0.737,0.697,2,-3.716,1,0.254,0.0756,0.0,0.359,0.662,104.917,"hip hop, pop"
+JAY-Z,Dirt Off Your Shoulder,245173,True,2003,53,0.779,0.655,1,-7.147,1,0.318,0.0319,2.63e-06,0.339,0.645,163.971,hip hop
+Black Eyed Peas,Hey Mama,214893,True,2003,49,0.86,0.866,4,-6.345,0,0.232,0.104,1.42e-06,0.584,0.933,100.15,"hip hop, pop"
+Ying Yang Twins,Salt Shaker,252440,True,2003,61,0.884,0.697,11,-6.022,1,0.128,0.0509,0.0,0.094,0.322,101.965,"hip hop, pop"
+Enrique Iglesias,Not In Love - Radio Mix,223133,False,2003,37,0.762,0.885,0,-5.096,0,0.0395,0.0371,0.0,0.0519,0.886,117.021,"pop, latin"
+Kelis,Milkshake,182626,False,2003,68,0.881,0.774,1,-6.068,1,0.0439,0.00986,0.0346,0.206,0.759,112.968,"pop, R&B, Dance/Electronic"
+Linkin Park,Breaking the Habit,196906,False,2003,68,0.579,0.849,4,-5.218,0,0.0303,0.108,0.0,0.0909,0.581,100.021,"rock, metal"
+Avant,Read Your Mind,263506,False,2003,56,0.755,0.381,8,-6.696,0,0.0711,0.291,5.13e-06,0.0974,0.695,73.108,"pop, R&B"
+Sugababes,Too Lost In You,237693,False,2003,58,0.586,0.705,1,-4.904,0,0.0287,0.0485,0.0,0.15,0.459,98.014,"pop, R&B"
+Basement Jaxx,Good Luck,282306,False,2003,0,0.571,0.968,5,-3.092,1,0.162,0.0649,3.07e-06,0.592,0.313,154.07,"pop, Dance/Electronic"
+Chingy,One Call Away,276800,False,2003,61,0.765,0.821,4,-5.926,0,0.183,0.0918,0.0,0.217,0.962,162.519,"hip hop, pop, R&B"
+Britney Spears,Everytime,230306,False,2003,63,0.398,0.284,3,-12.852,1,0.0337,0.966,8.57e-05,0.116,0.114,109.599,pop
+G-Unit,Wanna Get To Know You,265026,True,2003,61,0.513,0.826,10,-3.651,0,0.132,0.106,0.0,0.0675,0.889,76.91,"hip hop, pop"
+Evanescence,My Immortal,262533,False,2003,72,0.19,0.265,9,-9.206,1,0.0356,0.863,0.0,0.134,0.101,79.012,metal
+No Doubt,It's My Life,226053,False,2003,60,0.612,0.735,8,-5.074,0,0.0282,0.00202,0.00118,0.328,0.783,126.326,"rock, pop"
+Kelis,Millionaire,224933,False,2003,57,0.68,0.847,11,-6.636,1,0.108,0.0217,0.0,0.0374,0.75,176.051,"pop, R&B, Dance/Electronic"
+Alicia Keys,Diary (feat. Tony! Toni! Tone! & Jermaine Paul),284160,False,2003,55,0.663,0.465,8,-9.711,0,0.0317,0.555,0.00183,0.125,0.279,127.932,"pop, R&B"
+Ludacris,Splash Waterfalls,290760,True,2003,48,0.734,0.846,11,-6.102,1,0.409,0.101,0.0,0.233,0.702,145.894,"hip hop, pop"
+Dido,White Flag,240040,False,2003,44,0.512,0.525,5,-6.823,1,0.0401,0.327,3.3e-06,0.081,0.294,169.951,pop
+Beyoncé,"Me, Myself and I",301133,False,2003,62,0.75,0.458,1,-9.092,1,0.0803,0.226,3.25e-05,0.137,0.536,83.61,"pop, R&B"
+Katie Melua,The Closest Thing to Crazy,252466,False,2003,55,0.562,0.219,4,-13.2,1,0.0312,0.856,0.000296,0.0979,0.106,127.831,"pop, easy listening, jazz"
+JUVENILE,Slow Motion,248200,True,2003,64,0.713,0.734,0,-4.894,0,0.325,0.548,0.0,0.0687,0.89,172.872,"hip hop, pop"
+Outkast,The Way You Move (feat. Sleepy Brown),234000,True,2003,66,0.871,0.597,5,-4.932,0,0.0464,0.126,0.000113,0.0638,0.635,125.999,"hip hop, pop"
+Jessica Simpson,With You,191826,False,2003,57,0.553,0.756,0,-4.583,1,0.108,0.0923,0.0,0.215,0.605,94.487,"pop, R&B"
+Will Young,Leave Right Now,214733,False,2003,55,0.641,0.445,6,-8.674,1,0.0368,0.145,0.0,0.108,0.383,81.931,pop
+Alicia Keys,You Don't Know My Name,366733,False,2003,61,0.264,0.663,9,-8.264,1,0.187,0.59,0.00443,0.342,0.249,167.078,"pop, R&B"
+Alicia Keys,Karma,256000,False,2003,50,0.727,0.736,10,-6.203,1,0.0615,0.0743,0.00311,0.0348,0.687,85.098,"pop, R&B"

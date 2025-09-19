@@ -1,0 +1,100 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Faithless,We Come 1 - Radio Edit,222435,False,2015,53,0.645,0.903,5,-10.587,0,0.0441,0.00188,0.799,0.147,0.61,135.977,"pop, Dance/Electronic"
+Khia,"My Neck, My Back (Lick It)",222560,True,2015,59,0.859,0.625,9,-4.234,0,0.13,0.0296,0.0,0.0537,0.71,102.072,"pop, R&B"
+Creed,One Last Breath - Radio Version,242000,False,2015,47,0.38,0.725,2,-6.094,1,0.0365,0.00571,0.00015,0.3,0.202,130.581,"pop, rock, metal"
+Fedde Le Grand,Put Your Hands Up for Detroit - Radio Edit,150533,False,2015,39,0.814,0.923,7,-4.525,1,0.229,0.0154,0.154,0.0862,0.518,127.919,"pop, Dance/Electronic"
+Fedde Le Grand,Put Your Hands Up For Detroit - Radio Edit,150533,False,2015,0,0.827,0.931,7,-4.474,1,0.202,0.0153,0.21,0.0992,0.491,127.995,"pop, Dance/Electronic"
+Meghan Trainor,All About That Bass,187920,True,2015,72,0.807,0.887,9,-3.726,1,0.0503,0.0573,2.87e-06,0.124,0.961,134.052,pop
+Trey Songz,Na Na,231906,False,2015,62,0.67,0.476,9,-6.253,0,0.0406,0.328,0.0,0.104,0.235,96.975,"hip hop, pop, R&B"
+Jeremih,Don't Tell 'Em,266840,True,2015,74,0.856,0.527,2,-5.225,1,0.0997,0.392,0.0,0.11,0.386,98.052,"hip hop, pop, R&B"
+Mark Ronson,Uptown Funk (feat. Bruno Mars),269666,True,2015,82,0.856,0.609,0,-7.223,1,0.0824,0.00801,8.15e-05,0.0344,0.928,114.988,pop
+Wiz Khalifa,See You Again (feat. Charlie Puth),229525,False,2015,81,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,"hip hop, pop"
+Justin Bieber,What Do You Mean?,205680,False,2015,77,0.845,0.567,5,-8.118,0,0.0956,0.59,0.00142,0.0811,0.793,125.02,pop
+Major Lazer,Lean On (feat. MØ & DJ Snake),176561,False,2015,73,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,"hip hop, pop, Dance/Electronic"
+Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",252534,False,2015,78,0.262,0.606,8,-6.646,1,0.0484,0.247,0.0,0.125,0.275,189.857,"pop, rock, Dance/Electronic"
+Demi Lovato,Cool for the Summer,214746,True,2015,0,0.586,0.613,5,-5.593,0,0.0386,0.00441,0.000183,0.0853,0.319,114.101,pop
+The Weeknd,The Hills,242253,True,2015,84,0.585,0.564,0,-7.063,0,0.0515,0.0671,0.0,0.135,0.137,113.003,"pop, R&B"
+The Neighbourhood,Daddy Issues,260173,False,2015,85,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,"rock, pop"
+Deorro,Five More Hours,211975,False,2015,66,0.699,0.883,5,-3.226,0,0.219,0.0288,0.0,0.817,0.499,127.961,"pop, Dance/Electronic"
+Adam Lambert,Ghost Town,208330,True,2015,46,0.703,0.736,4,-5.709,0,0.046,0.186,1.92e-05,0.174,0.274,119.955,pop
+Rae Sremmurd,No Type,200080,True,2015,71,0.891,0.486,6,-7.803,1,0.159,0.0158,3.78e-06,0.0925,0.239,125.01,"hip hop, pop"
+Taylor Swift,Bad Blood,200106,False,2015,70,0.654,0.655,11,-7.388,0,0.106,0.0294,0.0,0.139,0.221,170.16,pop
+Flo Rida,GDFR (feat. Sage the Gemini & Lookas),190185,False,2015,49,0.657,0.827,5,-4.036,1,0.0734,0.000704,0.00534,0.065,0.69,145.889,"hip hop, pop"
+Robin Schulz,Sugar (feat. Francesco Yates),219043,False,2015,76,0.636,0.815,5,-5.098,0,0.0581,0.0185,0.0,0.163,0.636,123.063,"pop, Dance/Electronic"
+Calvin Harris,How Deep Is Your Love,212640,False,2015,76,0.738,0.868,11,-4.373,0,0.0731,0.0392,0.00169,0.388,0.336,122.003,"hip hop, pop, Dance/Electronic"
+Trey Songz,Na Na,231906,False,2015,62,0.67,0.476,9,-6.253,0,0.0406,0.328,0.0,0.104,0.235,96.975,"hip hop, pop, R&B"
+Fall Out Boy,Centuries,228360,False,2015,80,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042,rock
+Twenty One Pilots,Stressed Out,202333,False,2015,83,0.734,0.637,4,-5.677,0,0.141,0.0462,2.29e-05,0.0602,0.648,169.977,rock
+Fifth Harmony,Worth It (feat. Kid Ink),224573,False,2015,73,0.884,0.765,8,-3.865,1,0.0882,0.063,7.04e-06,0.118,0.594,99.987,pop
+KALEO,Way down We Go,219560,False,2015,63,0.59,0.578,10,-5.798,0,0.0528,0.612,0.000162,0.0837,0.264,81.663,"rock, classical"
+Major Lazer,Light It Up (feat. Nyla & Fuse ODG) - Remix,166138,False,2015,49,0.746,0.877,9,-3.782,0,0.0666,0.0375,0.000833,0.233,0.751,107.985,"hip hop, pop, Dance/Electronic"
+Martin Solveig,Intoxicated - New Radio Mix,159693,False,2015,48,0.8,0.677,0,-4.023,1,0.0393,0.00563,0.00409,0.0838,0.547,125.004,"pop, Dance/Electronic"
+Avicii,Waiting For Love,230613,False,2015,79,0.579,0.736,6,-3.863,0,0.0527,0.31,0.0,0.198,0.613,127.999,"pop, Dance/Electronic"
+The Weeknd,In The Night,235653,True,2015,0,0.48,0.682,7,-4.94,1,0.13,0.0696,0.0,0.0463,0.506,167.939,"pop, R&B"
+Galantis,Runaway (U & I),227073,False,2015,74,0.506,0.805,1,-4.119,1,0.0469,0.00711,0.00193,0.0856,0.383,126.008,"pop, Dance/Electronic"
+Rihanna,Bitch Better Have My Money,219305,True,2015,73,0.781,0.728,1,-4.981,1,0.0621,0.0509,1.94e-06,0.257,0.395,102.99,"hip hop, pop, R&B"
+Zara Larsson,Lush Life,202213,False,2015,0,0.658,0.741,7,-2.86,0,0.0536,0.141,0.0,0.189,0.789,98.024,"pop, Dance/Electronic"
+One Direction,Drag Me Down,192120,False,2015,79,0.73,0.703,0,-5.672,0,0.0369,0.109,0.0,0.0657,0.595,138.113,pop
+Travis Scott,Antidote,262693,True,2015,73,0.713,0.526,1,-5.046,1,0.032,0.00767,0.000148,0.124,0.131,131.05,"hip hop, Dance/Electronic"
+Years & Years,King,215360,False,2015,0,0.559,0.848,4,-4.125,0,0.0388,0.0665,0.0,0.382,0.466,119.977,"pop, Dance/Electronic"
+Demi Lovato,Confident,205745,True,2015,64,0.594,0.749,3,-6.251,1,0.0677,0.00188,0.000139,0.0869,0.344,130.064,pop
+Selena Gomez,Same Old Love,229080,False,2015,69,0.672,0.593,11,-4.01,0,0.0304,0.0223,0.0,0.214,0.438,98.02,pop
+Pia Mia,Do It Again,207746,True,2015,72,0.712,0.564,8,-6.527,1,0.047,0.0266,0.0,0.0874,0.411,95.95,"pop, R&B"
+Flo Rida,My House,192190,False,2015,76,0.688,0.702,7,-4.792,0,0.0499,0.0215,0.0,0.128,0.74,94.006,"hip hop, pop"
+Silentó,Watch Me (Whip / Nae Nae),185131,False,2015,0,0.819,0.768,8,-8.522,1,0.134,0.234,0.0,0.334,0.964,139.982,hip hop
+Chris Brown,Ayo,225226,True,2015,71,0.823,0.563,6,-5.095,1,0.0443,0.0399,0.0,0.0851,0.682,98.031,"hip hop, pop, R&B"
+Fetty Wap,Trap Queen,222093,True,2015,68,0.746,0.873,7,-3.803,1,0.128,0.0244,0.0,0.354,0.817,148.075,"hip hop, pop"
+Lana Del Rey,High By The Beach,257573,True,2015,67,0.536,0.486,11,-11.067,0,0.0346,0.244,0.00788,0.12,0.0968,131.988,pop
+Jeremih,oui,238320,False,2015,77,0.418,0.724,5,-3.724,1,0.0964,0.213,0.0,0.112,0.604,78.521,"hip hop, pop, R&B"
+Selena Gomez,Kill Em With Kindness,217906,False,2015,64,0.757,0.884,10,-5.488,0,0.0404,0.00795,5.87e-05,0.0973,0.398,120.012,pop
+Birdy,Let It All Go,280757,False,2015,68,0.383,0.43,10,-8.644,1,0.0302,0.817,1.04e-06,0.0869,0.174,107.005,pop
+Fetty Wap,679 (feat. Remy Boyz),196693,True,2015,74,0.618,0.717,7,-5.738,1,0.318,0.00256,0.0,0.625,0.603,190.05,"hip hop, pop"
+The Weeknd,Can't Feel My Face,213520,False,2015,79,0.705,0.769,9,-5.526,0,0.0425,0.113,0.0,0.105,0.583,107.949,"pop, R&B"
+SAYGRACE,You Don't Own Me (feat. G-Eazy),199314,False,2015,55,0.336,0.664,7,-5.68,1,0.102,0.166,1.31e-06,0.0575,0.294,186.394,"pop, R&B"
+X Ambassadors,Renegades,195200,False,2015,75,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,"hip hop, rock, pop"
+R. City,Locked Away (feat. Adam Levine),227480,False,2015,77,0.509,0.671,1,-5.709,1,0.0678,0.304,0.0,0.0452,0.55,118.413,pop
+Tame Impala,The Less I Know The Better,216320,True,2015,83,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879,metal
+Selena Gomez,Good For You,221560,True,2015,0,0.6,0.676,5,-6.447,0,0.0652,0.154,0.0,0.0741,0.217,88.928,pop
+Fetty Wap,My Way (feat. Monty),213053,True,2015,55,0.748,0.741,6,-3.103,1,0.0531,0.00419,0.0,0.147,0.537,128.077,"hip hop, pop"
+Alessia Cara,Here,199453,False,2015,0,0.379,0.799,0,-4.031,1,0.163,0.0804,0.0,0.0793,0.359,120.892,"pop, R&B"
+Sam Smith,"Writing's On The Wall - From ""Spectre"" Soundtrack",278987,False,2015,66,0.261,0.302,5,-8.19,0,0.0339,0.769,2.57e-06,0.0863,0.0883,81.418,pop
+David Guetta,Bang My Head (feat. Sia & Fetty Wap),193333,False,2015,47,0.599,0.869,0,-3.697,1,0.0789,0.0525,0.00719,0.103,0.593,108.061,"hip hop, pop, Dance/Electronic"
+Meek Mill,All Eyes on You (feat. Chris Brown & Nicki Minaj),223973,True,2015,68,0.589,0.658,11,-5.288,0,0.203,0.0242,0.0,0.118,0.251,77.521,"hip hop, pop"
+Big Sean,I Don't Fuck With You,284386,True,2015,75,0.824,0.733,1,-5.474,1,0.0613,0.0362,0.0,0.325,0.395,97.972,"hip hop, pop"
+Drake,Jumpman,205879,True,2015,0,0.853,0.558,1,-7.448,1,0.202,0.0462,0.0,0.341,0.654,142.079,"hip hop, pop, R&B"
+Petit Biscuit,Sunset Lover,237792,False,2015,71,0.783,0.467,6,-9.474,1,0.0503,0.729,0.809,0.109,0.236,90.838,Dance/Electronic
+Shawn Mendes,Stitches,206880,False,2015,78,0.746,0.754,1,-6.684,1,0.0676,0.0152,0.0,0.0486,0.746,149.882,pop
+Flo Rida,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",224258,False,2015,67,0.854,0.766,9,-4.697,0,0.141,0.0242,0.0,0.0793,0.784,118.004,"hip hop, pop"
+Jack Ü,Where Are Ü Now (with Justin Bieber),250285,False,2015,74,0.432,0.781,4,-4.038,0,0.0567,0.041,4.21e-06,0.0789,0.197,139.432,"pop, Dance/Electronic"
+Ellie Goulding,On My Mind,213445,False,2015,0,0.699,0.688,2,-6.607,0,0.0522,0.264,4.11e-06,0.0863,0.742,154.943,"pop, rock, Dance/Electronic"
+Bryson Tiller,Don't,198293,True,2015,78,0.765,0.356,11,-5.556,0,0.195,0.223,0.0,0.0963,0.189,96.991,"hip hop, pop, R&B"
+Rich Homie Quan,"Flex (Ooh, Ooh, Ooh)",176674,True,2015,1,0.676,0.615,6,-7.534,0,0.0496,0.0384,0.0,0.341,0.883,163.993,"hip hop, pop"
+Joel Adams,Please Don't Go,210580,False,2015,71,0.513,0.768,4,-4.868,0,0.0587,0.0118,1.94e-05,0.294,0.235,84.264,R&B
+Zedd,I Want You To Know,238800,False,2015,0,0.561,0.877,9,-2.215,0,0.0659,0.00621,8.11e-06,0.28,0.375,130.003,"hip hop, pop, Dance/Electronic"
+Jonas Blue,Fast Car,212424,False,2015,67,0.644,0.57,9,-6.994,1,0.052,0.484,0.0,0.299,0.527,113.945,"pop, Dance/Electronic"
+BØRNS,Electric Love,218173,False,2015,0,0.373,0.858,6,-6.536,0,0.0889,0.00407,0.0016,0.256,0.605,120.063,"rock, pop"
+Justin Bieber,Sorry,200786,False,2015,80,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,pop
+Little Mix,Black Magic,211773,False,2015,1,0.777,0.896,4,-4.467,1,0.0619,0.0352,0.0,0.317,0.843,111.987,pop
+One Direction,Perfect,230333,False,2015,77,0.647,0.823,2,-5.231,1,0.0762,0.0598,0.0,0.119,0.396,99.933,pop
+Years & Years,Shine,255506,False,2015,55,0.667,0.716,1,-5.21,0,0.0349,0.189,0.0,0.104,0.493,108.002,"pop, Dance/Electronic"
+Meghan Trainor,Lips Are Movin,182666,False,2015,70,0.775,0.825,7,-5.402,1,0.0464,0.0506,1.03e-06,0.111,0.95,139.091,pop
+Justin Bieber,Love Yourself,233720,False,2015,0,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,pop
+Adele,Hello,295502,False,2015,1,0.471,0.431,5,-6.129,0,0.0342,0.329,0.0,0.0854,0.289,157.98,"pop, R&B"
+Coldplay,Hymn for the Weekend,258266,False,2015,82,0.491,0.693,0,-6.487,0,0.0377,0.211,6.92e-06,0.325,0.412,90.027,"rock, pop"
+Justin Bieber,Sorry,200786,False,2015,80,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,pop
+WILLOW,Wait a Minute!,196520,False,2015,86,0.764,0.705,3,-5.279,0,0.0278,0.0371,1.94e-05,0.0943,0.672,101.003,"pop, R&B, Dance/Electronic"
+G-Eazy,"Me, Myself & I",251466,True,2015,77,0.756,0.674,0,-6.518,0,0.0959,0.0184,0.0,0.158,0.389,111.995,"hip hop, pop"
+Shawn Mendes,I Know What You Did Last Summer,223853,False,2015,73,0.687,0.761,9,-4.582,0,0.0876,0.102,0.0,0.147,0.743,113.939,pop
+Selena Gomez,Same Old Love,229080,False,2015,69,0.672,0.593,11,-4.01,0,0.0304,0.0223,0.0,0.214,0.438,98.02,pop
+Twenty One Pilots,Ride,214506,False,2015,80,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,rock
+Flo Rida,My House,192190,False,2015,76,0.688,0.702,7,-4.792,0,0.0499,0.0215,0.0,0.128,0.74,94.006,"hip hop, pop"
+MNEK,Never Forget You,213427,False,2015,45,0.583,0.732,11,-5.728,0,0.0457,0.00312,9.86e-06,0.269,0.276,145.992,Dance/Electronic
+Coldplay,Adventure of a Lifetime,263786,False,2015,76,0.638,0.924,7,-3.887,1,0.036,0.00205,0.000175,0.149,0.53,111.995,"rock, pop"
+X Ambassadors,Renegades,195200,False,2015,75,0.526,0.862,2,-6.003,1,0.0905,0.0144,0.0597,0.229,0.528,90.052,"hip hop, rock, pop"
+Kiiara,Gold,225882,False,2015,55,0.6,0.412,8,-9.343,1,0.344,0.615,0.0025,0.134,0.408,113.049,"rock, pop, Dance/Electronic"
+Sigala,Sweet Lovin' - Radio Edit,202149,False,2015,46,0.683,0.91,10,-1.231,1,0.0515,0.0553,4.78e-06,0.336,0.674,124.977,"pop, Dance/Electronic"
+Drake,Jumpman,205879,True,2015,72,0.852,0.553,1,-7.286,1,0.187,0.0559,0.0,0.332,0.656,142.079,"hip hop, pop, R&B"
+The Chainsmokers,Roses,226738,False,2015,73,0.713,0.802,4,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,"pop, Dance/Electronic"
+Bryson Tiller,Don't,198293,True,2015,78,0.765,0.356,11,-5.556,0,0.195,0.223,0.0,0.0963,0.189,96.991,"hip hop, pop, R&B"
+Jonas Blue,Fast Car,212424,False,2015,1,0.459,0.587,9,-6.983,1,0.0785,0.453,0.0,0.307,0.581,113.901,"pop, Dance/Electronic"
+Bryson Tiller,Exchange,194613,True,2015,76,0.525,0.433,6,-10.598,1,0.185,0.107,0.0,0.135,0.276,160.108,"hip hop, pop, R&B"

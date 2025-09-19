@@ -1,0 +1,108 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+DJ Ötzi,Hey Baby (Radio Mix),219240,False,2010,58,0.666,0.968,10,-3.196,1,0.046,0.123,0.0,0.347,0.834,135.099,"pop, easy listening, Dance/Electronic"
+Kelly Rowland,Work,207920,False,2010,34,0.888,0.823,10,-6.351,0,0.0538,0.00499,0.0,0.291,0.623,102.757,"hip hop, pop, R&B"
+David Guetta,Sexy Bitch (feat. Akon),195853,True,2010,75,0.813,0.627,11,-5.018,0,0.0486,0.0771,0.000616,0.131,0.801,130.011,"hip hop, pop, Dance/Electronic"
+David Guetta,When Love Takes Over (feat. Kelly Rowland),191000,False,2010,69,0.675,0.862,11,-4.614,1,0.0253,0.0165,0.000427,0.169,0.498,129.967,"hip hop, pop, Dance/Electronic"
+P!nk,Sober,251440,False,2010,46,0.614,0.792,6,-4.907,1,0.0299,0.0653,0.0,0.195,0.407,91.066,pop
+Jason Derulo,Whatcha Say,221253,False,2010,70,0.615,0.711,11,-5.507,1,0.0779,0.0444,0.0,0.145,0.711,144.036,"hip hop, pop"
+Drake,Best I Ever Had,258760,True,2010,54,0.431,0.894,5,-2.673,0,0.33,0.0951,0.0,0.188,0.605,162.161,"hip hop, pop, R&B"
+Bruno Mars,Just the Way You Are,220734,False,2010,77,0.635,0.841,5,-5.379,1,0.0422,0.0134,0.0,0.0622,0.424,109.021,pop
+Eminem,Love The Way You Lie,263373,True,2010,81,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,hip hop
+Stromae,Alors on danse - Radio Edit,206066,False,2010,77,0.791,0.59,1,-9.206,0,0.0793,0.0994,0.00203,0.065,0.714,119.951,pop
+Kesha,TiK ToK,199693,False,2010,80,0.755,0.837,2,-2.718,0,0.142,0.0991,0.0,0.289,0.714,120.028,"pop, Dance/Electronic"
+David Guetta,Memories (feat. Kid Cudi),210853,False,2010,76,0.546,0.916,8,-3.932,1,0.255,0.00144,4.34e-06,0.251,0.375,129.983,"hip hop, pop, Dance/Electronic"
+Taio Cruz,Dynamite,202613,False,2010,80,0.751,0.783,4,-3.724,1,0.0859,0.00379,0.0,0.036,0.816,119.975,"hip hop, pop"
+Rihanna,Only Girl (In The World),235493,False,2010,73,0.789,0.716,11,-4.241,0,0.0432,0.129,1.07e-05,0.069,0.611,125.906,"hip hop, pop, R&B"
+Kesha,Take It Off,215200,False,2010,68,0.729,0.675,5,-5.292,0,0.0286,4.14e-05,0.00126,0.0867,0.74,125.036,"pop, Dance/Electronic"
+INNA,Hot - Play & Win Radio Version,217036,False,2010,42,0.817,0.939,7,-6.079,0,0.28,0.0798,0.441,0.431,0.599,128.0,pop
+Far East Movement,Like A G6,216893,False,2010,73,0.435,0.837,3,-8.126,1,0.449,0.00676,0.0,0.117,0.778,124.913,"hip hop, pop"
+David Guetta,Gettin' Over You (feat. Fergie & LMFAO),188000,False,2010,62,0.615,0.913,10,-5.077,0,0.0816,0.178,0.0,0.0773,0.45,129.944,"hip hop, pop, Dance/Electronic"
+Duck Sauce,Barbra Streisand - Radio Edit,196533,False,2010,46,0.769,0.922,1,-1.966,1,0.108,0.000939,0.197,0.233,0.506,127.965,Dance/Electronic
+DJ Fresh,Gold Dust - Radio Edit,192446,False,2010,63,0.451,0.948,0,-0.74,1,0.147,0.255,0.0,0.392,0.295,176.985,"pop, Dance/Electronic"
+Edward Maya,Stereo Love - Radio Edit,184573,False,2010,66,0.799,0.783,1,-3.896,0,0.0322,0.0346,0.0186,0.0757,0.586,127.041,pop
+Taio Cruz,Break Your Heart,201546,False,2010,74,0.607,0.934,3,-4.217,1,0.0314,0.0327,0.0,0.0909,0.568,122.01,"hip hop, pop"
+Eminem,Not Afraid,248133,True,2010,79,0.855,0.954,0,-1.19,0,0.264,0.529,0.0,0.205,0.668,114.635,hip hop
+Ne-Yo,Beautiful Monster,251573,False,2010,57,0.708,0.771,5,-6.99,0,0.131,0.209,5.32e-06,0.277,0.494,128.013,"pop, R&B"
+3OH!3,Starstrukk,203093,False,2010,32,0.605,0.795,11,-6.086,0,0.0712,0.00153,0.0,0.207,0.263,139.896,"hip hop, pop, rock"
+Black Eyed Peas,The Time (Dirty Bit),307640,False,2010,69,0.816,0.813,6,-7.798,0,0.0664,0.0662,2.77e-06,0.602,0.436,127.979,"hip hop, pop"
+Swedish House Mafia,One (Your Name) - Radio Edit,163246,False,2010,63,0.733,0.673,9,-6.572,0,0.0333,0.0132,0.0049,0.16,0.636,125.061,"pop, Dance/Electronic"
+Usher,DJ Got Us Fallin' In Love (feat. Pitbull),220800,False,2010,79,0.663,0.861,7,-3.398,0,0.109,0.0338,0.0,0.082,0.654,119.963,"hip hop, pop, R&B"
+Flo Rida,Club Can't Handle Me (feat. David Guetta),234560,False,2010,76,0.616,0.869,0,-3.911,1,0.0327,0.0283,0.0,0.064,0.473,127.966,"hip hop, pop"
+Sean Kingston,Eenie Meenie,201946,False,2010,74,0.72,0.607,1,-4.168,1,0.0322,0.0543,0.0,0.113,0.828,121.223,"hip hop, pop, R&B"
+Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),263773,True,2010,58,0.76,0.595,1,-6.366,1,0.0391,0.00544,0.0,0.241,0.361,131.497,"hip hop, pop"
+Tinie Tempah,Written in the Stars (feat. Eric Turner),207653,False,2010,57,0.656,0.931,7,-4.188,1,0.0981,0.0613,0.0,0.219,0.534,91.881,"hip hop, pop, Dance/Electronic"
+Bruno Mars,Talking to the Moon,217866,False,2010,76,0.498,0.59,1,-4.721,0,0.032,0.511,0.0,0.107,0.0784,145.867,pop
+Miley Cyrus,Can't Be Tamed,168213,False,2010,0,0.63,0.91,11,-2.919,0,0.144,0.0287,0.0,0.196,0.743,116.98,pop
+Mike Posner,Cooler Than Me - Single Mix,213293,False,2010,75,0.768,0.82,7,-4.63,0,0.0474,0.179,0.0,0.689,0.625,129.965,"hip hop, pop, Dance/Electronic"
+Yolanda Be Cool,We No Speak Americano (JT Radio Edit),157438,False,2010,1,0.901,0.805,6,-5.005,1,0.0464,0.0712,0.0812,0.0923,0.737,124.996,Dance/Electronic
+Tinie Tempah,Pass Out,268053,True,2010,53,0.693,0.891,1,-3.261,1,0.296,0.0281,0.0,0.143,0.532,91.1,"hip hop, pop, Dance/Electronic"
+Trey Songz,Bottoms Up (feat. Nicki Minaj),242013,True,2010,0,0.845,0.601,1,-5.283,1,0.161,0.0205,0.0,0.385,0.329,74.008,"hip hop, pop, R&B"
+Enrique Iglesias,I Like It,231373,False,2010,63,0.648,0.942,10,-2.881,0,0.0878,0.021,0.0,0.0594,0.73,129.007,"pop, latin"
+Tim Berg,Seek Bromance - Avicii’s Vocal Edit,203960,False,2010,0,0.515,0.837,11,-2.552,1,0.0401,0.0868,0.0,0.0403,0.52,126.026,"pop, Dance/Electronic"
+Usher,OMG (feat. will.i.am),269493,False,2010,73,0.781,0.745,4,-5.81,0,0.0332,0.198,1.14e-05,0.36,0.326,129.998,"hip hop, pop, R&B"
+Maroon 5,Misery,216200,False,2010,67,0.703,0.81,4,-4.874,0,0.0424,0.000315,0.0,0.216,0.726,102.978,pop
+Rihanna,Man Down,267000,True,2010,68,0.47,0.904,0,-4.024,0,0.177,0.0436,0.0,0.0491,0.557,155.788,"hip hop, pop, R&B"
+3OH!3,My First Kiss (feat. Ke$ha),192440,False,2010,62,0.682,0.889,0,-4.166,1,0.0804,0.00564,0.0,0.36,0.827,138.021,"hip hop, pop, rock"
+Justin Bieber,Baby,214240,False,2010,81,0.728,0.859,5,-5.237,0,0.137,0.0401,0.0,0.111,0.535,65.043,pop
+Swedish House Mafia,Miami 2 Ibiza - Swedish House Mafia vs. Tinie Tempah,206460,True,2010,54,0.736,0.929,7,-5.89,0,0.0674,0.00237,1.11e-05,0.402,0.658,125.03,"pop, Dance/Electronic"
+Ludacris,How Low,201586,True,2010,63,0.785,0.498,1,-6.977,1,0.0533,0.00248,1.23e-06,0.224,0.418,143.96,"hip hop, pop"
+Kesha,Blah Blah Blah (feat. 3OH!3),172053,True,2010,61,0.752,0.836,10,-3.173,1,0.115,0.0843,0.000425,0.424,0.519,120.003,"pop, Dance/Electronic"
+DJ Khaled,"All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross)",232506,True,2010,51,0.544,0.781,10,-3.616,1,0.189,0.014,0.0,0.161,0.277,150.1,"hip hop, pop"
+Jason Derulo,In My Head,199026,False,2010,65,0.762,0.748,0,-4.15,0,0.033,0.0266,0.0,0.348,0.851,110.009,"hip hop, pop"
+Aloe Blacc,I Need A Dollar,243053,False,2010,1,0.84,0.482,6,-7.116,0,0.0333,0.202,0.0,0.0873,0.957,95.498,R&B
+B.o.B,Airplanes (feat. Hayley Williams of Paramore),180480,True,2010,74,0.66,0.867,6,-4.285,0,0.116,0.11,0.0,0.0368,0.377,93.033,"hip hop, pop"
+Ludacris,My Chick Bad,216933,True,2010,68,0.624,0.723,1,-6.782,1,0.378,0.172,0.0,0.483,0.757,84.789,"hip hop, pop"
+Nelly,Just A Dream,237800,False,2010,73,0.531,0.752,1,-6.161,1,0.0305,0.0421,0.0,0.12,0.103,89.917,"hip hop, pop, R&B"
+Rihanna,What's My Name?,263173,False,2010,66,0.692,0.786,2,-2.959,1,0.069,0.23,0.0,0.0797,0.583,100.025,"hip hop, pop, R&B"
+Shontelle,Impossible,226533,False,2010,35,0.599,0.624,8,-3.631,1,0.0343,0.385,0.0,0.125,0.539,90.034,"pop, R&B"
+Take That,The Flood,289359,False,2010,57,0.514,0.83,11,-6.077,0,0.044,0.0378,1.43e-06,0.122,0.138,100.631,pop
+Jason Derulo,Whatcha Say,221253,False,2010,70,0.615,0.711,11,-5.507,1,0.0779,0.0444,0.0,0.145,0.711,144.036,"hip hop, pop"
+Drake,Over,233560,True,2010,57,0.325,0.848,7,-5.611,1,0.279,0.0109,0.0,0.124,0.433,100.093,"hip hop, pop, R&B"
+Example,Kickstarts,181826,False,2010,63,0.61,0.836,5,-4.455,1,0.0573,0.00374,0.0,0.358,0.657,126.056,"pop, Dance/Electronic"
+Plan B,She Said,208853,False,2010,62,0.72,0.538,3,-5.85,0,0.141,0.301,3.03e-06,0.144,0.815,147.007,Dance/Electronic
+The Saturdays,Higher,207613,False,2010,61,0.639,0.862,10,-3.292,1,0.0341,0.049,6.81e-06,0.264,0.596,117.011,"pop, Dance/Electronic"
+Usher,Hey Daddy (Daddy's Home),224093,False,2010,60,0.59,0.698,11,-4.262,1,0.0286,0.000176,0.0,0.107,0.352,95.975,"hip hop, pop, R&B"
+Lil Wayne,Right Above It,271946,True,2010,68,0.376,0.841,3,-4.348,0,0.356,0.0435,0.0,0.578,0.463,76.052,"hip hop, pop"
+The Wanted,All Time Low,205200,False,2010,18,0.689,0.615,8,-5.022,0,0.0563,0.352,0.0,0.0789,0.783,134.036,"pop, Dance/Electronic"
+Kesha,Your Love Is My Drug,187133,False,2010,69,0.826,0.612,1,-3.891,1,0.0982,0.00681,0.0,0.0889,0.756,120.057,"pop, Dance/Electronic"
+Ellie Goulding,Starry Eyed,176613,False,2010,54,0.504,0.814,5,-5.346,0,0.0389,0.135,1.42e-05,0.324,0.596,149.967,"pop, rock, Dance/Electronic"
+Drake,Find Your Love,208946,False,2010,56,0.625,0.613,6,-6.005,0,0.173,0.0209,0.0,0.0286,0.738,96.033,"hip hop, pop, R&B"
+Jason Derulo,Ridin' Solo,215746,False,2010,66,0.442,0.83,9,-4.02,1,0.146,0.128,0.0,0.129,0.578,89.338,"hip hop, pop"
+Two Door Cinema Club,What You Know,189693,False,2010,0,0.55,0.753,6,-4.003,0,0.0407,0.000665,7.74e-06,0.0921,0.841,139.048,"World/Traditional, rock, pop"
+B.o.B,Nothin' on You (feat. Bruno Mars),268320,False,2010,74,0.688,0.853,10,-5.814,1,0.0493,0.386,0.0,0.0862,0.743,103.993,"hip hop, pop"
+Katy Perry,Teenage Dream,227741,False,2010,69,0.719,0.798,10,-4.582,1,0.0361,0.0162,2.34e-06,0.134,0.591,120.011,pop
+Travie McCoy,Billionaire (feat. Bruno Mars),211160,True,2010,72,0.633,0.673,6,-6.403,0,0.258,0.297,0.0,0.206,0.659,86.776,"hip hop, pop"
+Lady A,Need You Now,236440,False,2010,73,0.581,0.717,4,-4.433,1,0.0318,0.0298,0.000186,0.243,0.316,107.884,"pop, country"
+Taylor Swift,Back To December,293026,False,2010,65,0.529,0.67,2,-4.663,1,0.0303,0.117,0.0,0.334,0.286,141.893,pop
+Neon Trees,Animal,212306,False,2010,64,0.482,0.829,5,-5.576,1,0.0437,0.00034,0.0,0.378,0.739,147.99,"rock, pop"
+Robyn,Dancing On My Own,288670,False,2010,0,0.687,0.865,6,-4.663,1,0.0349,0.0743,0.225,0.0966,0.261,117.015,"pop, Dance/Electronic"
+The Band Perry,If I Die Young,222773,False,2010,64,0.606,0.497,4,-6.611,1,0.0277,0.348,0.0,0.275,0.362,130.739,country
+B.o.B,Magic (feat. Rivers Cuomo),196133,False,2010,65,0.549,0.932,8,-4.11,0,0.343,0.0127,0.0,0.347,0.787,82.439,"hip hop, pop"
+Maroon 5,"Moves Like Jagger - Studio Recording From ""The Voice"" Performance",201493,False,2010,77,0.722,0.761,11,-4.459,0,0.0475,0.0117,0.0,0.315,0.624,128.044,pop
+Katy Perry,Firework,227893,False,2010,72,0.638,0.832,8,-5.039,1,0.049,0.141,0.0,0.113,0.648,124.071,pop
+Bruno Mars,Grenade,222091,False,2010,78,0.704,0.558,2,-7.273,0,0.0542,0.148,0.0,0.107,0.245,110.444,pop
+David Guetta,Who's That Chick? (feat. Rihanna),201040,False,2010,71,0.675,0.602,11,-4.733,0,0.116,0.00377,0.0,0.0458,0.933,127.938,"hip hop, pop, Dance/Electronic"
+Rihanna,S&M,243533,False,2010,73,0.767,0.682,1,-5.02,1,0.042,0.0113,0.00016,0.104,0.833,127.975,"hip hop, pop, R&B"
+Kesha,Blow,219973,False,2010,69,0.753,0.729,11,-3.862,0,0.0392,0.00334,5.66e-05,0.073,0.812,120.013,"pop, Dance/Electronic"
+Taio Cruz,Higher,187626,False,2010,61,0.672,0.907,8,-5.069,0,0.0721,0.0048,3.4e-05,0.156,0.746,128.027,"hip hop, pop"
+Usher,More - RedOne Jimmy Joker Remix,219986,False,2010,67,0.551,0.893,7,-2.628,1,0.0543,0.00166,0.0,0.348,0.794,125.083,"hip hop, pop, R&B"
+Black Eyed Peas,Just Can’t Get Enough,219426,False,2010,76,0.659,0.628,0,-8.685,0,0.179,0.186,0.0,0.105,0.262,94.05,"hip hop, pop"
+Edward Maya,Stereo Love - Radio Edit,184573,False,2010,66,0.799,0.783,1,-3.896,0,0.0322,0.0346,0.0186,0.0757,0.586,127.041,pop
+Enrique Iglesias,Tonight (I'm Fuckin' You),232213,True,2010,63,0.648,0.89,0,-3.982,0,0.0523,0.0294,3.58e-06,0.116,0.321,125.953,"pop, latin"
+Jeremih,Down On Me,228453,False,2010,72,0.7,0.598,2,-7.783,1,0.114,0.0369,0.0,0.111,0.594,160.041,"hip hop, pop, R&B"
+Waka Flocka Flame,No Hands (feat. Roscoe Dash & Wale),263773,True,2010,76,0.76,0.595,1,-6.366,1,0.0391,0.00544,0.0,0.241,0.361,131.497,"hip hop, pop"
+Far East Movement,Rocketeer,211253,False,2010,61,0.664,0.845,4,-6.115,0,0.0461,0.181,0.0,0.267,0.357,96.005,"hip hop, pop"
+Kesha,We R Who We R,204760,False,2010,71,0.736,0.817,8,-4.9,1,0.0407,0.00987,0.00167,0.117,0.653,119.95,"pop, Dance/Electronic"
+Kanye West,All Of The Lights,299613,True,2010,76,0.531,0.803,1,-3.284,1,0.0717,0.0796,1.71e-05,0.176,0.221,142.113,hip hop
+Miguel,Sure Thing,195373,False,2010,78,0.684,0.607,11,-8.127,0,0.1,0.0267,0.000307,0.191,0.498,81.001,"pop, R&B"
+Diddy - Dirty Money,Coming Home,238693,False,2010,69,0.392,0.839,7,-1.921,1,0.193,0.158,0.0,0.3,0.232,168.001,"hip hop, pop, R&B"
+Rihanna,What's My Name?,263173,False,2010,66,0.692,0.786,2,-2.959,1,0.069,0.23,0.0,0.0797,0.583,100.025,"hip hop, pop, R&B"
+Nicki Minaj,Super Bass,200013,True,2010,0,0.72,0.861,11,-4.339,1,0.209,0.269,5.11e-06,0.601,0.669,126.991,"hip hop, pop"
+Jason Aldean,Dirt Road Anthem,229413,False,2010,53,0.678,0.739,2,-5.068,1,0.0352,0.32,2.36e-06,0.116,0.658,127.037,country
+Bruno Mars,The Lazy Song,189109,False,2010,75,0.794,0.711,8,-5.124,0,0.0699,0.3,0.0,0.0955,0.955,174.915,pop
+Keri Hilson,Pretty Girl Rock,243920,False,2010,67,0.666,0.87,11,-5.004,0,0.246,0.203,0.0,0.0851,0.9,160.014,"pop, R&B"
+P!nk,F**kin' Perfect,213413,True,2010,60,0.563,0.671,7,-4.788,1,0.0373,0.0422,0.0,0.36,0.45,91.964,pop
+P!nk,Raise Your Glass,202960,True,2010,76,0.7,0.709,7,-5.006,1,0.0838,0.0048,0.0,0.029,0.624,122.019,pop
+Bruno Mars,Marry You,230192,False,2010,75,0.621,0.82,10,-4.865,1,0.0367,0.332,0.0,0.104,0.452,144.905,pop
+The Band Perry,If I Die Young,222773,False,2010,64,0.606,0.497,4,-6.611,1,0.0277,0.348,0.0,0.275,0.362,130.739,country
+Ellie Goulding,Lights - Single Version,210853,False,2010,63,0.682,0.795,8,-6.17,0,0.0367,0.0297,0.0391,0.131,0.78,120.008,"pop, rock, Dance/Electronic"

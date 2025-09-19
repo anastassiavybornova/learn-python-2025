@@ -1,0 +1,108 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Samantha Mumba,Gotta Tell You,201946,False,2018,43,0.729,0.632,0,-8.75,0,0.0279,0.191,0.0,0.166,0.774,109.981,pop
+DB Boulevard,Point Of View - Radio Edit,231166,False,2018,0,0.676,0.715,6,-6.854,1,0.0287,0.00284,0.0746,0.0685,0.275,129.006,Dance/Electronic
+Felix Jaehn,Ain't Nobody (Loves Me Better) (feat. Jasmine Thompson),186146,False,2018,72,0.778,0.566,2,-6.959,0,0.0311,0.672,0.000197,0.0698,0.479,117.971,"hip hop, pop, Dance/Electronic"
+Sigala,Easy Love,229813,False,2018,66,0.68,0.942,9,-4.208,1,0.0631,0.175,0.0013,0.117,0.647,123.976,"pop, Dance/Electronic"
+Alan Walker,Faded,212106,False,2018,78,0.468,0.627,6,-5.085,1,0.0476,0.0281,7.97e-06,0.11,0.159,179.642,Dance/Electronic
+Sean Paul,No Lie,221176,False,2018,84,0.742,0.882,7,-2.862,1,0.117,0.0466,0.0,0.206,0.463,102.04,"hip hop, pop"
+Maroon 5,Don't Wanna Know (feat. Kendrick Lamar),214265,False,2018,68,0.783,0.61,7,-6.124,1,0.0696,0.343,0.0,0.0983,0.418,100.047,pop
+MGMT,Little Dark Age,299960,False,2018,81,0.705,0.712,6,-6.156,1,0.0385,0.0102,0.000855,0.1,0.62,97.512,rock
+Drake,God's Plan,198973,True,2018,81,0.754,0.449,7,-9.211,1,0.109,0.0332,8.29e-05,0.552,0.357,77.169,"hip hop, pop, R&B"
+Post Malone,rockstar (feat. 21 Savage),218146,True,2018,83,0.585,0.52,5,-6.136,0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,hip hop
+Dynoro,In My Mind,184560,False,2018,78,0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-05,0.118,0.163,125.905,"pop, Dance/Electronic"
+Juice WRLD,Lucid Dreams,239835,True,2018,84,0.511,0.566,6,-7.23,0,0.2,0.349,0.0,0.34,0.218,83.903,hip hop
+Zedd,The Middle,184732,False,2018,80,0.753,0.657,7,-3.061,1,0.0449,0.171,0.0,0.112,0.437,107.01,"hip hop, pop, Dance/Electronic"
+Marshmello,FRIENDS,202620,True,2018,78,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,"pop, Dance/Electronic"
+Cardi B,I Like It,253390,True,2018,79,0.816,0.726,5,-3.998,0,0.129,0.099,0.0,0.372,0.65,136.048,"hip hop, pop"
+XXXTENTACION,Moonlight,135090,True,2018,82,0.921,0.537,9,-5.723,0,0.0804,0.556,0.00404,0.102,0.711,128.009,hip hop
+Ariana Grande,no tears left to cry,205920,False,2018,77,0.699,0.713,9,-5.507,0,0.0594,0.04,3.11e-06,0.294,0.354,121.993,pop
+Sheck Wes,Mo Bamba,183906,True,2018,77,0.729,0.625,4,-5.266,1,0.0315,0.194,0.00986,0.248,0.261,146.034,hip hop
+Calvin Harris,One Kiss (with Dua Lipa),214846,False,2018,81,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,"hip hop, pop, Dance/Electronic"
+Tyga,Taste (feat. Offset),232959,True,2018,73,0.884,0.559,0,-7.442,1,0.12,0.0236,0.0,0.101,0.342,97.994,"hip hop, pop"
+Travis Scott,SICKO MODE,312820,True,2018,81,0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,"hip hop, Dance/Electronic"
+Imagine Dragons,Natural,189466,False,2018,80,0.704,0.611,2,-6.112,1,0.0409,0.217,0.0,0.0812,0.22,100.0,rock
+DJ Snake,"Taki Taki (with Selena Gomez, Ozuna & Cardi B)",212500,True,2018,76,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,"hip hop, pop, Dance/Electronic"
+Marshmello,Spotlight,177600,False,2018,71,0.546,0.822,7,-4.483,1,0.151,0.0145,0.0,0.742,0.615,150.06,"pop, Dance/Electronic"
+The Weeknd,Pray For Me (with Kendrick Lamar),211440,True,2018,69,0.735,0.677,2,-4.979,1,0.093,0.0762,2.17e-05,0.111,0.188,100.584,"pop, R&B"
+Billie Eilish,lovely (with Khalid),200185,False,2018,86,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,"pop, Dance/Electronic"
+Migos,Walk It Talk It,276147,True,2018,75,0.907,0.633,2,-5.145,1,0.184,0.0876,2.6e-06,0.106,0.395,145.914,"hip hop, pop"
+Clean Bandit,Solo (feat. Demi Lovato),222653,False,2018,71,0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,"pop, Dance/Electronic"
+Drake,Nonstop,238614,True,2018,77,0.912,0.412,7,-8.074,1,0.123,0.0165,0.0126,0.104,0.423,154.983,"hip hop, pop, R&B"
+6ix9ine,FEFE,179404,True,2018,42,0.931,0.387,1,-9.127,1,0.412,0.088,0.0,0.136,0.376,125.978,hip hop
+The Weeknd,Call Out My Name,228373,False,2018,80,0.461,0.593,1,-4.954,1,0.0356,0.17,0.0,0.307,0.175,134.17,"pop, R&B"
+Nio Garcia,Te Boté - Remix,417920,True,2018,76,0.903,0.675,11,-3.445,0,0.214,0.542,1.28e-05,0.0595,0.442,96.507,latin
+Migos,MotorSport,303076,True,2018,72,0.904,0.518,2,-5.32,1,0.183,0.0305,0.0,0.325,0.188,137.996,"hip hop, pop"
+XXXTENTACION,SAD!,166605,True,2018,82,0.74,0.613,8,-4.88,1,0.145,0.258,0.00372,0.123,0.473,75.023,hip hop
+Becky G,Sin Pijama,188560,False,2018,69,0.791,0.745,11,-3.695,0,0.0464,0.354,2.93e-05,0.104,0.82,94.014,"pop, latin"
+6ix9ine,GUMMO,157643,True,2018,63,0.66,0.775,2,-4.926,1,0.172,0.0553,0.0,0.129,0.635,157.036,hip hop
+The Chainsmokers,Sick Boy,193200,False,2018,69,0.663,0.577,11,-7.518,0,0.0531,0.109,0.0,0.12,0.454,89.996,"pop, Dance/Electronic"
+Jay Rock,"King's Dead (with Kendrick Lamar, Future & James Blake)",229670,True,2018,71,0.645,0.705,1,-5.008,1,0.299,0.000813,0.0,0.128,0.376,137.133,"hip hop, pop"
+Rich The Kid,Plug Walk,175229,True,2018,72,0.876,0.519,11,-6.531,1,0.143,0.202,0.0,0.108,0.158,94.981,"hip hop, pop"
+Kendrick Lamar,All The Stars (with SZA),232186,True,2018,80,0.698,0.633,8,-4.946,1,0.0597,0.0605,0.000194,0.0926,0.552,96.924,hip hop
+Logic,Everyday,204746,True,2018,69,0.667,0.741,1,-4.099,1,0.0378,0.0425,0.0,0.0761,0.422,149.908,"hip hop, pop"
+Ariana Grande,God is a woman,197546,True,2018,78,0.602,0.658,1,-5.934,1,0.0558,0.0233,6e-05,0.237,0.268,145.031,pop
+Rae Sremmurd,Powerglide (feat. Juicy J) - From SR3MM,332300,True,2018,66,0.713,0.831,1,-4.75,0,0.15,0.0168,0.0,0.118,0.584,173.948,"hip hop, pop"
+EO,German,170825,False,2018,67,0.862,0.583,8,-6.26,0,0.0654,0.811,1.86e-05,0.191,0.852,103.019,set()
+girl in red,we fell in love in october,184153,False,2018,82,0.566,0.366,7,-12.808,1,0.028,0.113,0.181,0.155,0.237,129.959,"pop, rock, Dance/Electronic"
+Tiësto,Jackie Chan,215759,True,2018,72,0.747,0.834,3,-2.867,0,0.045,0.374,0.0,0.0586,0.687,128.005,"pop, Dance/Electronic"
+Sofía Reyes,"1, 2, 3 (feat. Jason Derulo & De La Ghetto)",201526,False,2018,65,0.792,0.895,1,-3.112,0,0.0589,0.165,0.0,0.0501,0.794,94.968,"pop, latin"
+5 Seconds of Summer,Youngblood,203417,False,2018,69,0.596,0.854,7,-5.114,0,0.463,0.0169,0.0,0.124,0.152,120.274,pop
+Liam Payne,For You (Fifty Shades Freed) (& Rita Ora),245453,False,2018,62,0.541,0.787,2,-4.618,0,0.0331,0.0167,0.0,0.157,0.2,113.0,pop
+XXXTENTACION,changes,121886,False,2018,79,0.669,0.308,11,-10.068,1,0.029,0.883,0.0,0.0984,0.52,64.934,hip hop
+Maluma,Corazón (feat. Nego do Borel),184720,False,2018,69,0.722,0.738,9,-6.073,0,0.247,0.328,1.47e-05,0.198,0.748,198.075,latin
+Cardi B,Bodak Yellow,223712,True,2018,72,0.926,0.703,11,-6.337,0,0.103,0.0659,0.0,0.231,0.485,125.022,"hip hop, pop"
+Lil Baby,Yes Indeed,142273,True,2018,79,0.963,0.346,5,-9.309,0,0.53,0.0355,0.0,0.108,0.562,119.957,hip hop
+Jonas Blue,Rise,194407,False,2018,70,0.687,0.785,1,-4.65,1,0.0333,0.327,0.0,0.203,0.655,106.046,"pop, Dance/Electronic"
+David Guetta,Flames,194680,False,2018,59,0.631,0.649,5,-5.892,0,0.0385,0.0817,3.8e-06,0.0934,0.421,93.95,"hip hop, pop, Dance/Electronic"
+Ozuna,Vaina Loca,176133,False,2018,72,0.754,0.805,6,-4.249,1,0.0752,0.315,0.0,0.203,0.555,93.982,latin
+Charlie Puth,How Long,200853,False,2018,72,0.845,0.561,1,-5.253,0,0.0778,0.211,3.49e-06,0.0383,0.811,109.974,pop
+Post Malone,Better Now,231266,True,2018,80,0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,hip hop
+BlocBoy JB,Look Alive (feat. Drake),181263,True,2018,73,0.922,0.581,10,-7.495,1,0.27,0.00104,5.86e-05,0.105,0.595,140.022,"hip hop, pop"
+Marshmello,Happier,214289,False,2018,82,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,"pop, Dance/Electronic"
+Dean Lewis,Be Alright,196373,True,2018,79,0.553,0.586,11,-6.319,1,0.0362,0.697,0.0,0.0813,0.443,126.684,pop
+Charlie Puth,Done for Me (feat. Kehlani),180493,False,2018,67,0.856,0.632,6,-3.692,0,0.074,0.193,0.0,0.0688,0.697,112.009,pop
+Migos,Stir Fry,190288,True,2018,72,0.817,0.816,2,-5.402,1,0.269,0.00263,0.0,0.159,0.508,181.982,"hip hop, pop"
+YG,"BIG BANK (feat. 2 Chainz, Big Sean, Nicki Minaj)",237240,True,2018,68,0.745,0.346,1,-7.709,1,0.331,0.00552,0.0,0.0881,0.112,203.911,"hip hop, pop"
+Drake,In My Feelings,217925,True,2018,75,0.835,0.626,1,-5.833,1,0.125,0.0589,6e-05,0.396,0.35,91.03,"hip hop, pop, R&B"
+B Young,Jumanji,173153,False,2018,60,0.791,0.473,10,-9.86,0,0.25,0.279,0.0,0.0959,0.603,95.948,"hip hop, Dance/Electronic"
+Charlie Puth,The Way I Am,186080,False,2018,64,0.755,0.769,10,-5.658,0,0.186,0.314,2.38e-06,0.0628,0.642,114.966,pop
+Reik,Me Niego (feat. Ozuna & Wisin),221653,False,2018,1,0.777,0.779,0,-4.449,0,0.0972,0.0543,0.0,0.636,0.768,94.023,"pop, latin"
+benny blanco,Eastside (with Halsey & Khalid),173799,False,2018,75,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,"hip hop, pop"
+Banx & Ranx,Answerphone (feat. Yxng Bane),190920,False,2018,56,0.671,0.834,1,-3.928,0,0.0885,0.0387,0.0,0.454,0.454,113.021,Dance/Electronic
+Ella Mai,Trip,213993,False,2018,72,0.477,0.61,11,-5.628,0,0.144,0.225,0.0,0.107,0.358,79.882,"hip hop, pop, R&B"
+Daddy Yankee,Dura,200480,False,2018,71,0.783,0.84,1,-3.416,1,0.051,0.174,0.0,0.412,0.839,95.001,latin
+DJ Khaled,No Brainer,260000,True,2018,67,0.552,0.76,0,-4.706,1,0.342,0.0733,0.0,0.0865,0.639,135.702,"hip hop, pop"
+Anne-Marie,2002,186986,False,2018,80,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,"pop, Dance/Electronic"
+FINNEAS,Let's Fall in Love for the Night,190348,True,2018,71,0.737,0.408,5,-7.941,1,0.104,0.802,0.0,0.171,0.374,127.921,"rock, pop, Dance/Electronic"
+Drake,I'm Upset,214466,True,2018,68,0.899,0.586,11,-7.866,0,0.343,0.279,0.0,0.0836,0.492,150.002,"hip hop, pop, R&B"
+Camila Cabello,Never Be the Same,226973,False,2018,74,0.637,0.713,0,-4.333,1,0.0747,0.181,0.000637,0.137,0.243,129.923,pop
+M.O,Bad Vibe,214253,False,2018,54,0.813,0.701,10,-4.428,1,0.0449,0.178,0.0,0.0962,0.758,110.009,"pop, Dance/Electronic"
+Cashmere Cat,Miss You (with Major Lazer & Tory Lanez),186231,False,2018,56,0.747,0.641,1,-4.502,1,0.0925,0.25,0.00107,0.106,0.453,100.028,"pop, rock"
+Bazzi,Mine,131064,True,2018,75,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,"pop, Dance/Electronic"
+Lil Dicky,Freaky Friday (feat. Chris Brown),216631,True,2018,70,0.755,0.599,8,-5.042,1,0.224,0.147,0.0,0.109,0.755,133.123,"hip hop, pop"
+Lauv,I Like Me Better,197436,False,2018,81,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,"pop, Dance/Electronic"
+The Chainsmokers,This Feeling,197946,False,2018,73,0.575,0.571,1,-7.906,1,0.0439,0.0558,0.0,0.0912,0.449,105.049,"pop, Dance/Electronic"
+Maroon 5,Girls Like You (feat. Cardi B) - Cardi B Version,235545,True,2018,73,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,pop
+Khalid,Love Lies (with Normani),201707,False,2018,73,0.708,0.648,6,-5.626,1,0.0449,0.0956,0.0,0.134,0.338,143.955,"pop, R&B"
+Drake,Nice For What,210746,True,2018,77,0.585,0.909,8,-6.474,1,0.0707,0.0891,9.7e-05,0.119,0.758,93.372,"hip hop, pop, R&B"
+Post Malone,Psycho (feat. Ty Dolla $ign),221440,True,2018,77,0.75,0.56,8,-8.094,1,0.105,0.546,0.0,0.111,0.459,140.06,hip hop
+Halsey,Without Me,201660,True,2018,77,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,"pop, Dance/Electronic"
+Lady Gaga,Shallow,215733,False,2018,82,0.572,0.385,7,-6.362,1,0.0308,0.371,0.0,0.231,0.323,95.799,pop
+Mark Ronson,Nothing Breaks Like a Heart (feat. Miley Cyrus),217466,False,2018,79,0.601,0.794,7,-5.844,0,0.0671,0.00987,1.36e-06,0.388,0.244,114.066,pop
+Kodak Black,ZEZE (feat. Travis Scott & Offset),228759,True,2018,77,0.861,0.603,8,-5.788,0,0.176,0.0521,0.0,0.0924,0.504,98.043,hip hop
+Alec Benjamin,Let Me Down Slowly,169353,False,2018,82,0.652,0.557,1,-5.714,0,0.0318,0.74,0.0,0.124,0.483,150.073,"rock, pop, Dance/Electronic"
+Travis Scott,SICKO MODE,312820,True,2018,81,0.834,0.73,8,-3.714,1,0.222,0.00513,0.0,0.124,0.446,155.008,"hip hop, Dance/Electronic"
+A Boogie Wit da Hoodie,Look Back at It,179449,True,2018,73,0.791,0.587,3,-5.075,0,0.0413,0.407,0.0,0.148,0.536,96.057,hip hop
+Billie Eilish,lovely (with Khalid),200185,False,2018,86,0.351,0.296,4,-10.109,0,0.0333,0.934,0.0,0.095,0.12,115.284,"pop, Dance/Electronic"
+Meek Mill,Going Bad (feat. Drake),180522,True,2018,78,0.889,0.496,4,-6.365,0,0.0905,0.259,0.0,0.252,0.544,86.003,"hip hop, pop"
+A Boogie Wit da Hoodie,Swervin (feat. 6ix9ine),189486,True,2018,75,0.581,0.662,9,-5.239,1,0.303,0.0153,0.0,0.111,0.434,93.023,hip hop
+Bad Bunny,MIA (feat. Drake),210367,False,2018,77,0.817,0.539,6,-6.349,0,0.0621,0.0141,0.000496,0.099,0.158,97.062,latin
+21 Savage,a lot,288624,True,2018,78,0.837,0.636,1,-7.643,1,0.086,0.0395,0.00125,0.342,0.274,145.972,hip hop
+Cardi B,Money,183527,True,2018,73,0.95,0.59,8,-6.508,0,0.29,0.00534,0.0,0.11,0.219,130.003,"hip hop, pop"
+Ava Max,Sweet but Psycho,187436,False,2018,7,0.719,0.704,1,-4.724,1,0.0476,0.0691,0.0,0.166,0.628,133.002,pop
+Pedro Capó,Calma - Remix,238200,False,2018,74,0.826,0.773,11,-4.218,0,0.0524,0.323,0.0,0.143,0.761,126.899,"pop, latin"
+Khalid,Better,229412,False,2018,70,0.442,0.585,0,-10.332,0,0.0964,0.0984,0.391,0.14,0.116,97.565,"pop, R&B"
+Blueface,Thotiana,129264,True,2018,1,0.906,0.382,10,-12.89,0,0.269,0.18,0.0,0.113,0.391,104.025,hip hop
+Dominic Fike,3 Nights,177666,False,2018,78,0.815,0.518,7,-6.594,0,0.0897,0.223,0.0,0.104,0.877,151.891,"rock, pop"
+Post Malone,Better Now,231266,True,2018,80,0.68,0.578,10,-5.804,1,0.04,0.331,0.0,0.135,0.341,145.038,hip hop
+Panic! At The Disco,High Hopes,190946,False,2018,80,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,rock

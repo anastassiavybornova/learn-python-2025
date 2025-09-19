@@ -1,0 +1,4 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+t.A.T.u.,All The Things She Said,214440,True,2020,39,0.527,0.834,5,-5.767,0,0.0474,0.0411,0.00599,0.105,0.381,179.92,pop
+Will Smith,Switch,197666,False,2020,34,0.873,0.9,5,-4.325,0,0.18,0.0107,0.000502,0.556,0.478,102.516,"hip hop, pop"
+NSG,Options,240081,True,2020,57,0.836,0.621,1,-4.684,0,0.0894,0.389,9.16e-05,0.104,0.762,101.993,"World/Traditional, hip hop"

@@ -1,0 +1,91 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Aaliyah,Try Again,284000,False,2002,53,0.797,0.622,6,-5.642,0,0.29,0.0807,0.0,0.0841,0.731,93.02,"hip hop, pop, R&B"
+Brandy,Another Day in Paradise - R&B-Version,271626,False,2002,50,0.7,0.787,6,-5.176,0,0.0327,0.00666,3.68e-05,0.0724,0.556,102.043,"hip hop, pop, R&B"
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,162333,False,2002,46,0.836,0.762,7,-5.044,0,0.0598,0.0826,5.48e-05,0.102,0.941,133.592,pop
+Nelly,Dilemma,289160,True,2002,77,0.727,0.552,2,-8.074,0,0.14,0.227,0.000164,0.198,0.607,168.189,"hip hop, pop, R&B"
+Eminem,Without Me,290320,True,2002,87,0.908,0.669,7,-2.827,1,0.0738,0.00286,0.0,0.237,0.662,112.238,hip hop
+Avril Lavigne,Complicated,244506,False,2002,78,0.585,0.776,5,-5.898,1,0.0459,0.0572,7.74e-06,0.3,0.427,77.987,pop
+Vanessa Carlton,A Thousand Miles,237493,False,2002,75,0.56,0.825,11,-3.862,1,0.0379,0.323,0.0,0.161,0.268,94.931,"Folk/Acoustic, pop"
+Truth Hurts,Addictive,226440,True,2002,58,0.701,0.677,11,-6.591,0,0.147,0.0737,0.000162,0.187,0.367,99.271,"pop, R&B"
+Busta Rhymes,I Know What You Want (feat. Flipmode Squad),324306,True,2002,68,0.648,0.759,6,-4.315,1,0.306,0.0142,0.0,0.648,0.518,85.996,"hip hop, pop"
+Eminem,'Till I Collapse,297786,True,2002,85,0.548,0.847,1,-3.237,1,0.186,0.0622,0.0,0.0816,0.1,171.447,hip hop
+Jennifer Lopez,I'm Gonna Be Alright (feat. Nas),172240,False,2002,53,0.718,0.69,10,-4.382,0,0.265,0.106,0.0,0.271,0.774,93.401,"hip hop, pop, R&B"
+Las Ketchup,The Ketchup Song (Aserejé) - Spanglish Version,213973,False,2002,66,0.607,0.923,1,-6.777,1,0.0948,0.0193,1.1e-06,0.0924,0.868,184.819,set()
+Holly Valance,Kiss Kiss,204400,False,2002,54,0.705,0.717,4,-4.944,0,0.125,0.00369,0.461,0.0701,0.554,97.036,"pop, Dance/Electronic"
+Sugababes,Round Round,236426,False,2002,59,0.74,0.845,6,-3.802,0,0.0338,0.00287,6.23e-06,0.115,0.749,126.607,"pop, R&B"
+Brandy,What About Us?,253200,False,2002,43,0.686,0.698,5,-2.942,0,0.223,0.263,0.0,0.39,0.748,93.118,"hip hop, pop, R&B"
+Aaliyah,More Than A Woman,230346,False,2002,42,0.646,0.638,11,-5.803,1,0.0787,0.0556,0.0014,0.182,0.74,86.994,"hip hop, pop, R&B"
+Brandy,Full Moon,248933,False,2002,52,0.611,0.654,10,-4.823,0,0.139,0.372,0.00432,0.0926,0.609,105.922,"hip hop, pop, R&B"
+Blue,One Love,207186,False,2002,60,0.683,0.722,8,-4.039,0,0.0358,0.0243,4.2e-05,0.35,0.854,95.012,pop
+Eve,Gangsta Lovin',239266,True,2002,58,0.723,0.84,1,-3.523,0,0.0608,0.0619,0.0,0.0945,0.827,94.332,"hip hop, pop, R&B"
+Disturbing Tha Peace,Move Bitch,272293,True,2002,59,0.777,0.751,1,-5.692,1,0.133,0.245,0.0,0.1,0.191,177.894,"hip hop, pop"
+Tweet,Oops (Oh My) [feat. Missy Elliott],237800,True,2002,64,0.66,0.536,10,-8.786,0,0.29,0.233,0.00669,0.111,0.775,159.963,"hip hop, pop, R&B"
+Nelly,Hot In Herre,228240,True,2002,75,0.956,0.745,11,-4.753,0,0.12,0.206,0.0,0.0615,0.912,107.075,"hip hop, pop, R&B"
+Christina Aguilera,Dirrty (feat. Redman),298853,False,2002,68,0.64,0.889,2,-3.073,1,0.322,0.107,0.0,0.339,0.436,99.931,pop
+B2K,Uh Huh,223293,False,2002,49,0.855,0.681,2,-4.955,1,0.0688,0.0881,3.7e-06,0.0592,0.908,99.699,"hip hop, pop, R&B"
+Sugababes,Freak Like Me,195866,False,2002,45,0.517,0.919,5,-3.451,1,0.0925,0.0996,1.81e-06,0.557,0.387,91.868,"pop, R&B"
+Dirty Vegas,Days Go By,432146,False,2002,48,0.786,0.853,9,-8.274,0,0.0688,0.0499,0.0872,0.35,0.309,126.99,Dance/Electronic
+LL Cool J,Luv U Better,287000,False,2002,2,0.668,0.806,6,-3.9,1,0.239,0.232,0.0,0.18,0.721,95.022,"hip hop, pop, R&B"
+Red Hot Chili Peppers,Can't Stop,269000,False,2002,80,0.618,0.938,9,-3.442,1,0.0456,0.0179,0.0,0.167,0.875,91.455,rock
+Musiq Soulchild,Halfcrazy,254493,False,2002,58,0.412,0.77,11,-6.057,0,0.18,0.462,1.5e-06,0.0485,0.418,101.955,"pop, R&B"
+Sean Paul,Gimme the Light,228000,True,2002,59,0.778,0.761,2,-5.529,1,0.0525,0.141,4.61e-05,0.0441,0.923,107.288,"hip hop, pop"
+Charli Baltimore,Down 4 U,318213,True,2002,47,0.64,0.59,7,-7.442,1,0.32,0.252,0.0,0.665,0.519,83.133,pop
+N.O.R.E.,Nothin',264653,True,2002,58,0.791,0.863,3,-6.118,0,0.151,0.317,1.13e-06,0.27,0.742,97.035,"hip hop, pop"
+Ashanti,Baby,265706,True,2002,55,0.567,0.58,4,-5.757,0,0.223,0.0084,5.37e-06,0.0342,0.46,157.596,"hip hop, pop, R&B"
+Sophie Ellis-Bextor,Murder On The Dancefloor,230013,False,2002,62,0.734,0.848,1,-5.285,0,0.0309,0.00312,1.16e-05,0.313,0.863,117.31,"pop, Dance/Electronic"
+Justin Timberlake,Like I Love You,283626,False,2002,62,0.853,0.811,6,-4.927,0,0.0646,0.0439,0.000307,0.0703,0.9,114.964,pop
+Eminem,Cleanin' Out My Closet,297840,True,2002,71,0.908,0.758,9,-4.753,0,0.174,0.0687,0.0,0.0783,0.87,148.015,hip hop
+Ashanti,Happy,262226,True,2002,61,0.727,0.515,2,-6.553,0,0.0289,0.241,3.74e-06,0.124,0.695,89.488,"hip hop, pop, R&B"
+Daniel Bedingfield,Gotta Get Thru This - D'N'D Radio Edit,161240,False,2002,56,0.838,0.764,7,-5.076,0,0.0586,0.0862,0.000122,0.0906,0.924,133.592,pop
+Coldplay,Clocks,307879,False,2002,79,0.577,0.749,5,-7.215,0,0.0279,0.599,0.0115,0.183,0.255,130.97,"rock, pop"
+Missy Elliott,Work It,263226,True,2002,70,0.884,0.677,1,-5.603,1,0.283,0.0778,0.0,0.0732,0.584,101.868,"hip hop, pop, R&B"
+Ronan Keating,If Tomorrow Never Comes,214306,False,2002,60,0.555,0.496,10,-6.136,1,0.028,0.333,0.0,0.0956,0.27,79.01,"pop, rock"
+Big Tymers,Still Fly,335613,True,2002,64,0.675,0.607,11,-3.538,1,0.162,0.0302,8.97e-06,0.339,0.56,177.928,"hip hop, pop"
+Ashanti,Foolish,227386,True,2002,70,0.665,0.695,0,-5.763,1,0.0532,0.347,0.0,0.106,0.707,90.119,"hip hop, pop, R&B"
+Avril Lavigne,Sk8er Boi,204000,False,2002,75,0.487,0.9,0,-4.417,1,0.0482,6.79e-05,0.0,0.358,0.484,149.937,pop
+DJ Sammy,Heaven,233600,False,2002,63,0.571,0.953,8,-5.601,1,0.0548,0.0011,0.000606,0.226,0.601,137.965,pop
+Cam’ron,Oh Boy,204706,True,2002,67,0.754,0.767,6,-5.586,1,0.145,0.0216,0.0,0.172,0.828,83.014,"hip hop, pop"
+Red Hot Chili Peppers,By the Way,216933,False,2002,73,0.451,0.97,0,-4.938,1,0.107,0.0264,0.00355,0.102,0.198,122.444,rock
+Elvis Presley,A Little Less Conversation - JXL Radio Edit Remix,211506,False,2002,60,0.597,0.97,4,-5.972,0,0.0502,0.000385,0.205,0.133,0.717,114.999,"rock, easy listening"
+Atomic Kitten,The Tide Is High - Radio Mix,206093,False,2002,65,0.783,0.649,7,-4.127,1,0.0322,0.0209,0.00482,0.067,0.665,103.997,pop
+Alanis Morissette,Hands Clean,269400,False,2002,57,0.513,0.82,7,-5.428,1,0.0299,0.00192,2.83e-06,0.504,0.52,99.952,"pop, Folk/Acoustic"
+The Goo Goo Dolls,Here Is Gone,238173,False,2002,56,0.338,0.685,1,-5.178,1,0.0322,0.00052,0.000512,0.109,0.221,102.192,"pop, rock"
+Daniel Bedingfield,If You're Not The One,257026,False,2002,58,0.688,0.538,10,-7.608,1,0.0292,0.504,0.0,0.111,0.27,119.998,pop
+Coldplay,In My Place,226680,False,2002,72,0.424,0.588,9,-5.455,1,0.0278,0.0553,4.95e-06,0.298,0.193,144.636,"rock, pop"
+Sean Paul,Get Busy,211666,False,2002,74,0.735,0.824,10,-4.143,0,0.036,0.615,0.0,0.158,0.726,100.202,"hip hop, pop"
+Jennifer Lopez,Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix,187840,False,2002,70,0.845,0.768,6,-5.448,1,0.188,0.00733,5.04e-06,0.0575,0.96,100.0,"hip hop, pop, R&B"
+Busta Rhymes,I Know What You Want (feat. Flipmode Squad),324306,True,2002,68,0.648,0.759,6,-4.315,1,0.306,0.0142,0.0,0.648,0.518,85.996,"hip hop, pop"
+JAY-Z,03' Bonnie & Clyde,205560,True,2002,71,0.759,0.678,9,-5.148,0,0.314,0.23,0.0,0.15,0.327,89.64,hip hop
+Craig David,Rise & Fall (feat. Sting),287226,False,2002,59,0.405,0.589,6,-7.51,0,0.0586,0.252,0.0,0.661,0.808,83.373,"hip hop, pop, R&B"
+Lil Jon & The East Side Boyz,Get Low,324600,False,2002,47,0.78,0.604,1,-8.019,1,0.0396,0.022,0.0,0.194,0.12,101.043,"hip hop, pop"
+Aaliyah,Miss You - Main,245240,False,2002,36,0.602,0.34,10,-9.867,1,0.0375,0.618,0.0,0.234,0.511,109.598,"hip hop, pop, R&B"
+Justin Timberlake,Rock Your Body,267266,False,2002,76,0.892,0.714,4,-6.055,0,0.141,0.201,0.000234,0.0521,0.817,100.972,pop
+Christina Aguilera,Can't Hold Us Down (feat. Lil' Kim),255266,False,2002,61,0.859,0.658,8,-4.481,1,0.192,0.0326,0.00181,0.0651,0.538,98.989,pop
+Trapt,Headstrong,285569,True,2002,72,0.492,0.896,4,-5.819,0,0.117,0.000172,2.78e-06,0.189,0.534,184.981,"rock, metal"
+Eminem,Sing For The Moment,339546,True,2002,71,0.668,0.824,5,-4.164,0,0.137,0.0017,3.05e-06,0.0426,0.185,163.961,hip hop
+Nelly,Air Force Ones,304000,True,2002,61,0.784,0.459,4,-9.74,0,0.317,0.0847,0.0,0.079,0.618,164.062,"hip hop, pop, R&B"
+Missy Elliott,Gossip Folks (feat. Ludacris),234893,True,2002,57,0.707,0.538,0,-5.264,1,0.505,0.362,0.0,0.317,0.439,121.732,"hip hop, pop, R&B"
+Christina Aguilera,Fighter,245960,False,2002,67,0.435,0.92,4,-1.357,0,0.201,0.235,0.000353,0.552,0.45,188.899,pop
+Floetry,Say Yes,268373,False,2002,57,0.747,0.398,5,-12.932,0,0.0743,0.211,1.42e-06,0.113,0.428,117.901,"hip hop, pop, R&B"
+Nas,I Can,253720,False,2002,58,0.837,0.885,6,-3.914,0,0.182,0.103,0.0,0.0666,0.694,95.313,hip hop
+3 Doors Down,When I'm Gone,260333,False,2002,67,0.53,0.768,7,-5.611,1,0.0284,0.00385,0.0,0.103,0.374,148.095,"pop, rock, metal"
+Tyrese,How You Gonna Act Like That,294693,False,2002,60,0.733,0.521,3,-3.657,0,0.0457,0.107,0.0,0.0692,0.525,112.913,"hip hop, pop, R&B"
+Justin Timberlake,Cry Me a River,288333,False,2002,73,0.624,0.654,8,-6.582,0,0.183,0.577,0.0,0.104,0.564,73.898,pop
+JAY-Z,Excuse Me Miss,281240,True,2002,56,0.714,0.862,6,-5.531,1,0.286,0.0305,0.0,0.0884,0.887,92.849,hip hop
+Coldplay,Clocks,307879,False,2002,79,0.577,0.749,5,-7.215,0,0.0279,0.599,0.0115,0.183,0.255,130.97,"rock, pop"
+Kelly Rowland,Stole,249293,False,2002,54,0.649,0.718,7,-4.984,0,0.0594,0.00676,4.26e-06,0.174,0.477,79.993,"hip hop, pop, R&B"
+Missy Elliott,Work It,263226,True,2002,70,0.884,0.677,1,-5.603,1,0.283,0.0778,0.0,0.0732,0.584,101.868,"hip hop, pop, R&B"
+Junior Senior,Move Your Feet,181826,False,2002,67,0.747,0.904,9,-2.623,1,0.0803,0.046,0.106,0.203,0.846,118.877,pop
+Audioslave,Like a Stone,293960,False,2002,75,0.614,0.568,7,-5.477,0,0.0276,0.00797,0.0,0.0997,0.516,107.849,"rock, metal"
+Sean Paul,Like Glue,232506,False,2002,61,0.757,0.78,1,-5.038,1,0.319,0.0811,0.0,0.113,0.59,97.917,"hip hop, pop"
+Jaheim,Put That Woman First,245773,True,2002,55,0.649,0.536,5,-8.804,0,0.132,0.492,0.0,0.184,0.513,78.935,"pop, R&B"
+Jennifer Lopez,All I Have (feat. LL Cool J),254466,False,2002,60,0.701,0.669,1,-5.265,1,0.107,0.271,0.0,0.158,0.446,83.066,"hip hop, pop, R&B"
+The Roots,The Seed (2.0),267933,True,2002,63,0.758,0.957,7,-2.281,1,0.0357,0.039,0.0,0.133,0.966,111.121,hip hop
+Ja Rule,Mesmerize,278693,True,2002,61,0.769,0.646,1,-6.653,1,0.199,0.0566,0.0,0.406,0.433,90.079,"hip hop, pop, R&B"
+Matchbox Twenty,Unwell,228706,False,2002,63,0.256,0.788,6,-5.263,0,0.0403,0.0298,0.0,0.707,0.429,80.718,"pop, rock"
+Daniel Bedingfield,If You're Not The One,257026,False,2002,58,0.688,0.538,10,-7.608,1,0.0292,0.504,0.0,0.111,0.27,119.998,pop
+Good Charlotte,Lifestyles of the Rich & Famous,190173,False,2002,68,0.62,0.93,1,-3.685,1,0.0374,0.00043,0.0,0.0686,0.609,106.22,"rock, metal"
+Avril Lavigne,I'm with You,223066,False,2002,70,0.457,0.406,9,-7.462,1,0.0291,0.08,0.0,0.117,0.208,151.95,pop
+Maroon 5,This Love,206200,False,2002,77,0.712,0.862,5,-4.612,0,0.0378,0.0525,0.0,0.093,0.809,95.051,pop
+Sean Paul,I'm Still in Love with You (feat. Sasha),273360,False,2002,68,0.765,0.666,7,-5.384,1,0.172,0.102,0.0,0.116,0.756,87.002,"hip hop, pop"
+3 Doors Down,Here Without You,238733,False,2002,74,0.557,0.533,10,-6.817,0,0.0252,0.0492,0.0,0.205,0.233,143.994,"pop, rock, metal"

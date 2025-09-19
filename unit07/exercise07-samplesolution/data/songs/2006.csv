@@ -1,0 +1,96 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+iio,Rapture (feat.Nadia Ali),253586,False,2006,54,0.661,0.855,8,-8.403,1,0.0377,0.0722,0.0185,0.199,0.601,123.943,Dance/Electronic
+Arctic Monkeys,I Bet You Look Good On The Dancefloor,173680,False,2006,71,0.535,0.948,6,-4.19,0,0.0356,0.00225,0.0,0.376,0.778,103.183,rock
+Shayne Ward,That's My Goal,219600,False,2006,1,0.286,0.508,2,-5.966,1,0.0336,0.372,0.0,0.27,0.14,68.637,pop
+Justin Timberlake,SexyBack (feat. Timbaland),242733,True,2006,78,0.967,0.583,7,-5.562,0,0.0789,0.0584,0.0,0.0519,0.964,117.0,pop
+Amy Winehouse,Rehab,214946,False,2006,71,0.407,0.558,0,-13.609,1,0.0552,0.0541,1.51e-06,0.34,0.777,71.815,R&B
+Rihanna,SOS,238920,False,2006,73,0.677,0.671,7,-4.905,1,0.0361,0.004,5.07e-05,0.413,0.527,137.046,"hip hop, pop, R&B"
+Gnarls Barkley,Crazy,177466,False,2006,74,0.855,0.587,8,-4.589,1,0.0336,0.0505,0.00714,0.105,0.64,111.97,"hip hop, R&B"
+Busta Rhymes,Touch It,214960,True,2006,61,0.658,0.551,1,-6.62,1,0.37,0.0043,0.000108,0.197,0.442,138.335,"hip hop, pop"
+Nelly Furtado,Maneater,258893,False,2006,79,0.796,0.777,6,-4.81,1,0.0397,0.0261,0.000358,0.121,0.787,132.722,"hip hop, pop, latin"
+Bob Sinclar,Rock This Party - Everybody Dance Now,245466,False,2006,69,0.893,0.823,5,-3.708,0,0.122,0.0714,0.0,0.0509,0.902,128.009,"pop, Dance/Electronic"
+Diddy,Come to Me (feat. Nicole Scherzinger),276786,True,2006,55,0.819,0.485,6,-6.45,0,0.0756,0.0176,0.0,0.658,0.386,96.998,"hip hop, pop"
+Nelly Furtado,Promiscuous,242293,False,2006,82,0.808,0.97,10,-6.098,0,0.0506,0.0569,6.13e-05,0.154,0.868,114.328,"hip hop, pop, latin"
+Sean Paul,(When You Gonna) Give It Up to Me (feat. Keyshia Cole) - Radio Version,243880,False,2006,58,0.711,0.761,8,-3.04,1,0.225,0.067,0.0,0.041,0.718,95.824,"hip hop, pop"
+Ciara,Get Up (feat. Chamillionaire),261880,False,2006,59,0.964,0.595,1,-6.887,0,0.109,0.0248,5.14e-06,0.0405,0.629,128.593,"pop, R&B"
+Cherish,Do It To It,226293,False,2006,65,0.826,0.67,2,-5.559,1,0.169,0.00798,0.0,0.495,0.794,74.007,"hip hop, pop, R&B"
+Muse,Supermassive Black Hole,212439,False,2006,75,0.668,0.921,7,-3.727,1,0.0439,0.0492,0.00517,0.0877,0.782,120.0,rock
+Cassie,Me & U,192213,False,2006,73,0.803,0.454,8,-4.802,0,0.0294,0.352,0.0,0.0655,0.739,99.99,"pop, R&B"
+E-40,U and Dat (feat. T. Pain & Kandi Girl),202720,True,2006,63,0.858,0.484,6,-7.448,0,0.277,0.0241,1.8e-06,0.123,0.329,99.992,"hip hop, pop"
+Lil Jon,Snap Yo Fingers,274386,False,2006,67,0.835,0.757,8,-5.029,0,0.23,0.00647,0.0,0.29,0.626,82.038,"hip hop, pop"
+Armand Van Helden,My My My - Radio Edit,190000,False,2006,40,0.678,0.768,7,-8.502,1,0.137,0.0195,0.00866,0.0322,0.758,127.51,"pop, Dance/Electronic"
+Yung Joc,It's Goin' Down (feat. Nitti),241840,True,2006,66,0.888,0.577,1,-7.702,0,0.0612,0.0986,0.0,0.131,0.609,84.003,"hip hop, pop"
+Shayne Ward,No Promises,223066,False,2006,1,0.5,0.498,4,-6.087,1,0.026,0.527,0.0,0.123,0.182,79.798,pop
+Justin Timberlake,My Love (feat. T.I.),276160,False,2006,72,0.771,0.68,11,-5.881,0,0.224,0.277,1.18e-05,0.682,0.808,119.952,pop
+Take That,Patience,202066,False,2006,64,0.309,0.783,10,-4.154,1,0.0405,0.142,1.11e-06,0.118,0.372,175.788,pop
+Fergie,London Bridge,241306,True,2006,57,0.769,0.609,1,-5.894,1,0.357,0.216,0.0,0.166,0.633,90.951,"pop, R&B"
+LL Cool J,Control Myself,233973,False,2006,42,0.825,0.876,10,-6.556,0,0.211,0.00928,1.2e-05,0.205,0.48,120.066,"hip hop, pop, R&B"
+P!nk,Stupid Girls,197173,True,2006,0,0.683,0.886,4,-5.045,0,0.071,0.000738,0.00188,0.0524,0.566,100.04,pop
+Kelis,Bossy,273973,False,2006,50,0.906,0.633,4,-5.316,1,0.19,0.000182,8.34e-06,0.058,0.779,84.021,"pop, R&B, Dance/Electronic"
+Rihanna,Unfaithful,226973,False,2006,70,0.588,0.391,0,-8.607,0,0.0334,0.839,0.0,0.227,0.349,144.069,"hip hop, pop, R&B"
+Dem Franchize Boyz,"Lean Wit It, Rock Wit It",229813,True,2006,60,0.886,0.62,5,-5.854,1,0.307,0.082,0.0,0.1,0.6,76.035,"hip hop, pop"
+Evanescence,Call Me When You're Sober,214706,False,2006,65,0.45,0.883,7,-4.094,1,0.0524,0.00193,0.0,0.293,0.328,93.41,metal
+Chingy,Pullin' Me Back,234133,True,2006,62,0.786,0.511,7,-6.66,1,0.286,0.0825,0.0,0.12,0.587,80.0,"hip hop, pop, R&B"
+T.I.,What You Know,274333,True,2006,64,0.551,0.81,11,-4.365,1,0.0344,0.0155,0.0,0.169,0.332,73.464,"hip hop, pop"
+Ludacris,Money Maker,230613,True,2006,62,0.551,0.598,1,-6.79,1,0.27,0.15,0.0,0.299,0.612,78.756,"hip hop, pop"
+Nick Lachey,What's Left Of Me,244613,False,2006,37,0.42,0.742,7,-5.665,1,0.0375,0.142,0.0,0.145,0.294,149.965,pop
+Jibbs,Chain Hang Low,207586,True,2006,56,0.792,0.589,4,-6.869,0,0.262,0.0259,0.000128,0.114,0.778,157.147,"hip hop, pop"
+Arctic Monkeys,When The Sun Goes Down,202133,True,2006,72,0.348,0.875,11,-4.758,0,0.199,0.0341,0.0,0.117,0.407,169.152,rock
+Rascal Flatts,Life is a Highway,276773,False,2006,0,0.561,0.936,5,-5.409,1,0.0613,0.00185,0.0,0.102,0.594,103.055,country
+Beyoncé,Check On It (feat. Slim Thug),211186,False,2006,45,0.7,0.887,7,-3.887,1,0.218,0.0805,0.0,0.376,0.883,166.104,"pop, R&B"
+Lily Allen,Smile,196893,True,2006,68,0.632,0.639,5,-5.938,1,0.0259,0.00143,0.0,0.221,0.733,95.506,pop
+Ne-Yo,Sexy Love,220853,False,2006,67,0.693,0.516,8,-6.446,1,0.0413,0.297,0.000127,0.0604,0.494,94.02,"pop, R&B"
+JoJo,Too Little Too Late,223680,False,2006,48,0.535,0.823,6,-5.338,0,0.0431,0.0113,3.88e-06,0.146,0.685,83.001,"hip hop, pop, R&B"
+Amy Winehouse,You Know I'm No Good,256946,False,2006,63,0.705,0.806,9,-3.607,1,0.0309,0.0132,0.00428,0.0701,0.734,103.383,R&B
+Rascal Flatts,What Hurts The Most,214106,False,2006,69,0.537,0.674,5,-5.134,0,0.0277,0.0088,0.0,0.265,0.33,136.002,country
+Red Hot Chili Peppers,Dani California,282160,False,2006,76,0.556,0.913,0,-2.36,1,0.0437,0.0193,8.59e-06,0.346,0.73,96.184,rock
+Scissor Sisters,I Don't Feel Like Dancin',288360,False,2006,63,0.707,0.923,7,-3.409,1,0.0276,0.0195,0.0,0.342,0.845,108.023,"pop, rock, Dance/Electronic"
+Ne-Yo,So Sick,207186,False,2006,75,0.452,0.574,6,-8.336,1,0.31,0.246,0.0,0.189,0.58,92.791,"pop, R&B"
+The Raconteurs,"Steady, As She Goes",215266,False,2006,56,0.525,0.578,9,-4.563,1,0.12,0.0132,0.00916,0.108,0.537,123.696,rock
+The Fratellis,Chelsea Dagger,215306,False,2006,68,0.511,0.815,7,-3.14,1,0.144,0.0491,0.0,0.0826,0.586,154.514,rock
+Christina Aguilera,Ain't No Other Man,228906,False,2006,63,0.862,0.742,7,-4.722,1,0.222,0.00376,0.00855,0.103,0.511,127.91,pop
+Westlife,The Rose,219106,False,2006,0,0.272,0.203,9,-9.706,1,0.0294,0.784,0.0,0.0805,0.172,109.581,pop
+Keane,Is It Any Wonder?,186173,False,2006,59,0.489,0.955,11,-2.771,0,0.0363,3.82e-05,0.000178,0.334,0.816,129.352,pop
+Orson,No Tomorrow,167493,False,2006,46,0.656,0.624,3,-4.623,0,0.0691,0.0065,0.0,0.278,0.735,124.082,pop
+Razorlight,America,249760,False,2006,67,0.447,0.568,2,-4.975,1,0.0305,0.295,3.26e-06,0.355,0.149,90.933,"rock, pop"
+James Morrison,You Give Me Something,213173,False,2006,64,0.559,0.688,7,-6.496,1,0.114,0.216,0.0,0.0855,0.578,79.753,"pop, R&B"
+Snow Patrol,You're All I Have,273333,False,2006,35,0.467,0.921,2,-4.554,1,0.045,5.48e-05,0.0566,0.176,0.501,132.013,"World/Traditional, rock, pop"
+Sandi Thom,I Wish I Was a Punk Rocker (with Flowers in My Hair),151640,False,2006,61,0.7,0.465,4,-6.815,1,0.358,0.544,0.0,0.606,0.719,108.102,"World/Traditional, pop"
+My Chemical Romance,Welcome to the Black Parade,311106,False,2006,76,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95,rock
+Razorlight,In The Morning,222453,False,2006,59,0.616,0.855,4,-3.495,0,0.042,0.00379,0.000863,0.318,0.686,124.191,"rock, pop"
+James Morrison,Wonderful World,210066,False,2006,49,0.474,0.71,1,-4.606,1,0.029,0.0548,0.0,0.0974,0.591,78.969,"pop, R&B"
+P!nk,Who Knew,208493,False,2006,0,0.688,0.734,9,-4.569,1,0.0274,0.00462,0.0,0.0756,0.46,140.004,pop
+The Kooks,Naive,203506,False,2006,73,0.391,0.808,8,-6.209,0,0.0892,0.0759,0.0,0.149,0.737,100.304,rock
+Fergie,Big Girls Don't Cry (Personal),268120,False,2006,76,0.708,0.641,7,-4.296,1,0.0335,0.205,0.0,0.0945,0.253,113.082,"pop, R&B"
+Justin Timberlake,What Goes Around.../...Comes Around (Interlude),448573,False,2006,70,0.687,0.723,7,-4.751,1,0.0709,0.122,0.00102,0.573,0.432,76.0,pop
+Gwen Stefani,The Sweet Escape,246466,False,2006,71,0.756,0.77,1,-3.502,1,0.0343,0.191,0.0,0.178,0.73,119.961,"pop, R&B"
+Nelly Furtado,Say It Right,223080,False,2006,81,0.872,0.872,1,-6.328,1,0.139,0.0476,0.00112,0.0543,0.809,116.948,"hip hop, pop, latin"
+Akon,Smack That,212360,True,2006,58,0.94,0.743,5,-5.166,0,0.0475,0.317,0.0,0.0909,0.932,118.988,pop
+Ciara,Like a Boy,237053,False,2006,68,0.701,0.724,0,-5.751,0,0.145,0.267,0.0,0.0867,0.425,132.035,"pop, R&B"
+Akon,I Wanna Love You,247066,True,2006,53,0.865,0.45,0,-9.387,1,0.0417,0.0359,1.28e-06,0.308,0.352,99.989,pop
+Fat Joe,Make It Rain,247413,True,2006,59,0.744,0.697,11,-5.063,0,0.197,0.0106,0.0,0.0842,0.767,149.28,"hip hop, pop"
+P!nk,U + Ur Hand,214386,True,2006,0,0.709,0.891,0,-3.688,1,0.0528,0.00144,0.0,0.034,0.886,141.04,pop
+Camille Jones,The Creeps - Fedde Le Grand Radio Mix,152333,False,2006,17,0.847,0.861,6,-6.632,1,0.0603,0.278,0.029,0.0626,0.724,127.894,set()
+Justin Timberlake,Summer Love,252973,False,2006,66,0.606,0.591,0,-7.228,0,0.087,0.0756,0.0,0.328,0.477,95.802,pop
+Take That,Patience,202066,False,2006,64,0.309,0.783,10,-4.154,1,0.0405,0.142,1.11e-06,0.118,0.372,175.788,pop
+Justin Timberlake,My Love (feat. T.I.),276160,False,2006,72,0.771,0.68,11,-5.881,0,0.224,0.277,1.18e-05,0.682,0.808,119.952,pop
+Fergie,Glamorous,246600,True,2006,64,0.811,0.757,0,-6.447,1,0.23,0.298,0.0,0.103,0.565,130.993,"pop, R&B"
+My Chemical Romance,Teenagers,161920,False,2006,80,0.463,0.857,4,-3.063,1,0.0632,0.0506,0.0,0.184,0.856,111.647,rock
+Baby Boy Da Prince,The Way I Live - Main Explicit,324906,True,2006,59,0.88,0.438,0,-7.562,1,0.248,0.0147,0.0,0.0907,0.714,90.02,"hip hop, pop"
+Fergie,Fergalicious,292373,True,2006,63,0.906,0.584,8,-7.72,0,0.316,0.0576,0.0,0.128,0.831,129.055,"pop, R&B"
+Omarion,Ice Box,256426,False,2006,57,0.775,0.731,8,-5.446,1,0.134,0.189,0.0,0.129,0.821,131.105,"hip hop, pop, R&B"
+Justin Timberlake,LoveStoned / I Think She Knows (Interlude),444333,True,2006,57,0.859,0.681,1,-6.247,1,0.0549,0.34,0.000161,0.213,0.852,121.243,pop
+Amy Winehouse,Back To Black,241293,True,2006,76,0.403,0.422,7,-13.964,0,0.0373,0.134,2.05e-05,0.0861,0.378,122.728,R&B
+Ciara,Promise,267413,False,2006,56,0.697,0.629,9,-5.757,1,0.0425,0.409,3.8e-06,0.0819,0.439,123.279,"pop, R&B"
+Huey,"Pop, Lock & Drop It - Video Edit",261026,False,2006,52,0.723,0.644,11,-6.863,0,0.222,0.00308,0.0,0.352,0.645,144.09,"hip hop, pop"
+Bow Wow,Outta My System (feat. T-Pain & Johntá Austin),238266,False,2006,57,0.772,0.59,6,-6.957,1,0.183,0.0917,0.0,0.101,0.743,83.998,"hip hop, pop, R&B"
+Jim Jones,We Fly High,236080,True,2006,0,0.685,0.8,1,-6.564,1,0.298,0.0847,0.0,0.092,0.483,120.226,"hip hop, pop"
+The Red Jumpsuit Apparatus,Face Down,192000,False,2006,74,0.545,0.932,7,-2.189,0,0.0399,0.000665,0.0,0.127,0.464,92.956,pop
+MIKA,Grace Kelly,187733,False,2006,69,0.675,0.828,0,-5.799,1,0.0454,0.0242,0.0102,0.364,0.669,122.229,pop
+Christina Aguilera,Candyman,194213,False,2006,66,0.686,0.789,8,-4.713,0,0.23,0.0125,0.0147,0.142,0.72,172.976,pop
+Akon,Don't Matter,293066,True,2006,52,0.801,0.454,2,-6.035,1,0.0371,0.225,0.0,0.226,0.34,125.139,pop
+Just Jack,Starz In Their Eyes,295933,False,2006,52,0.67,0.8,3,-6.731,1,0.0652,0.00184,0.000356,0.466,0.656,123.802,Dance/Electronic
+MIKA,Love Today,235173,False,2006,57,0.673,0.913,4,-4.981,1,0.0664,0.0304,0.00298,0.113,0.587,124.484,pop
+Red Hot Chili Peppers,Snow (Hey Oh),334666,False,2006,79,0.427,0.9,11,-3.674,1,0.0499,0.116,1.75e-05,0.119,0.599,104.655,rock
+Ludacris,Runaway Love,280680,True,2006,51,0.405,0.721,1,-6.97,1,0.283,0.329,0.0,0.252,0.815,92.854,"hip hop, pop"
+Fergie,Clumsy,240426,False,2006,58,0.731,0.563,2,-4.046,1,0.131,0.191,0.00042,0.296,0.452,184.009,"pop, R&B"

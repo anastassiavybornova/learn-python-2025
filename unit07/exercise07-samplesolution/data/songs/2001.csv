@@ -1,0 +1,109 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Modjo,Lady - Hear Me Tonight,307153,False,2001,77,0.72,0.808,6,-5.627,1,0.0379,0.00793,0.0293,0.0634,0.869,126.041,Dance/Electronic
+Darude,Sandstorm,225493,False,2001,69,0.528,0.965,11,-7.984,0,0.0465,0.141,0.985,0.0797,0.587,136.065,"pop, Dance/Electronic"
+LeAnn Rimes,I Need You,229826,False,2001,61,0.478,0.736,7,-7.124,1,0.0367,0.02,9.58e-05,0.118,0.564,144.705,"pop, country"
+Janet Jackson,Doesn't Really Matter,265026,False,2001,47,0.771,0.796,5,-3.081,0,0.076,0.0993,0.00278,0.0981,0.801,99.316,"pop, R&B"
+LeAnn Rimes,Can't Fight The Moonlight,215506,False,2001,65,0.628,0.834,6,-6.341,0,0.0497,0.403,0.0,0.051,0.626,97.865,"pop, country"
+Destiny's Child,"Independent Women, Pt. 1",221133,False,2001,65,0.73,0.602,6,-3.782,0,0.206,0.362,3.69e-06,0.169,0.927,97.954,"pop, R&B"
+Gabrielle,Rise,219093,False,2001,60,0.558,0.481,8,-9.487,1,0.026,0.315,8.83e-06,0.09,0.631,144.673,"pop, R&B"
+Destiny's Child,Survivor,254026,False,2001,70,0.514,0.911,1,-2.027,0,0.41,0.0559,0.0,0.775,0.619,161.109,"pop, R&B"
+Kylie Minogue,Can't Get You out of My Head,230640,False,2001,73,0.766,0.563,9,-7.516,0,0.0339,0.0263,0.683,0.115,0.964,126.007,"pop, Dance/Electronic"
+Christina Aguilera,"Lady Marmalade - From ""Moulin Rouge"" Soundtrack",264893,False,2001,68,0.76,0.801,5,-3.769,1,0.0534,0.0144,1.49e-05,0.665,0.653,109.919,pop
+Shakira,"Whenever, Wherever",196160,False,2001,74,0.794,0.832,1,-4.862,0,0.0407,0.237,1.14e-05,0.203,0.871,107.657,"pop, latin"
+Jimmy Eat World,The Middle,165853,False,2001,78,0.643,0.849,2,-5.428,1,0.0526,0.0371,0.0,0.058,0.903,162.152,"rock, pop"
+Train,Drops of Jupiter (Tell Me),259933,False,2001,77,0.481,0.638,0,-5.862,1,0.0276,0.153,0.0,0.154,0.497,79.064,pop
+Geri Halliwell,It's Raining Men,254640,False,2001,62,0.637,0.929,5,-6.03,0,0.0447,0.063,0.00796,0.318,0.604,136.482,pop
+Blu Cantrell,Hit 'Em Up Style (Oops!),250706,False,2001,71,0.667,0.773,5,-4.983,0,0.0586,0.201,0.0,0.404,0.667,89.976,"pop, R&B"
+Britney Spears,I'm a Slave 4 U,203600,False,2001,69,0.847,0.843,5,-3.579,0,0.106,0.415,0.000134,0.107,0.963,110.027,pop
+Kylie Minogue,In Your Eyes,197826,False,2001,62,0.689,0.894,6,-6.342,0,0.0672,0.133,4.72e-05,0.0681,0.709,123.971,"pop, Dance/Electronic"
+Missy Elliott,One Minute Man (feat. Ludacris),252986,True,2001,57,0.622,0.669,9,-8.419,1,0.329,0.0266,2.97e-06,0.152,0.57,93.839,"hip hop, pop, R&B"
+Mary J. Blige,Family Affair,265866,False,2001,76,0.911,0.551,8,-3.75,0,0.0449,0.132,4.12e-05,0.0863,0.969,92.887,"pop, R&B"
+Lasgo,Something,220973,False,2001,65,0.643,0.981,7,-6.644,0,0.0439,0.0271,8.93e-05,0.11,0.38,140.01,pop
+Emma Bunton,What Took You So Long?,241000,False,2001,54,0.668,0.772,9,-5.4,0,0.0307,0.123,0.0,0.341,0.911,118.011,pop
+112,It's Over Now,264933,False,2001,57,0.66,0.71,1,-4.541,1,0.0409,0.0106,7.01e-06,0.0736,0.233,97.988,"hip hop, pop, R&B"
+Blue,All Rise,223546,False,2001,63,0.721,0.737,5,-2.734,0,0.0324,0.121,0.0,0.165,0.931,97.996,pop
+Jessica Simpson,Irresistible,194026,False,2001,43,0.657,0.965,8,-2.771,0,0.0556,0.0285,8.84e-05,0.0552,0.669,93.013,"pop, R&B"
+Michael Jackson,You Rock My World,337733,False,2001,64,0.854,0.673,4,-3.132,0,0.185,0.038,0.000227,0.255,0.955,95.0,"pop, R&B"
+Eve,Let Me Blow Ya Mind,230133,True,2001,73,0.908,0.557,8,-4.243,0,0.107,0.242,0.0,0.0709,0.897,90.032,"hip hop, pop, R&B"
+Jennifer Lopez,Ain't It Funny,246160,False,2001,0,0.707,0.869,5,-4.525,0,0.0481,0.104,0.000121,0.0813,0.621,99.825,"hip hop, pop, R&B"
+Nickelback,How You Remind Me,223840,False,2001,78,0.446,0.764,10,-5.042,1,0.033,0.00135,0.0,0.099,0.543,172.094,"rock, metal"
+Daft Punk,One More Time,320357,False,2001,76,0.613,0.697,2,-8.618,1,0.133,0.0194,0.0,0.332,0.476,122.746,"hip hop, Dance/Electronic"
+Fragma,Everytime You Need Me - Radio Version,213346,False,2001,50,0.682,0.917,11,-5.459,0,0.0318,0.15,0.0676,0.34,0.79,137.029,"pop, Dance/Electronic"
+Mariah Carey,Loverboy,229173,False,2001,42,0.721,0.79,1,-4.125,1,0.124,0.183,0.0,0.1,0.821,103.141,"pop, R&B"
+P.O.D.,Youth of the Nation,256240,False,2001,69,0.563,0.86,8,-7.533,1,0.0621,0.00834,0.0106,0.39,0.517,97.867,"rock, metal"
+Jennifer Lopez,Play,211493,True,2001,57,0.775,0.729,1,-4.229,0,0.162,0.0303,0.00247,0.0361,0.895,104.719,"hip hop, pop, R&B"
+Missy Elliott,Get Ur Freak On,211120,True,2001,68,0.797,0.75,0,-9.369,1,0.247,0.533,0.108,0.095,0.74,177.87,"hip hop, pop, R&B"
+Christina Milian,AM To PM,231213,False,2001,60,0.872,0.868,10,-3.036,0,0.12,0.153,2.26e-05,0.843,0.822,105.005,"hip hop, pop, R&B"
+Gorillaz,Clint Eastwood,340920,True,2001,74,0.663,0.694,10,-8.627,0,0.171,0.0253,0.0,0.0698,0.525,167.953,hip hop
+2Pac,Until The End Of Time,266506,True,2001,57,0.757,0.706,8,-6.665,1,0.203,0.0267,0.0,0.197,0.375,96.976,hip hop
+Mary J. Blige,No More Drama,326240,False,2001,61,0.653,0.837,6,-6.818,0,0.124,0.534,7.12e-05,0.0784,0.64,97.914,"pop, R&B"
+Jennifer Lopez,Love Don't Cost a Thing,221226,False,2001,67,0.786,0.842,4,-5.115,0,0.0707,0.00305,3.54e-06,0.473,0.685,97.577,"hip hop, pop, R&B"
+Jamiroquai,Little L,295400,False,2001,65,0.878,0.724,10,-5.373,0,0.129,0.168,0.0116,0.133,0.904,121.906,pop
+Case,Missing You,284666,False,2001,55,0.612,0.579,1,-6.417,0,0.0553,0.285,0.0,0.0556,0.716,86.31,"hip hop, pop, R&B"
+112,Peaches & Cream,193093,False,2001,63,0.677,0.52,4,-6.255,0,0.334,0.00277,0.0,0.0532,0.768,203.862,"hip hop, pop, R&B"
+Five,Let's Dance - Radio Edit,218626,False,2001,47,0.631,0.821,4,-7.853,0,0.0867,0.00876,0.000247,0.293,0.547,118.007,pop
+Rui Da Silva,Touch Me (Radio Edit) [feat. Cassandra],213133,False,2001,54,0.464,0.922,0,-8.399,1,0.0638,0.124,0.227,0.0546,0.695,129.078,Dance/Electronic
+Alien Ant Farm,Smooth Criminal,209266,False,2001,75,0.653,0.964,9,-4.261,0,0.0582,0.00316,0.00512,0.144,0.87,126.928,"rock, metal"
+Erick Sermon,Music (feat. Marvin Gaye),223133,True,2001,57,0.897,0.466,10,-9.053,0,0.203,0.187,1.35e-06,0.0757,0.884,100.01,"hip hop, pop"
+D12,Purple Pills,304506,True,2001,68,0.78,0.634,1,-5.941,1,0.16,0.0199,2.98e-05,0.29,0.754,125.25,"hip hop, pop, rock"
+Blue,If You Come Back,207560,False,2001,58,0.582,0.707,10,-4.487,1,0.0319,0.0822,0.0,0.0467,0.701,78.375,pop
+Atomic Kitten,Eternal Flame - Single Version,195506,False,2001,58,0.578,0.581,0,-6.867,1,0.0318,0.0658,0.0042,0.0674,0.408,83.293,pop
+Jagged Edge,Where the Party At (feat. Nelly),232573,False,2001,67,0.596,0.661,5,-6.239,0,0.226,0.31,0.0,0.0847,0.86,129.491,"hip hop, pop, R&B"
+Afroman,Because I Got High,197760,True,2001,68,0.802,0.341,7,-8.56,1,0.488,0.169,0.0,0.0783,0.849,166.01,hip hop
+S Club 7,Don't Stop Movin',233626,False,2001,63,0.822,0.672,7,-6.133,1,0.0329,0.0285,0.0,0.213,0.91,117.033,pop
+The Supermen Lovers,Starlight - Radio Edit,234400,False,2001,61,0.739,0.679,0,-5.079,1,0.0373,0.000424,0.0187,0.389,0.786,127.487,Dance/Electronic
+S Club 7,Have You Ever,201533,False,2001,60,0.585,0.702,0,-5.734,1,0.0325,0.538,0.0,0.216,0.51,139.909,pop
+Faith Hill,There You'll Be,222120,False,2001,60,0.321,0.511,8,-7.77,1,0.0306,0.513,0.0,0.127,0.17,128.98,"pop, country"
+Destiny's Child,Bootylicious,207906,False,2001,64,0.84,0.835,1,-4.386,0,0.275,0.00281,1.11e-06,0.152,0.637,103.376,"pop, R&B"
+Sunshine Anderson,Heard It All Before,295826,False,2001,56,0.697,0.925,3,-4.209,0,0.216,0.0614,0.0,0.095,0.678,96.951,"pop, R&B"
+Janet Jackson,All For You,329933,False,2001,65,0.753,0.934,2,-3.011,1,0.0736,0.0174,0.065,0.128,0.73,113.525,"pop, R&B"
+Atomic Kitten,Whole Again,185013,False,2001,66,0.747,0.706,4,-4.653,1,0.0413,0.0844,0.00355,0.174,0.567,94.019,pop
+Ja Rule,Livin' It Up,257066,False,2001,64,0.874,0.768,6,-4.086,1,0.311,0.0554,0.0,0.041,0.636,106.095,"hip hop, pop, R&B"
+Destiny's Child,"Independent Women, Pt. 1",221133,False,2001,65,0.73,0.602,6,-3.782,0,0.206,0.362,3.69e-06,0.169,0.927,97.954,"pop, R&B"
+DJ Pied Piper & The Masters Of Ceremonies,Do You Really Like It? - Radio Edit,217120,False,2001,54,0.847,0.877,2,-5.424,1,0.0493,0.124,0.0,0.148,0.764,131.044,Dance/Electronic
+Jennifer Lopez,I'm Real (feat. Ja Rule) - Murder Remix,262133,True,2001,66,0.708,0.587,11,-7.93,0,0.151,0.273,0.0,0.0718,0.554,83.46,"hip hop, pop, R&B"
+So Solid Crew,21 Seconds,302826,True,2001,51,0.607,0.637,1,-11.072,1,0.241,0.0191,0.0,0.124,0.818,137.03,Dance/Electronic
+Robbie Williams,Eternity,302760,False,2001,48,0.469,0.316,10,-8.106,1,0.0265,0.504,6.04e-06,0.0919,0.199,77.967,"pop, rock"
+Basement Jaxx,Romeo,217493,False,2001,0,0.713,0.829,2,-4.171,1,0.0491,0.00769,0.00203,0.139,0.844,126.853,"pop, Dance/Electronic"
+Gabrielle,Rise,219093,False,2001,60,0.558,0.481,8,-9.487,1,0.026,0.315,8.83e-06,0.09,0.631,144.673,"pop, R&B"
+Trick Daddy,I'm a Thug,254400,True,2001,59,0.933,0.561,11,-5.961,1,0.122,0.0275,0.0,0.102,0.586,139.976,"hip hop, pop"
+Travis,Sing,228800,False,2001,68,0.33,0.905,4,-5.047,1,0.0497,0.000233,8.14e-06,0.0712,0.259,163.142,"rock, pop"
+JAY-Z,Izzo (H.O.V.A.),240626,True,2001,63,0.618,0.844,1,-4.051,0,0.342,0.0178,0.000126,0.0634,0.697,84.411,hip hop
+Gabrielle,Out Of Reach,196986,False,2001,69,0.51,0.48,11,-6.567,1,0.0452,0.503,0.0,0.106,0.496,182.862,"pop, R&B"
+Staind,It's Been Awhile,264706,True,2001,64,0.509,0.774,6,-4.054,1,0.0338,0.00189,0.000549,0.143,0.0824,116.529,"rock, metal"
+Ginuwine,Differences,265533,False,2001,65,0.562,0.594,3,-4.578,0,0.0558,0.318,0.0,0.311,0.423,62.876,"hip hop, pop, R&B"
+*NSYNC,Gone,292000,False,2001,45,0.699,0.403,11,-8.564,0,0.0614,0.421,0.0,0.126,0.5,113.922,pop
+The Calling,Wherever You Will Go,208600,False,2001,72,0.558,0.719,2,-5.113,1,0.0267,0.0367,0.0,0.115,0.371,112.027,pop
+Shakira,Underneath Your Clothes,224066,False,2001,64,0.616,0.597,8,-5.328,1,0.0415,0.691,0.0,0.104,0.362,165.508,"pop, latin"
+No Doubt,Underneath It All,302720,False,2001,27,0.729,0.731,4,-4.822,1,0.0684,0.232,1.57e-06,0.391,0.839,138.202,"rock, pop"
+Christina Milian,When You Look At Me - Radio Edit,222546,False,2001,60,0.955,0.839,3,-3.399,0,0.127,0.0934,0.000175,0.099,0.825,108.955,"hip hop, pop, R&B"
+Britney Spears,Overprotected - Radio Edit,198600,False,2001,61,0.682,0.894,0,-1.73,0,0.0727,0.0381,0.0,0.416,0.845,95.992,pop
+Missy Elliott,4 My People (feat. Eve),289373,True,2001,49,0.969,0.701,1,-7.503,1,0.156,0.14,0.00161,0.201,0.905,121.392,"hip hop, pop, R&B"
+Busta Rhymes,Pass The Courvoisier Part II (feat. P. Diddy & Pharrell) - Remix,238600,True,2001,55,0.697,0.793,6,-4.699,0,0.323,0.0844,0.0,0.0619,0.56,89.767,"hip hop, pop"
+Céline Dion,A New Day Has Come - Radio Remix,259773,False,2001,59,0.574,0.691,6,-5.103,1,0.035,0.0826,1.65e-05,0.149,0.195,91.969,pop
+Fat Joe,What's Luv? (feat. Ja-Rule & Ashanti),267093,True,2001,73,0.835,0.707,8,-5.074,1,0.0598,0.0219,2.19e-05,0.108,0.919,93.955,"hip hop, pop"
+No Doubt,Hella Good,242586,False,2001,26,0.771,0.665,8,-3.954,1,0.035,0.0135,0.0123,0.0903,0.844,115.142,"rock, pop"
+Faith Evans,I Love You,267160,False,2001,53,0.489,0.757,11,-4.062,0,0.0926,0.00981,0.0,0.234,0.567,168.004,"hip hop, pop, R&B"
+Kylie Minogue,Love at First Sight,238266,False,2001,55,0.603,0.774,3,-6.066,0,0.0428,0.0288,0.051,0.0533,0.48,124.994,"pop, Dance/Electronic"
+Big Brovaz,Nu Flow,201480,False,2001,45,0.783,0.726,7,-8.718,1,0.106,0.0903,2.53e-06,0.363,0.784,148.062,pop
+No Doubt,Hey Baby,207040,False,2001,24,0.705,0.872,11,-3.557,0,0.125,0.0602,0.0,0.228,0.746,93.63,"rock, pop"
+Mary J. Blige,Rainy Dayz,276373,False,2001,32,0.412,0.667,6,-6.997,1,0.229,0.195,0.0,0.305,0.533,68.942,"pop, R&B"
+A1,Caught in the Middle,206466,False,2001,53,0.519,0.874,5,-5.122,1,0.034,0.0524,0.0,0.243,0.572,96.072,pop
+P!nk,Get the Party Started,192533,False,2001,68,0.802,0.903,11,-3.267,0,0.046,0.0011,0.0,0.173,0.96,128.93,pop
+Alicia Keys,A Woman's Worth,303333,False,2001,52,0.652,0.41,4,-8.323,0,0.158,0.333,0.0,0.064,0.495,75.09,"pop, R&B"
+Creed,My Sacrifice,294600,False,2001,69,0.32,0.88,2,-6.035,1,0.0504,0.000101,4.31e-06,0.076,0.257,146.349,"pop, rock, metal"
+Ja Rule,Always On Time,245133,True,2001,73,0.839,0.706,5,-6.104,0,0.199,0.208,0.0,0.242,0.839,96.673,"hip hop, pop, R&B"
+Britney Spears,"I'm Not a Girl, Not Yet a Woman",231066,False,2001,58,0.534,0.543,3,-6.857,1,0.0245,0.579,0.0,0.112,0.418,78.996,pop
+*NSYNC,Girlfriend,253600,False,2001,50,0.745,0.807,0,-5.191,0,0.0884,0.0887,1.49e-05,0.0283,0.858,93.967,pop
+Robbie Williams,Somethin' Stupid,170493,False,2001,64,0.654,0.515,0,-12.185,1,0.0261,0.429,5.62e-06,0.174,0.677,106.191,"pop, rock"
+Usher,U Don't Have to Call,269400,True,2001,59,0.793,0.568,1,-4.958,1,0.0459,0.0478,3.57e-05,0.0304,0.806,100.005,"hip hop, pop, R&B"
+Puddle Of Mudd,She Hates Me,216760,True,2001,70,0.58,0.748,4,-5.433,1,0.0323,0.00935,0.0,0.753,0.584,109.781,"rock, metal"
+Ludacris,Rollout (My Business),296586,True,2001,60,0.921,0.668,7,-8.73,1,0.235,0.0949,0.0,0.592,0.892,131.059,"hip hop, pop"
+Default,Wasting My Time,268693,False,2001,40,0.443,0.769,2,-5.529,1,0.0312,0.00138,0.0,0.0677,0.17,147.973,"rock, pop, metal"
+Michelle Branch,All You Wanted,217680,False,2001,60,0.499,0.72,8,-9.101,1,0.0286,0.00466,0.00303,0.122,0.652,96.103,"pop, Folk/Acoustic"
+Enrique Iglesias,Escape,208626,False,2001,56,0.776,0.844,11,-5.305,1,0.0297,0.0277,0.000244,0.135,0.868,125.972,"pop, latin"
+Puddle Of Mudd,Blurry,303920,False,2001,64,0.432,0.936,3,-4.537,0,0.0562,0.00691,0.0,0.14,0.499,157.469,"rock, metal"
+Outkast,The Whole World (feat. Killer Mike),295346,True,2001,51,0.814,0.852,2,-6.176,1,0.401,0.0958,1.32e-06,0.0288,0.717,184.682,"hip hop, pop"
+P!nk,Don't Let Me Get Me - Radio Edit,210693,False,2001,60,0.624,0.85,0,-4.754,0,0.0756,0.00234,0.0,0.0621,0.615,98.525,pop
+J-Kwon,Tipsy - Club Mix,247106,True,2001,59,0.925,0.741,9,-5.827,0,0.315,0.0653,0.0,0.044,0.654,93.04,"hip hop, pop"
+Gary Jules,Mad World (Feat. Michael Andrews),189506,False,2001,65,0.345,0.0581,3,-17.217,1,0.0374,0.976,0.000366,0.103,0.304,174.117,pop

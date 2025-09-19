@@ -1,0 +1,85 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Fatman Scoop,Be Faithful,164506,True,2009,49,0.649,0.713,7,-6.488,1,0.295,0.000787,0.0,0.318,0.629,101.129,hip hop
+Madonna,4 Minutes (feat. Justin Timberlake & Timbaland),189693,False,2009,71,0.753,0.931,2,-4.922,1,0.0652,0.00994,0.00696,0.234,0.767,113.029,pop
+Alexandra Burke,Hallelujah,217826,False,2009,63,0.177,0.425,2,-6.211,0,0.0291,0.654,0.0,0.195,0.0942,182.571,pop
+Black Eyed Peas,I Gotta Feeling,289133,False,2009,80,0.743,0.766,0,-6.375,1,0.0265,0.0873,0.0,0.509,0.61,127.96,"hip hop, pop"
+Flo Rida,Right Round,204640,False,2009,74,0.72,0.672,7,-6.852,1,0.0551,0.009,0.0,0.232,0.705,124.986,"hip hop, pop"
+Pitbull,Hotel Room Service,238506,False,2009,63,0.849,0.599,6,-8.164,1,0.227,0.00301,0.000249,0.0763,0.761,126.003,"hip hop, pop, latin"
+Skillet,Monster,178013,False,2009,75,0.64,0.957,8,-2.336,1,0.0741,0.0431,0.0,0.0789,0.692,134.992,"rock, pop, metal"
+The Prodigy,Omen,216026,False,2009,57,0.545,0.953,7,-5.172,1,0.0441,0.000941,0.117,0.281,0.558,140.002,"rock, pop, Dance/Electronic"
+Black Eyed Peas,Meet Me Halfway,284373,False,2009,72,0.798,0.629,11,-6.857,0,0.0735,0.00474,2.17e-05,0.324,0.4,130.0,"hip hop, pop"
+Kid Cudi,Day 'N' Nite (Nightmare),221240,False,2009,72,0.88,0.443,11,-6.359,0,0.0653,0.462,7.13e-06,0.122,0.803,138.018,hip hop
+Pitbull,I Know You Want Me (Calle Ocho),237120,False,2009,59,0.825,0.743,2,-5.995,1,0.149,0.0142,2.12e-05,0.237,0.8,127.045,"hip hop, pop, latin"
+Mariah Carey,Obsessed,242200,False,2009,66,0.742,0.468,10,-5.557,0,0.0625,0.0465,0.0,0.826,0.369,86.443,"pop, R&B"
+Agnes,Release Me,256213,False,2009,65,0.621,0.923,2,-3.124,0,0.0321,0.00645,7.28e-05,0.108,0.716,127.973,"pop, Dance/Electronic"
+Black Eyed Peas,Boom Boom Pow,251440,True,2009,68,0.867,0.857,9,-5.892,1,0.0663,0.13,0.00171,0.13,0.402,130.048,"hip hop, pop"
+Shakira,She Wolf,188866,False,2009,68,0.865,0.69,7,-7.448,1,0.0443,0.285,0.0162,0.225,0.867,121.983,"pop, latin"
+JAY-Z,Empire State Of Mind,276920,True,2009,82,0.491,0.956,11,-1.538,1,0.392,0.0295,0.0,0.46,0.811,173.585,hip hop
+OneRepublic,All The Right Moves,238000,False,2009,65,0.529,0.948,0,-3.527,1,0.0474,0.258,9.35e-06,0.283,0.65,146.024,pop
+Jeremih,Birthday Sex,226506,False,2009,67,0.677,0.523,7,-5.603,0,0.0439,0.295,0.0,0.15,0.446,60.019,"hip hop, pop, R&B"
+Cascada,Evacuate The Dancefloor,207200,False,2009,63,0.762,0.702,0,-5.87,1,0.0432,0.0167,0.0,0.314,0.898,127.029,"hip hop, pop, Dance/Electronic"
+Linkin Park,New Divide,268613,False,2009,68,0.493,0.808,5,-3.365,0,0.0362,0.000235,0.0,0.0983,0.38,117.971,"rock, metal"
+JAY-Z,Run This Town,267520,True,2009,75,0.632,0.924,1,-1.802,1,0.29,0.281,0.0,0.263,0.441,86.844,hip hop
+Lady Gaga,Bad Romance,294573,True,2009,80,0.696,0.921,0,-3.755,1,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001,pop
+Eminem,We Made You,269613,False,2009,63,0.924,0.853,2,-1.203,1,0.0792,0.107,1.45e-06,0.129,0.67,114.003,hip hop
+Ciara,Love Sex Magic (feat. Justin Timberlake),220426,False,2009,58,0.893,0.666,10,-5.089,0,0.138,0.0206,0.0,0.342,0.874,107.011,"pop, R&B"
+Rihanna,Russian Roulette,227533,True,2009,64,0.48,0.486,6,-5.754,0,0.0447,0.046,0.0,0.107,0.265,80.051,"hip hop, pop, R&B"
+The xx,Intro,127920,False,2009,2,0.617,0.778,9,-8.871,0,0.027,0.459,0.925,0.128,0.152,100.363,rock
+Jay Sean,Down,212106,False,2009,3,0.657,0.695,2,-4.493,1,0.0321,0.0108,0.0,0.0822,0.683,65.997,"hip hop, pop, R&B"
+Cheryl,Fight For This Love,223253,False,2009,65,0.739,0.741,7,-5.873,1,0.0912,0.013,0.0,0.0679,0.727,122.988,"pop, Dance/Electronic"
+Eminem,Crack A Bottle,297520,True,2009,70,0.516,0.874,9,-2.571,1,0.186,0.0864,0.0,0.173,0.391,169.561,hip hop
+Tinchy Stryder,Number 1,212773,False,2009,59,0.581,0.824,0,-3.912,0,0.0377,0.0105,0.0,0.483,0.747,114.912,"pop, Dance/Electronic"
+Pixie Lott,"Mama Do (Uh Oh, Uh Oh)",196520,False,2009,54,0.451,0.873,3,-4.711,0,0.19,0.171,0.0,0.327,0.589,119.918,"pop, Dance/Electronic"
+JLS,Beat Again - Radio Edit,196640,False,2009,0,0.894,0.93,11,-4.577,1,0.0712,0.0355,0.0,0.0759,0.968,120.02,pop
+A.R. Rahman,Jai Ho! (You Are My Destiny),222400,False,2009,65,0.657,0.941,8,-3.919,0,0.061,0.0476,0.0,0.0797,0.879,136.202,set()
+Alexandra Burke,Bad Boys (feat. Flo Rida),206480,False,2009,57,0.67,0.866,1,-3.684,1,0.0538,0.0115,0.0,0.358,0.636,140.029,pop
+Mario,Break Up,249026,True,2009,51,0.44,0.517,0,-7.355,1,0.363,0.428,0.0,0.173,0.475,73.881,"pop, R&B"
+Drake,Forever,357706,True,2009,73,0.457,0.906,5,-2.278,0,0.342,0.249,0.0,0.182,0.54,104.02,"hip hop, pop, R&B"
+Selena Gomez & The Scene,Naturally,202586,False,2009,63,0.605,0.902,10,-5.406,0,0.0511,0.0185,1.01e-06,0.0534,0.875,132.612,"pop, Dance/Electronic"
+Fabolous,Throw It In The Bag,231573,True,2009,59,0.789,0.55,11,-7.423,0,0.0473,0.174,0.0,0.0614,0.696,172.049,"hip hop, pop, R&B"
+Lily Allen,Not Fair,201213,True,2009,54,0.719,0.861,5,-6.982,1,0.0402,0.0447,0.00989,0.219,0.948,121.491,pop
+Sean Kingston,Fire Burning,239986,False,2009,71,0.839,0.804,1,-2.513,1,0.0329,0.0192,0.0,0.331,0.888,122.973,"hip hop, pop, R&B"
+Cobra Starship,Good Girls Go Bad (feat. Leighton Meester),196413,False,2009,65,0.594,0.874,0,-3.716,1,0.0815,0.0116,0.0,0.549,0.628,119.964,"pop, Dance/Electronic"
+La Roux,Bulletproof,205733,False,2009,71,0.674,0.882,3,-2.771,0,0.0477,0.000441,6.47e-05,0.068,0.682,123.016,"pop, Dance/Electronic"
+Kasabian,Fire,252279,False,2009,64,0.525,0.742,10,-5.643,1,0.0311,0.0874,0.149,0.117,0.179,117.029,rock
+Calvin Harris,I'm Not Alone - Radio Edit,210973,False,2009,55,0.597,0.684,7,-6.614,1,0.0321,0.00481,0.105,0.317,0.435,130.99,"hip hop, pop, Dance/Electronic"
+Justin Bieber,One Time,215866,False,2009,71,0.691,0.853,1,-2.528,0,0.0372,0.0631,7.13e-05,0.082,0.762,145.999,pop
+La Roux,In For The Kill,248626,False,2009,59,0.629,0.969,8,-0.276,0,0.0455,0.00184,0.0,0.122,0.905,150.01,"pop, Dance/Electronic"
+Muse,Uprising,304840,False,2009,75,0.602,0.905,2,-4.046,1,0.0775,0.000202,0.064,0.117,0.411,128.019,rock
+Boys Like Girls,Love Drunk,226706,False,2009,64,0.44,0.976,10,-3.17,1,0.141,0.00177,3.39e-06,0.16,0.412,150.005,pop
+The-Dream,Rockin' That Shit,221920,True,2009,62,0.672,0.62,8,-4.865,1,0.0422,0.123,0.0,0.362,0.627,78.005,"hip hop, pop, R&B"
+OneRepublic,Secrets,224693,False,2009,74,0.516,0.764,2,-6.223,1,0.0366,0.0717,0.0,0.115,0.376,148.021,pop
+Jason Aldean,Big Green Tractor,204200,False,2009,50,0.616,0.596,4,-5.035,1,0.0289,0.654,0.0,0.218,0.58,137.077,country
+The Fray,Never Say Never,256613,False,2009,67,0.23,0.492,8,-5.767,1,0.0317,0.568,8.18e-06,0.176,0.262,160.139,pop
+Lily Allen,The Fear,207120,True,2009,53,0.661,0.847,10,-6.948,1,0.0404,0.419,8.82e-05,0.107,0.522,134.002,pop
+Kelly Clarkson,Already Gone,281560,False,2009,56,0.209,0.872,9,-2.996,1,0.0757,0.217,0.0,0.0768,0.294,78.139,"pop, R&B"
+Miley Cyrus,Party In The U.S.A.,202066,False,2009,79,0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021,pop
+Jordin Sparks,Battlefield,241920,False,2009,57,0.613,0.634,2,-3.472,1,0.0339,0.0178,0.0,0.0639,0.37,144.953,"pop, R&B"
+Green Day,21 Guns,321093,False,2009,73,0.268,0.742,5,-4.939,1,0.0355,0.0518,0.0,0.626,0.416,159.779,rock
+Keri Hilson,Knock You Down,326186,False,2009,57,0.588,0.877,8,-4.78,1,0.16,0.00952,0.0,0.171,0.645,155.165,"pop, R&B"
+Asher Roth,I Love College,241933,True,2009,62,0.713,0.826,8,-4.075,1,0.243,0.0897,0.0,0.421,0.664,86.444,"hip hop, pop"
+Kelly Clarkson,My Life Would Suck Without You,211493,False,2009,68,0.526,0.882,9,-4.006,1,0.0509,0.0014,0.0,0.144,0.424,144.982,"pop, R&B"
+Mumford & Sons,Little Lion Man,245173,True,2009,68,0.517,0.492,5,-8.05,1,0.0272,0.0275,3.19e-05,0.0873,0.455,138.585,"Folk/Acoustic, rock, pop"
+The Fray,You Found Me,241853,False,2009,73,0.338,0.803,8,-5.412,0,0.0413,0.0187,0.0,0.136,0.4,151.994,pop
+Lady Gaga,Bad Romance,294573,True,2009,80,0.696,0.921,0,-3.755,1,0.0363,0.00314,5.24e-05,0.0842,0.714,119.001,pop
+Rihanna,Te Amo,208426,True,2009,67,0.567,0.707,8,-5.455,0,0.0818,0.541,0.000176,0.1,0.751,171.917,"hip hop, pop, R&B"
+Timbaland,Carry Out (Featuring Justin Timberlake),232466,False,2009,69,0.531,0.574,10,-6.693,0,0.113,0.114,0.0308,0.256,0.272,115.68,"hip hop, pop, R&B"
+Black Eyed Peas,Imma Be,257560,False,2009,61,0.597,0.517,0,-6.963,1,0.365,0.179,0.0,0.307,0.412,92.035,"hip hop, pop"
+Sidney Samson,Riverside,320348,True,2009,47,0.804,0.976,1,-2.458,0,0.0445,0.00023,0.894,0.125,0.237,125.997,Dance/Electronic
+Lady Gaga,Alejandro,274213,False,2009,67,0.623,0.793,11,-6.63,0,0.0462,0.000397,0.0015,0.375,0.36,98.998,pop
+Rihanna,Rude Boy,222920,True,2009,74,0.563,0.75,11,-4.496,1,0.127,0.113,0.0,0.0788,0.812,173.906,"hip hop, pop, R&B"
+Iyaz,Replay,182306,False,2009,75,0.706,0.751,9,-6.323,1,0.0708,0.173,0.0,0.168,0.195,91.031,"hip hop, pop"
+Lady Gaga,Telephone,220640,False,2009,69,0.824,0.836,3,-5.903,1,0.0404,0.00521,0.000817,0.112,0.716,122.014,pop
+Rihanna,Hard,250600,True,2009,55,0.31,0.746,1,-3.599,1,0.111,0.0121,0.0,0.649,0.163,182.032,"hip hop, pop, R&B"
+Adam Lambert,Whataya Want from Me,227320,False,2009,57,0.438,0.672,11,-4.706,0,0.0429,0.0055,0.0,0.0583,0.457,185.934,pop
+Timbaland,If We Ever Meet Again (Featuring Katy Perry),292706,False,2009,68,0.652,0.605,8,-7.371,1,0.0393,0.00481,0.0,0.0605,0.394,126.091,"hip hop, pop, R&B"
+Jay Sean,Down,212106,False,2009,3,0.657,0.695,2,-4.493,1,0.0321,0.0108,0.0,0.0822,0.683,65.997,"hip hop, pop, R&B"
+K'NAAN,Wavin' Flag,220520,False,2009,57,0.625,0.699,0,-6.416,1,0.0729,0.13,0.0,0.238,0.717,75.974,set()
+Trey Songz,Say Aah (feat. Fabolous),207546,False,2009,54,0.724,0.87,1,-3.614,0,0.113,0.00453,0.0,0.833,0.81,93.01,"hip hop, pop, R&B"
+Jay Sean,Do You Remember,210306,False,2009,2,0.855,0.668,11,-4.892,1,0.0644,0.0242,0.0,0.102,0.803,125.846,"hip hop, pop, R&B"
+JAY-Z,Young Forever,253906,True,2009,65,0.637,0.69,9,-3.214,0,0.0693,0.417,0.0,0.211,0.103,140.329,hip hop
+Young Money,BedRock,288133,True,2009,71,0.733,0.664,8,-6.163,1,0.295,0.102,0.0,0.191,0.557,148.005,"hip hop, pop"
+Owl City,Fireflies,228346,False,2009,78,0.512,0.662,3,-6.797,1,0.0439,0.0275,0.0,0.118,0.472,180.114,"rock, pop"
+Alicia Keys,Empire State of Mind (Part II) Broken Down,216480,False,2009,71,0.484,0.368,6,-7.784,1,0.0341,0.74,3.82e-05,0.118,0.142,92.923,"pop, R&B"
+Kris Allen,Live Like We're Dying,212506,False,2009,51,0.589,0.893,0,-2.948,1,0.0397,0.0273,0.0,0.343,0.94,92.011,pop
+OneRepublic,Good Life,253306,True,2009,72,0.634,0.69,6,-7.804,1,0.052,0.0771,0.0,0.132,0.645,94.988,pop

@@ -1,0 +1,100 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Gigi D'Agostino,L'Amour Toujours,238759,False,2011,1,0.617,0.728,7,-7.932,1,0.0292,0.0328,0.0482,0.36,0.808,139.066,pop
+Mariah Carey,Against All Odds (Take A Look at Me Now) (feat. Westlife),199480,False,2011,0,0.471,0.514,1,-5.599,1,0.0315,0.584,0.0,0.103,0.373,117.338,"pop, R&B"
+Cascada,Everytime We Touch - Radio Edit,199120,False,2011,0,0.64,0.977,8,-5.369,1,0.0555,0.00461,1.68e-05,0.371,0.493,142.019,"hip hop, pop, Dance/Electronic"
+Guru Josh Project,Infinity 2008,190013,False,2011,1,0.493,0.849,7,-6.139,0,0.0576,0.000337,0.00672,0.355,0.483,127.999,hip hop
+Dizzee Rascal,Dance Wiv Me - Radio Edit,204093,False,2011,68,0.878,0.746,11,-4.281,1,0.0451,0.0476,0.0,0.154,0.792,111.996,"hip hop, pop, Dance/Electronic"
+Dizzee Rascal,Bonkers,177573,False,2011,38,0.624,0.977,11,-3.34,0,0.22,0.00615,0.0,0.253,0.74,126.127,"hip hop, pop, Dance/Electronic"
+Dizzee Rascal,Holiday,220626,False,2011,60,0.545,0.918,0,-1.925,1,0.0448,0.0571,0.0,0.0415,0.855,117.985,"hip hop, pop, Dance/Electronic"
+Lucenzo,Danza Kuduro (feat. Don Omar),213986,False,2011,0,0.622,0.942,7,-6.365,1,0.112,0.00713,0.0,0.0715,0.773,130.003,latin
+Kelly Rowland,Commander,218106,False,2011,59,0.395,0.876,11,-3.859,0,0.138,0.0173,8.46e-06,0.362,0.567,124.638,"hip hop, pop, R&B"
+Chris Brown,Deuces (feat. Tyga & Kevin McCall),276560,True,2011,68,0.692,0.736,1,-5.109,1,0.11,0.0324,0.0,0.0787,0.217,73.987,"hip hop, pop, R&B"
+Cali Swag District,Teach Me How to Dougie,237480,True,2011,66,0.846,0.438,11,-4.981,1,0.141,0.2,9.43e-05,0.0939,0.512,85.013,"hip hop, pop"
+Matt Cardle,When We Collide,226000,False,2011,46,0.443,0.683,2,-5.521,1,0.0343,0.0198,5.26e-06,0.313,0.447,81.986,pop
+Adele,Rolling in the Deep,228093,True,2011,2,0.73,0.77,8,-5.114,1,0.0298,0.138,0.0,0.0473,0.507,104.948,"pop, R&B"
+LMFAO,Party Rock Anthem,262146,False,2011,73,0.751,0.736,5,-4.168,0,0.156,0.0206,0.0,0.265,0.352,130.014,"hip hop, pop, Dance/Electronic"
+Pitbull,Hey Baby (Drop It to the Floor) (feat. T-Pain),234453,False,2011,71,0.595,0.912,10,-3.428,0,0.0884,0.0434,0.0,0.259,0.762,128.024,"hip hop, pop, latin"
+Alexandra Stan,Mr. Saxobeat,195105,False,2011,0,0.726,0.931,11,-4.152,0,0.0468,0.0218,0.000283,0.143,0.797,126.976,"pop, Dance/Electronic"
+Jennifer Lopez,On The Floor,284866,False,2011,79,0.73,0.777,3,-5.194,0,0.0496,0.105,0.000478,0.0691,0.575,130.0,"hip hop, pop, R&B"
+Snoop Dogg,Sweat - Remix,195986,False,2011,68,0.813,0.732,7,-5.636,1,0.03,0.0597,0.00137,0.0826,0.731,130.02,"hip hop, pop"
+Example,Changed the Way You Kiss Me - Radio Edit,195466,False,2011,42,0.578,0.857,4,-3.78,0,0.041,0.00548,0.00162,0.0948,0.188,126.979,"pop, Dance/Electronic"
+Lykke Li,I Follow Rivers - The Magician Remix,281106,False,2011,51,0.786,0.709,9,-5.737,0,0.0395,0.0192,0.00118,0.0845,0.285,122.019,"pop, Dance/Electronic"
+Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",252306,False,2011,81,0.671,0.939,8,-3.206,1,0.161,0.191,0.0,0.298,0.53,129.024,"hip hop, pop, latin"
+Selena Gomez & The Scene,Love You Like A Love Song,188453,False,2011,79,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009,"pop, Dance/Electronic"
+Wiz Khalifa,Black and Yellow,217666,True,2011,75,0.684,0.834,2,-4.524,0,0.0675,0.0646,0.0,0.271,0.538,164.02,"hip hop, pop"
+Britney Spears,I Wanna Go,210266,False,2011,66,0.696,0.546,5,-6.55,1,0.0414,0.00379,3.8e-06,0.332,0.787,130.002,pop
+Gym Class Heroes,Stereo Hearts (feat. Adam Levine),210960,False,2011,81,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,"hip hop, pop"
+Sak Noel,Loca People - Radio Edit,215624,True,2011,49,0.926,0.808,11,-3.148,0,0.0599,0.000915,0.00327,0.0515,0.701,127.998,Dance/Electronic
+Olly Murs,Heart Skips a Beat (feat. Rizzle Kicks),202266,False,2011,61,0.843,0.881,9,-3.951,1,0.0581,0.14,0.0,0.0765,0.876,110.621,"pop, Dance/Electronic"
+LMFAO,Sexy And I Know It,199480,False,2011,67,0.707,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.021,"hip hop, pop, Dance/Electronic"
+Cobra Starship,You Make Me Feel... (feat. Sabi),215693,False,2011,70,0.668,0.857,7,-2.944,0,0.0535,0.0191,6.71e-06,0.0385,0.748,131.959,"pop, Dance/Electronic"
+Jessie J,Do It Like A Dude,195240,True,2011,57,0.663,0.843,2,-3.672,1,0.049,0.0491,0.0,0.364,0.375,140.036,"hip hop, pop"
+Nickelback,When We Stand Together,190786,False,2011,65,0.446,0.9,10,-3.541,0,0.0489,0.000102,1.89e-05,0.0404,0.88,187.961,"rock, metal"
+M83,Midnight City,243960,False,2011,76,0.507,0.729,11,-5.399,0,0.0393,0.0182,1.4e-06,0.0658,0.272,105.013,"rock, pop, metal, Dance/Electronic"
+Britney Spears,Till the World Ends,237946,False,2011,65,0.693,0.705,8,-5.747,1,0.0665,0.0228,0.0,0.202,0.45,131.951,pop
+Jason Derulo,Don't Wanna Go Home,206080,False,2011,63,0.671,0.808,2,-4.861,0,0.0652,0.02,0.0,0.134,0.637,121.956,"hip hop, pop"
+Coldplay,Paradise,278719,False,2011,82,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,"rock, pop"
+Adele,Set Fire to the Rain,242973,False,2011,2,0.603,0.67,2,-3.882,0,0.0249,0.00408,1.66e-06,0.112,0.445,107.995,"pop, R&B"
+Dr. Dre,I Need A Doctor,283733,True,2011,71,0.594,0.946,3,-4.521,1,0.452,0.0869,0.0,0.306,0.397,155.826,hip hop
+Lil Wayne,6 Foot 7 Foot,248586,True,2011,1,0.364,0.752,2,-5.429,1,0.304,0.0007,0.0,0.318,0.606,79.119,"hip hop, pop"
+DJ Khaled,I'm On One,296146,True,2011,70,0.413,0.807,11,-3.499,0,0.318,0.0536,0.0,0.631,0.438,149.33,"hip hop, pop"
+Chris Brown,Look At Me Now (feat. Lil' Wayne & Busta Rhymes),222586,True,2011,71,0.767,0.677,11,-6.128,0,0.184,0.0339,5.51e-06,0.144,0.538,146.155,"hip hop, pop, R&B"
+The Wanted,Glad You Came,197935,False,2011,77,0.722,0.851,7,-3.873,0,0.0639,0.0319,0.0,0.108,0.452,126.885,"pop, Dance/Electronic"
+Kelly Rowland,Motivation,230560,False,2011,65,0.744,0.672,9,-5.589,0,0.0418,0.187,0.000123,0.105,0.266,140.889,"hip hop, pop, R&B"
+Rihanna,We Found Love,215226,False,2011,75,0.735,0.766,1,-4.485,1,0.0383,0.025,0.00138,0.108,0.6,127.985,"hip hop, pop, R&B"
+Nicole Scherzinger,Don't Hold Your Breath,197440,False,2011,62,0.66,0.797,5,-6.096,0,0.0262,0.00646,0.000108,0.187,0.674,110.955,"pop, Dance/Electronic"
+Mann,Buzzin Remix,224333,True,2011,48,0.687,0.939,10,-4.372,0,0.146,0.0887,0.0,0.283,0.539,104.029,"hip hop, pop"
+Chris Brown,Yeah 3x,241666,True,2011,69,0.705,0.882,11,-3.201,0,0.0445,0.000369,1.16e-06,0.0934,0.7,130.0,"hip hop, pop, R&B"
+Swedish House Mafia,Save The World,213337,False,2011,65,0.507,0.665,0,-7.598,1,0.0474,0.0144,0.0,0.0759,0.4,126.879,"pop, Dance/Electronic"
+Avril Lavigne,What the Hell,220706,False,2011,74,0.578,0.926,6,-3.689,0,0.0548,0.00472,0.0127,0.14,0.877,149.976,pop
+Professor Green,Read All About It,235735,True,2011,39,0.656,0.752,11,-5.522,0,0.0434,0.336,0.0,0.223,0.445,100.963,Dance/Electronic
+Chase & Status,Blind Faith,233666,False,2011,60,0.45,0.846,9,-4.712,0,0.0472,0.00523,0.0,0.228,0.402,140.042,Dance/Electronic
+Chip,Champion (feat. Chris Brown),237293,True,2011,48,0.415,0.934,6,-2.914,0,0.24,0.078,0.0,0.145,0.52,190.151,"hip hop, Dance/Electronic"
+Selena Gomez & The Scene,Who Says,195613,False,2011,76,0.682,0.927,4,-2.915,1,0.0479,0.0843,0.0,0.149,0.744,101.019,"pop, Dance/Electronic"
+Rizzle Kicks,Down With The Trumpets,186851,False,2011,59,0.753,0.88,4,-4.689,0,0.0806,0.087,0.0,0.24,0.794,115.057,hip hop
+Lady Gaga,Born This Way,260253,False,2011,72,0.587,0.828,11,-5.108,1,0.161,0.00327,0.0,0.331,0.494,123.907,pop
+Mac Miller,Donald Trump,165908,True,2011,61,0.636,0.901,1,-7.094,0,0.118,0.119,0.0,0.391,0.836,162.994,hip hop
+Foster The People,Pumped Up Kicks,239600,False,2011,82,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,"rock, pop"
+Drake,Headlines,235986,True,2011,74,0.636,0.566,6,-7.16,0,0.106,0.365,0.000353,0.0917,0.425,151.894,"hip hop, pop, R&B"
+Jessie J,Price Tag,223053,False,2011,73,0.636,0.831,5,-3.945,1,0.182,0.0294,3.85e-06,0.272,0.668,175.015,"hip hop, pop"
+Wiz Khalifa,Roll Up,227773,True,2011,63,0.523,0.805,3,-5.473,1,0.192,0.0524,0.0,0.0914,0.602,125.358,"hip hop, pop"
+Bad Meets Evil,Lighters,303813,True,2011,68,0.676,0.695,0,-8.327,1,0.245,0.352,0.0,0.119,0.144,90.268,"hip hop, pop"
+Lupe Fiasco,The Show Goes On,239613,True,2011,70,0.591,0.889,7,-3.839,1,0.115,0.0189,0.0,0.155,0.65,143.067,"hip hop, pop"
+James Morrison,I Won't Let You Go,229303,False,2011,64,0.537,0.611,0,-6.427,1,0.0304,0.229,0.0,0.146,0.161,105.955,"pop, R&B"
+Jason Derulo,It Girl,192200,False,2011,70,0.668,0.718,1,-4.736,0,0.0605,0.0165,0.0,0.104,0.345,91.993,"hip hop, pop"
+Adele,Someone Like You,285240,False,2011,4,0.554,0.321,9,-8.251,1,0.028,0.893,0.0,0.0996,0.288,135.047,"pop, R&B"
+Red Hot Chili Peppers,The Adventures of Rain Dance Maggie,282400,False,2011,65,0.683,0.734,4,-4.523,0,0.029,0.00112,0.0139,0.258,0.576,106.254,rock
+Blake Shelton,Honey Bee,210720,False,2011,50,0.481,0.849,4,-5.131,1,0.0385,0.00167,1.49e-06,0.121,0.723,205.57,country
+Lady Gaga,The Edge Of Glory,320546,False,2011,67,0.583,0.768,9,-6.477,1,0.041,0.000323,0.0162,0.109,0.357,127.952,pop
+Lady A,Just A Kiss,218840,False,2011,63,0.593,0.639,1,-5.826,1,0.0307,0.446,0.0,0.0998,0.332,142.881,"pop, country"
+Hot Chelle Rae,Tonight Tonight,200466,False,2011,73,0.686,0.783,4,-4.977,1,0.119,0.0764,0.0,0.163,0.814,99.978,"hip hop, pop, rock"
+Grouplove,Tongue Tied,218013,False,2011,79,0.56,0.936,3,-5.835,1,0.0439,0.00847,0.0,0.161,0.371,112.96,"pop, rock, Folk/Acoustic"
+Coldplay,Every Teardrop Is a Waterfall,240796,False,2011,69,0.425,0.732,9,-6.883,1,0.0396,0.00194,0.0103,0.171,0.333,117.98,"rock, pop"
+Beyoncé,Best Thing I Never Had,253746,False,2011,69,0.545,0.649,6,-4.062,1,0.0324,0.143,1.57e-05,0.0894,0.297,99.099,"pop, R&B"
+Christina Perri,Jar of Hearts,246587,False,2011,72,0.349,0.348,3,-6.142,1,0.0316,0.726,0.0,0.12,0.0886,74.541,pop
+Lil Wayne,How To Love,240306,False,2011,0,0.644,0.661,11,-6.093,1,0.0418,0.000177,5.23e-06,0.108,0.272,153.992,"hip hop, pop"
+Charlene Soraia,Wherever You Will Go,197577,False,2011,60,0.597,0.115,9,-9.217,1,0.0334,0.82,0.000215,0.111,0.128,111.202,pop
+Christina Perri,A Thousand Years,285120,False,2011,70,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,pop
+Rihanna,We Found Love,215226,False,2011,75,0.735,0.766,1,-4.485,1,0.0383,0.025,0.00138,0.108,0.6,127.985,"hip hop, pop, R&B"
+Pitbull,International Love (feat. Chris Brown),227280,False,2011,74,0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,"hip hop, pop, latin"
+Rihanna,Where Have You Been,242680,False,2011,71,0.719,0.847,0,-6.34,0,0.0916,0.00201,0.0204,0.223,0.444,127.963,"hip hop, pop, R&B"
+JAY-Z,Ni**as In Paris,219333,True,2011,82,0.789,0.858,1,-5.542,1,0.311,0.127,0.0,0.349,0.775,140.022,hip hop
+Skrillex,Bangarang (feat. Sirah),215253,True,2011,70,0.716,0.972,7,-2.302,1,0.196,0.0145,3.22e-05,0.317,0.576,110.026,"hip hop, pop, Dance/Electronic"
+LMFAO,Sexy And I Know It,199480,False,2011,67,0.707,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.021,"hip hop, pop, Dance/Electronic"
+Avicii,Levels - Radio Edit,199906,False,2011,77,0.584,0.889,1,-5.941,0,0.0343,0.0462,0.828,0.309,0.464,126.04,"pop, Dance/Electronic"
+Florence + The Machine,Spectrum (Say My Name) - Calvin Harris Remix,218190,False,2011,68,0.578,0.946,11,-3.85,0,0.0482,0.00225,0.00412,0.0966,0.588,126.092,"rock, pop, Dance/Electronic"
+Adele,Rumour Has It,223266,False,2011,0,0.612,0.748,0,-5.014,1,0.0445,0.617,0.0,0.167,0.574,120.052,"pop, R&B"
+Coldplay,Paradise,278719,False,2011,82,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,"rock, pop"
+Jessie J,Domino,231840,False,2011,74,0.758,0.557,7,-4.568,1,0.034,0.0117,0.0,0.0418,0.781,126.986,"hip hop, pop"
+Snoop Dogg,"Young, Wild & Free (feat. Bruno Mars)",207333,True,2011,77,0.715,0.655,0,-6.425,1,0.137,0.0525,0.0,0.115,0.531,95.078,"hip hop, pop"
+Alex Clare,Too Close,256613,False,2011,60,0.588,0.694,11,-4.278,0,0.0387,0.00948,0.0,0.113,0.271,126.027,rock
+Gotye,Somebody That I Used To Know,244884,False,2011,57,0.863,0.527,0,-6.896,1,0.0358,0.607,0.000168,0.107,0.674,129.054,set()
+Coldplay,Princess of China,239215,False,2011,66,0.42,0.69,9,-6.221,0,0.0347,0.00385,0.015,0.287,0.237,85.014,"rock, pop"
+Gym Class Heroes,Ass Back Home (feat. Neon Hitch),222213,True,2011,61,0.716,0.838,10,-4.289,1,0.0513,0.134,0.0,0.148,0.646,130.034,"hip hop, pop"
+Kelly Clarkson,Stronger (What Doesn't Kill You),221946,False,2011,74,0.562,0.939,0,-4.282,1,0.0475,0.046,0.0,0.112,0.684,116.044,"pop, R&B"
+Drake,The Motto,181573,True,2011,74,0.766,0.442,1,-8.558,1,0.356,0.000107,6.12e-05,0.111,0.39,201.8,"hip hop, pop, R&B"
+Demi Lovato,Give Your Heart a Break,205346,False,2011,71,0.651,0.695,6,-3.218,1,0.0487,0.23,0.0,0.144,0.569,123.008,pop
+Drake,Take Care,277386,True,2011,75,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,"hip hop, pop, R&B"
+Bruno Mars,It Will Rain,257720,False,2011,74,0.576,0.835,2,-6.826,1,0.0486,0.337,0.0,0.082,0.476,150.017,pop
+Cher Lloyd,Want U Back,214013,False,2011,67,0.696,0.893,9,-2.963,1,0.076,0.0662,0.0,0.473,0.573,97.954,"pop, Dance/Electronic"
+AWOLNATION,Sail,259102,False,2011,2,0.825,0.435,1,-9.582,1,0.0568,0.452,0.609,0.0953,0.243,119.038,"pop, rock"

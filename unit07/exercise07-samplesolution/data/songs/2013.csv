@@ -1,0 +1,90 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Scooter,The Logical Song,234116,False,2013,46,0.527,0.933,6,-6.277,0,0.0382,0.00112,0.0362,0.425,0.493,144.043,"pop, Dance/Electronic"
+Scooter,Nessaja,208449,False,2013,47,0.486,0.904,2,-6.642,1,0.0364,0.000748,0.0984,0.187,0.118,143.048,"pop, Dance/Electronic"
+Unk,Walk It Out,173040,True,2013,48,0.794,0.777,1,-3.696,0,0.0813,0.0982,0.0,0.202,0.706,160.022,"hip hop, pop"
+JLS,Everybody in Love,195586,False,2013,39,0.705,0.783,5,-5.971,0,0.0327,0.0703,0.0,0.36,0.656,140.022,pop
+will.i.am,This Is Love,279026,False,2013,62,0.535,0.796,0,-3.446,0,0.0445,0.00473,0.0,0.145,0.282,128.954,"hip hop, pop"
+James Arthur,Impossible,209440,False,2013,75,0.376,0.695,0,-4.782,0,0.0933,0.135,0.0,0.11,0.302,169.533,pop
+Disclosure,Latch,255631,False,2013,74,0.503,0.727,1,-5.456,1,0.167,0.0159,9.45e-05,0.0895,0.521,121.985,"pop, Dance/Electronic"
+Rudimental,Feel the Love (feat. John Newman),245186,False,2013,64,0.389,0.706,1,-6.849,1,0.0593,0.0026,0.000182,0.686,0.238,179.911,"pop, Dance/Electronic"
+Lorde,Royals,190185,False,2013,77,0.674,0.428,7,-9.504,1,0.122,0.121,0.0,0.132,0.337,84.878,"pop, Dance/Electronic"
+Robin Thicke,Blurred Lines,263053,False,2013,55,0.861,0.504,7,-7.707,1,0.0489,0.00412,1.78e-05,0.0783,0.881,120.0,"pop, R&B"
+Avicii,Wake Me Up,247426,False,2013,6,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,"pop, Dance/Electronic"
+Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,248413,False,2013,83,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047,"hip hop, Dance/Electronic"
+will.i.am,Scream & Shout,283400,True,2013,78,0.772,0.685,5,-6.849,1,0.0696,0.019,8.96e-05,0.131,0.501,130.033,"hip hop, pop"
+Stromae,Papaoutai,232146,False,2013,0,0.733,0.818,10,-7.222,0,0.0859,0.0241,0.0,0.0636,0.253,116.019,pop
+Bingo Players,Get Up (Rattle) - Vocal Edit,166933,False,2013,1,0.801,0.985,7,-2.69,1,0.0645,0.0205,6.86e-06,0.296,0.722,127.99,"pop, Dance/Electronic"
+Naughty Boy,La La La,220779,False,2013,58,0.754,0.677,6,-4.399,0,0.0316,0.112,0.0,0.111,0.254,124.988,Dance/Electronic
+Tom Odell,Another Love,244360,True,2013,88,0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,pop
+2 Chainz,We Own It (Fast & Furious),227906,False,2013,69,0.563,0.902,1,-4.586,0,0.402,0.0545,0.0,0.0524,0.559,171.999,"hip hop, pop"
+will.i.am,#thatPOWER,279506,False,2013,68,0.797,0.608,6,-6.096,0,0.0584,0.00112,7.66e-05,0.0748,0.402,127.999,"hip hop, pop"
+Lil Wayne,Love Me,255053,True,2013,68,0.669,0.634,11,-6.476,1,0.0327,0.0125,0.0,0.0946,0.496,124.906,"hip hop, pop"
+Martin Garrix,Animals - Radio Edit,176117,False,2013,0,0.593,0.914,1,-5.351,1,0.0363,0.00137,0.445,0.0714,0.0381,128.015,"pop, Dance/Electronic"
+Jason Derulo,Talk Dirty (feat. 2 Chainz),177685,True,2013,56,0.76,0.652,6,-7.321,1,0.232,0.0348,0.0,0.307,0.759,100.315,"hip hop, pop"
+John Newman,Love Me Again,239894,False,2013,74,0.495,0.894,2,-4.814,0,0.0441,0.00453,0.000596,0.103,0.213,126.03,set()
+Britney Spears,Work B**ch,247853,True,2013,0,0.63,0.816,9,-6.535,1,0.15,0.124,0.00111,0.0616,0.85,128.012,pop
+The Neighbourhood,Sweater Weather,240400,False,2013,89,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,"rock, pop"
+Sebastian Ingrosso,Reload - Radio Edit,221272,False,2013,68,0.485,0.724,9,-4.633,0,0.0521,0.0736,0.0,0.0631,0.433,128.045,"pop, Dance/Electronic"
+Capital Cities,Safe And Sound,192693,False,2013,0,0.652,0.783,0,-4.829,1,0.0309,0.000189,0.0173,0.0889,0.836,117.952,pop
+Demi Lovato,Heart Attack,210840,False,2013,79,0.504,0.785,8,-4.802,1,0.104,0.0738,0.0,0.239,0.502,173.968,pop
+Arctic Monkeys,Why'd You Only Call Me When You're High?,161123,False,2013,84,0.691,0.631,2,-6.478,1,0.0368,0.0483,1.13e-05,0.104,0.8,92.004,rock
+Eminem,The Monster,250188,True,2013,75,0.781,0.853,1,-3.68,0,0.0715,0.0525,0.0,0.12,0.624,110.049,hip hop
+Selena Gomez,Come & Get It,231986,False,2013,69,0.546,0.787,7,-4.1,0,0.0517,0.0101,0.00021,0.0809,0.573,79.979,pop
+Disclosure,White Noise,277687,False,2013,54,0.665,0.844,10,-6.164,0,0.0501,0.00963,0.000215,0.311,0.902,119.978,"pop, Dance/Electronic"
+Kanye West,Black Skinhead,188013,True,2013,0,0.578,0.825,1,-6.107,1,0.322,0.000986,0.0,0.176,0.283,130.089,hip hop
+Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,214912,False,2013,72,0.572,0.81,1,-5.791,0,0.0558,0.0157,6.53e-06,0.13,0.11,126.052,pop
+Eminem,Berzerk,238746,True,2013,66,0.739,0.872,11,-4.059,0,0.333,0.0217,0.0,0.26,0.684,95.084,hip hop
+Icona Pop,I Love It (feat. Charli XCX),157152,True,2013,68,0.711,0.906,8,-2.671,1,0.0284,0.00952,1.64e-05,0.153,0.824,125.916,"pop, Dance/Electronic"
+Fall Out Boy,My Songs Know What You Did In The Dark (Light Em Up),186826,False,2013,71,0.558,0.924,9,-4.341,0,0.064,0.0271,3.32e-06,0.537,0.567,151.99,rock
+Lorde,Team,193058,False,2013,0,0.691,0.582,6,-7.444,1,0.0939,0.162,0.0,0.247,0.427,100.05,"pop, Dance/Electronic"
+One Direction,One Way or Another (Teenage Kicks),157293,False,2013,66,0.489,0.867,4,-3.121,0,0.071,0.025,0.0,0.586,0.409,162.131,pop
+Arctic Monkeys,Do I Wanna Know?,272394,False,2013,84,0.548,0.532,5,-7.596,1,0.0323,0.186,0.000263,0.217,0.405,85.03,rock
+Rudimental,Waiting All Night (feat. Ella Eyre),292586,False,2013,66,0.544,0.728,6,-5.358,0,0.05,0.00264,0.00959,0.427,0.281,174.983,"pop, Dance/Electronic"
+A$AP Rocky,"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",233786,True,2013,76,0.853,0.693,1,-6.87,1,0.275,0.0239,0.0,0.11,0.662,95.967,hip hop
+Ylvis,The Fox (What Does the Fox Say?),213708,False,2013,63,0.703,0.867,6,-4.292,1,0.0453,0.107,0.0,0.119,0.546,128.008,hip hop
+Baauer,Harlem Shake,196664,False,2013,57,0.452,0.794,0,-5.151,1,0.0483,0.0111,0.00182,0.416,0.282,137.825,Dance/Electronic
+Katy Perry,This Is How We Do,204285,False,2013,60,0.69,0.636,9,-6.028,0,0.0457,0.0203,0.0,0.147,0.8,96.0,pop
+Duke Dumont,Need U (100%) [feat. A*M*E] - Radio Edit,174853,False,2013,27,0.681,0.835,0,-5.705,0,0.049,0.00176,0.00183,0.354,0.469,124.047,"pop, Dance/Electronic"
+Jason Derulo,The Other Side,226986,False,2013,50,0.561,0.836,9,-3.939,1,0.1,0.0525,0.0,0.136,0.517,127.923,"hip hop, pop"
+Katy Perry,Unconditionally,228878,False,2013,0,0.555,0.729,7,-4.813,1,0.0387,0.00357,0.0,0.209,0.369,129.003,pop
+Wale,Bad (feat. Rihanna) - Remix,238826,True,2013,61,0.807,0.702,6,-6.594,0,0.0748,0.307,0.0,0.111,0.447,114.038,"hip hop, pop, R&B"
+Ciara,Body Party,234040,False,2013,64,0.577,0.576,2,-6.299,1,0.0563,0.0143,0.0,0.602,0.12,133.973,"pop, R&B"
+Drake,Started From the Bottom,174120,True,2013,65,0.794,0.523,8,-7.829,1,0.161,0.0331,0.0,0.156,0.56,86.307,"hip hop, pop, R&B"
+Birdy,Wings,252106,False,2013,48,0.474,0.707,7,-4.534,1,0.0253,0.0831,0.0,0.162,0.224,83.235,pop
+Bastille,Of The Night,214205,False,2013,61,0.67,0.829,5,-7.2,0,0.0427,0.0192,0.000225,0.089,0.349,125.01,"pop, rock"
+Katy Perry,Roar,223546,False,2013,73,0.554,0.772,7,-4.821,0,0.0418,0.00487,6.6e-06,0.354,0.455,179.984,pop
+Blake Shelton,Sure Be Cool If You Did,215720,False,2013,56,0.576,0.726,11,-4.625,1,0.035,0.255,0.0,0.108,0.582,136.802,country
+JAY-Z,Holy Grail,338413,True,2013,62,0.676,0.534,2,-6.901,0,0.0831,0.0594,8.59e-06,0.256,0.156,145.082,hip hop
+The Saturdays,What About Us,220682,False,2013,61,0.704,0.68,7,-4.751,1,0.0581,0.0059,0.0,0.213,0.689,123.973,"pop, Dance/Electronic"
+Bastille,Pompeii,214147,False,2013,74,0.679,0.715,9,-6.383,1,0.0407,0.0755,0.0,0.271,0.571,127.435,"pop, rock"
+One Direction,Best Song Ever,200106,False,2013,76,0.652,0.877,1,-2.986,1,0.0465,0.0227,0.0,0.0789,0.486,118.491,pop
+Nelly,Hey Porsche,209466,True,2013,57,0.726,0.795,9,-4.653,1,0.029,0.136,0.0,0.698,0.952,115.995,"hip hop, pop, R&B"
+Miley Cyrus,Wrecking Ball,221360,False,2013,77,0.53,0.422,5,-6.262,1,0.0342,0.407,0.0,0.107,0.349,119.964,pop
+Chris Brown,Fine China,213666,False,2013,0,0.659,0.735,10,-4.758,0,0.056,0.0466,0.0,0.111,0.609,104.038,"hip hop, pop, R&B"
+Daft Punk,Lose Yourself to Dance (feat. Pharrell Williams),353893,False,2013,69,0.832,0.659,10,-7.828,0,0.057,0.0839,0.00114,0.0753,0.674,100.163,"hip hop, Dance/Electronic"
+Armin van Buuren,This Is What It Feels Like,204360,False,2013,66,0.551,0.833,8,-5.217,1,0.03,0.0391,2.77e-06,0.0632,0.145,129.885,"pop, Dance/Electronic"
+Justin Timberlake,Mirrors,484146,False,2013,78,0.574,0.512,5,-6.664,0,0.0503,0.234,0.0,0.0946,0.512,76.899,pop
+Miley Cyrus,We Can't Stop,231240,False,2013,78,0.613,0.622,1,-5.794,0,0.0334,0.00882,0.0,0.37,0.484,80.003,pop
+J. Cole,Power Trip (feat. Miguel),241160,True,2013,0,0.667,0.61,1,-7.054,1,0.217,0.322,0.000203,0.426,0.465,99.991,hip hop
+Paramore,Still into You,216013,False,2013,79,0.602,0.923,5,-3.763,1,0.044,0.0098,0.0,0.0561,0.765,136.01,"pop, rock"
+Christina Perri,human,250706,False,2013,59,0.439,0.489,8,-6.286,1,0.0368,0.132,0.000643,0.114,0.253,143.808,pop
+Drake,"Hold On, We're Going Home",227880,False,2013,72,0.773,0.414,6,-7.436,0,0.0961,0.00411,3.4e-05,0.0733,0.289,99.993,"hip hop, pop, R&B"
+James Blunt,Bonfire Heart,238000,False,2013,0,0.575,0.821,0,-5.7,1,0.0527,0.181,0.0,0.124,0.449,118.021,pop
+Childish Gambino,3005,235662,True,2013,0,0.681,0.463,6,-6.542,0,0.289,0.128,0.0,0.0769,0.661,82.92,hip hop
+Avril Lavigne,Here's to Never Growing Up,214080,True,2013,0,0.483,0.871,0,-3.084,1,0.101,0.015,0.0,0.415,0.716,164.986,pop
+Ariana Grande,The Way,227026,False,2013,65,0.645,0.878,5,-3.208,0,0.113,0.294,0.0,0.076,0.862,82.324,pop
+Justin Timberlake,Suit & Tie (feat. Jay-Z),326280,True,2013,67,0.795,0.596,11,-3.799,0,0.219,0.103,0.0,0.164,0.357,101.985,pop
+Katy Perry,Dark Horse,215672,False,2013,74,0.647,0.585,6,-6.123,1,0.0512,0.00314,0.0,0.165,0.353,131.934,pop
+John Legend,All of Me,269560,False,2013,84,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,"pop, R&B"
+Jason Derulo,Talk Dirty (feat. 2 Chainz),177685,True,2013,56,0.76,0.652,6,-7.321,1,0.232,0.0348,0.0,0.307,0.759,100.315,"hip hop, pop"
+Jason Derulo,Wiggle (feat. Snoop Dogg),193295,False,2013,66,0.697,0.621,9,-6.886,0,0.25,0.0802,0.0,0.162,0.721,81.946,"hip hop, pop"
+DJ Snake,Turn Down for What,213733,False,2013,70,0.818,0.799,1,-4.1,0,0.156,0.00107,0.128,0.057,0.0815,100.014,"hip hop, pop, Dance/Electronic"
+Lorde,Team,193058,False,2013,76,0.69,0.578,6,-7.436,1,0.0929,0.167,0.0,0.305,0.416,99.961,"pop, Dance/Electronic"
+Klingande,Jubel - Radio Edit,201626,False,2013,50,0.686,0.524,0,-7.251,1,0.0343,0.649,0.0569,0.14,0.0951,124.938,"pop, Dance/Electronic"
+Avicii,Hey Brother,255093,False,2013,2,0.545,0.78,7,-4.867,0,0.0436,0.0309,4.64e-05,0.0828,0.458,125.014,"pop, Dance/Electronic"
+Disclosure,Latch,255631,False,2013,74,0.503,0.727,1,-5.456,1,0.167,0.0159,9.45e-05,0.0895,0.521,121.985,"pop, Dance/Electronic"
+Tiësto,Red Lights,263890,False,2013,0,0.653,0.829,10,-4.783,1,0.0377,0.000739,1.5e-06,0.225,0.545,124.989,"pop, Dance/Electronic"
+One Direction,Story of My Life,245493,False,2013,81,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,pop
+Echosmith,Cool Kids,237626,False,2013,71,0.719,0.671,8,-6.279,1,0.0336,0.0372,8.21e-06,0.12,0.786,130.027,pop
+Ed Sheeran,"I See Fire - From ""The Hobbit - The Desolation Of Smaug""",300840,False,2013,71,0.581,0.0549,10,-20.514,0,0.0397,0.559,0.0,0.0718,0.234,152.037,pop
+Jason Derulo,Trumpets,217306,False,2013,53,0.627,0.703,0,-4.884,1,0.236,0.563,0.0,0.0962,0.64,81.897,"hip hop, pop"

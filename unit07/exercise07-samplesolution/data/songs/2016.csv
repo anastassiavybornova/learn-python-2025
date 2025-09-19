@@ -1,0 +1,100 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Chicane,Don't Give Up,210786,False,2016,47,0.644,0.72,10,-9.635,0,0.0419,0.00145,0.504,0.0839,0.53,132.017,Dance/Electronic
+Usher,Pop Ya Collar - Radio Edit,210813,False,2016,26,0.888,0.8,5,-3.944,0,0.0946,0.0901,2.12e-05,0.229,0.866,106.957,"hip hop, pop, R&B"
+Nelly,Shake Ya Tailfeather (feat. P. Diddy & Murphy Lee) - 2016 Remaster,293666,False,2016,52,0.527,0.808,1,-4.749,1,0.295,0.176,0.0,0.169,0.907,87.025,"hip hop, pop, R&B"
+Mario Winans,I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster,257333,False,2016,66,0.833,0.515,11,-5.0,0,0.0462,0.347,0.00156,0.116,0.4,97.007,pop
+Daughtry,It's Not Over,215173,False,2016,45,0.45,0.921,10,-3.476,0,0.0538,0.0467,0.0,0.311,0.413,145.959,"pop, rock, metal"
+Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),177184,True,2016,76,0.886,0.427,6,-10.028,1,0.145,0.0312,0.00099,0.0906,0.23,108.034,hip hop
+The Strumbellas,Spirits,203653,False,2016,71,0.556,0.658,0,-6.075,1,0.0265,0.164,0.0,0.113,0.787,80.529,"rock, Folk/Acoustic, pop"
+Drake,Hotline Bling,267066,False,2016,77,0.891,0.628,2,-7.863,1,0.0551,0.00258,0.00019,0.0504,0.552,134.966,"hip hop, pop, R&B"
+Kygo,Stole the Show,223186,False,2016,74,0.64,0.635,8,-7.565,0,0.226,0.271,0.0,0.319,0.475,100.034,"pop, Dance/Electronic"
+Kygo,Firestone,271640,False,2016,76,0.704,0.634,11,-7.374,0,0.0428,0.393,3.17e-05,0.0952,0.411,113.927,"pop, Dance/Electronic"
+The Weeknd,Starboy,230453,True,2016,0,0.681,0.594,7,-7.028,1,0.282,0.165,3.49e-06,0.134,0.535,186.054,"pop, R&B"
+Drake,One Dance,173986,False,2016,84,0.792,0.625,1,-5.609,1,0.0536,0.00776,0.0018,0.329,0.37,103.967,"hip hop, pop, R&B"
+The Chainsmokers,Closer,244960,False,2016,83,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,"pop, Dance/Electronic"
+Desiigner,Panda,246761,True,2016,70,0.576,0.766,10,-4.943,0,0.449,0.028,1.68e-06,0.366,0.236,144.833,"hip hop, pop"
+Burak Yeter,Tuesday (feat. Danelle Sandoval),241874,False,2016,72,0.841,0.639,9,-6.052,0,0.0688,0.0156,0.0654,0.0545,0.675,99.002,Dance/Electronic
+Sia,Cheap Thrills (feat. Sean Paul),224813,False,2016,67,0.592,0.8,6,-4.931,0,0.215,0.0561,2.01e-06,0.0775,0.728,89.972,pop
+OneRepublic,Wherever I Go,169773,False,2016,70,0.552,0.689,10,-6.444,0,0.0425,0.0915,0.0,0.27,0.349,99.961,pop
+Rihanna,Work,219320,True,2016,75,0.725,0.534,11,-6.238,1,0.0946,0.0752,0.0,0.0919,0.558,91.974,"hip hop, pop, R&B"
+Justin Timberlake,"CAN'T STOP THE FEELING! (from DreamWorks Animation's ""TROLLS"")",236001,False,2016,76,0.666,0.83,0,-5.715,1,0.0751,0.0123,0.0,0.191,0.702,113.03,pop
+Desiigner,Tiimmy Turner,239853,True,2016,67,0.603,0.725,6,-3.054,1,0.0393,0.174,0.0,0.0786,0.304,122.803,"hip hop, pop"
+David Guetta,This One's for You (feat. Zara Larsson) (Official Song UEFA EURO 2016),207272,False,2016,68,0.367,0.915,9,-3.456,0,0.0488,0.0022,5.81e-05,0.0905,0.365,110.169,"hip hop, pop, Dance/Electronic"
+Astrid S,Hurts So Good,208728,False,2016,0,0.672,0.589,7,-5.008,0,0.049,0.082,0.0,0.0962,0.379,120.036,"rock, pop, Dance/Electronic"
+Lil Wayne,"Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",243490,True,2016,75,0.502,0.786,9,-4.378,0,0.317,0.255,0.0,0.65,0.739,169.021,"hip hop, pop"
+Twenty One Pilots,Heathens,195920,False,2016,80,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024,rock
+Future,Low Life (feat. The Weeknd),313546,True,2016,74,0.722,0.331,8,-7.789,1,0.0726,0.337,0.282,0.146,0.102,143.961,"hip hop, pop"
+Galantis,No Money,189126,False,2016,67,0.671,0.916,6,-4.014,0,0.0397,0.0282,0.00762,0.24,0.803,126.01,"pop, Dance/Electronic"
+The Chainsmokers,Don't Let Me Down,208373,False,2016,79,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,"pop, Dance/Electronic"
+Tinie Tempah,Girls Like (feat. Zara Larsson),196000,True,2016,62,0.916,0.804,0,-3.406,1,0.049,0.37,1.18e-05,0.0812,0.538,120.028,"hip hop, pop, Dance/Electronic"
+Alok,Hear Me Now,192846,False,2016,51,0.788,0.43,11,-7.757,1,0.0419,0.537,0.00261,0.0936,0.461,121.996,"pop, Dance/Electronic"
+Jon Bellion,All Time Low,217603,True,2016,70,0.617,0.567,0,-4.188,1,0.0828,0.0584,0.0,0.0933,0.505,90.246,"hip hop, pop"
+Cheat Codes,Sex,228361,False,2016,0,0.51,0.692,0,-5.825,1,0.171,0.00451,0.0,0.138,0.209,102.42,"pop, Dance/Electronic"
+Martin Garrix,In the Name of Love,195706,False,2016,76,0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,"pop, Dance/Electronic"
+Tove Lo,Cool Girl,197815,True,2016,0,0.674,0.71,9,-7.042,0,0.111,0.343,6.71e-06,0.129,0.234,101.983,"pop, Dance/Electronic"
+DJ Snake,Let Me Love You,205946,False,2016,81,0.649,0.716,8,-5.371,1,0.0349,0.0863,2.63e-05,0.135,0.163,99.988,"hip hop, pop, Dance/Electronic"
+Calvin Harris,This Is What You Came For (feat. Rihanna),222160,False,2016,79,0.631,0.927,9,-2.787,0,0.0332,0.199,0.119,0.148,0.465,123.962,"hip hop, pop, Dance/Electronic"
+Mike Posner,I Took A Pill In Ibiza - Seeb Remix,197933,True,2016,77,0.664,0.714,7,-6.645,0,0.111,0.0353,8.42e-06,0.0843,0.71,101.969,"hip hop, pop, Dance/Electronic"
+Kevin Gates,2 Phones,240000,True,2016,69,0.895,0.681,7,-5.267,0,0.358,0.157,0.0,0.189,0.554,121.918,"hip hop, pop"
+Rihanna,Needed Me,191600,True,2016,80,0.671,0.314,5,-8.091,0,0.244,0.11,0.0,0.0825,0.296,110.898,"hip hop, pop, R&B"
+Ariana Grande,Side To Side,226160,True,2016,0,0.648,0.738,6,-5.883,0,0.247,0.0408,0.0,0.292,0.603,159.145,pop
+Marshmello,Alone,273802,False,2016,71,0.631,0.953,2,-3.739,1,0.0343,0.0241,0.0155,0.108,0.422,141.99,"pop, Dance/Electronic"
+Calvin Harris,My Way,219159,False,2016,74,0.818,0.913,4,-3.06,0,0.0426,0.093,3.69e-05,0.161,0.536,119.986,"hip hop, pop, Dance/Electronic"
+Fitz and The Tantrums,HandClap,193253,False,2016,64,0.636,0.836,8,-3.004,1,0.0427,0.00609,0.000157,0.0828,0.715,139.956,"pop, rock"
+Ariana Grande,Dangerous Woman,235946,False,2016,0,0.677,0.604,7,-5.32,1,0.0385,0.0612,0.0,0.353,0.297,134.052,pop
+Anne-Marie,Alarm,205593,True,2016,57,0.756,0.589,0,-5.093,1,0.232,0.0812,0.0,0.176,0.811,146.928,"pop, Dance/Electronic"
+Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),217706,False,2016,79,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,pop
+AlunaGeorge,I'm In Control,209425,False,2016,0,0.734,0.847,11,-3.713,0,0.0346,0.355,0.000144,0.154,0.673,104.013,"pop, Dance/Electronic"
+Enrique Iglesias,DUELE EL CORAZON (feat. Wisin),199693,False,2016,68,0.716,0.908,8,-3.254,0,0.103,0.0858,0.0,0.135,0.869,91.03,"pop, latin"
+Mike Perry,The Ocean (feat. Shy Martin),183414,False,2016,70,0.632,0.575,5,-6.478,1,0.029,0.0225,1.81e-06,0.104,0.188,90.037,"pop, Dance/Electronic"
+Drake,Hotline Bling,267066,False,2016,0,0.903,0.62,2,-8.094,1,0.0587,0.00347,0.000119,0.0504,0.539,134.96,"hip hop, pop, R&B"
+Ariana Grande,Into You,244453,False,2016,3,0.623,0.734,9,-5.948,1,0.107,0.0162,1.75e-06,0.145,0.37,107.853,pop
+Tory Lanez,Say It,237786,True,2016,73,0.546,0.529,11,-10.511,0,0.0583,0.0862,6.5e-06,0.124,0.247,107.331,"hip hop, pop, R&B"
+Kungs,This Girl - Kungs Vs. Cookin' On 3 Burners,195561,False,2016,0,0.79,0.705,0,-4.684,0,0.0383,0.0807,4.81e-05,0.251,0.501,121.969,"pop, Dance/Electronic"
+SAYGRACE,You Don't Own Me (feat. G-Eazy),201493,False,2016,69,0.332,0.635,7,-5.653,1,0.0898,0.159,2.79e-06,0.0599,0.261,186.249,"pop, R&B"
+DNCE,Cake By The Ocean,219146,True,2016,79,0.774,0.753,4,-5.446,0,0.0517,0.152,0.0,0.0371,0.896,119.002,pop
+99 Souls,The Girl Is Mine,216613,False,2016,55,0.683,0.943,9,-3.6,1,0.0397,0.00423,0.0972,0.0356,0.706,118.991,Dance/Electronic
+Illy,Papercuts (feat. Vera Blue),255889,False,2016,51,0.369,0.618,6,-6.304,0,0.249,0.161,0.0,0.257,0.467,191.863,"hip hop, pop, Dance/Electronic"
+Kygo,Stole the Show,222813,False,2016,0,0.678,0.633,8,-6.443,0,0.171,0.151,0.0,0.147,0.478,99.886,"pop, Dance/Electronic"
+Fifth Harmony,Work from Home (feat. Ty Dolla $ign),214480,False,2016,75,0.803,0.585,8,-5.861,1,0.0432,0.103,3.94e-06,0.0644,0.593,105.017,pop
+Drake,Pop Style,212946,True,2016,63,0.713,0.462,7,-10.027,1,0.123,0.192,2.16e-06,0.105,0.0594,133.053,"hip hop, pop, R&B"
+ZAYN,PILLOWTALK,203686,True,2016,59,0.588,0.702,11,-4.271,1,0.0496,0.104,0.0,0.089,0.429,124.909,"pop, Dance/Electronic"
+Alessia Cara,Here,199453,False,2016,66,0.376,0.822,0,-3.974,1,0.104,0.0783,0.0,0.0841,0.327,120.493,"pop, R&B"
+DJ Snake,Middle,220573,False,2016,0,0.611,0.7,9,-5.331,1,0.0436,0.0199,0.0,0.0549,0.213,104.981,"hip hop, pop, Dance/Electronic"
+Charlie Puth,Dangerously,199133,False,2016,62,0.696,0.517,2,-8.379,0,0.0366,0.364,0.0,0.197,0.23,112.291,pop
+Nick Jonas,Close,234213,False,2016,69,0.654,0.623,6,-5.273,0,0.082,0.253,0.0,0.144,0.401,123.996,pop
+Jonas Blue,Perfect Strangers,196613,False,2016,0,0.742,0.819,1,-5.307,1,0.0487,0.372,0.0,0.277,0.709,117.986,"pop, Dance/Electronic"
+Major Lazer,Cold Water (feat. Justin Bieber & MØ),185351,False,2016,0,0.608,0.798,6,-5.092,0,0.0432,0.0736,0.0,0.156,0.501,92.943,"hip hop, pop, Dance/Electronic"
+Tory Lanez,LUV,228640,True,2016,0,0.688,0.541,11,-8.128,0,0.114,0.0118,0.0,0.123,0.247,95.109,"hip hop, pop, R&B"
+P!nk,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",215413,False,2016,68,0.632,0.702,7,-5.92,1,0.148,0.0114,0.0,0.108,0.523,162.958,pop
+Steve Aoki,Just Hold On,198774,False,2016,63,0.647,0.932,11,-3.515,1,0.0824,0.00383,1.5e-06,0.0574,0.374,114.991,"hip hop, pop, Dance/Electronic"
+Clean Bandit,Tears (feat. Louisa Johnson),225914,False,2016,60,0.605,0.77,5,-3.645,0,0.0446,0.0431,0.0,0.159,0.298,130.037,"pop, Dance/Electronic"
+Flume,Never Be Like You,233337,True,2016,0,0.443,0.558,0,-5.436,1,0.0624,0.441,0.0,0.163,0.248,116.838,Dance/Electronic
+Bastille,Good Grief,206493,False,2016,65,0.73,0.758,1,-4.888,1,0.0653,0.147,0.0,0.311,0.877,120.041,"pop, rock"
+Sia,The Greatest (feat. Kendrick Lamar),210226,False,2016,68,0.668,0.725,1,-6.127,1,0.266,0.0102,0.000479,0.0561,0.729,191.944,pop
+PARTYNEXTDOOR,Not Nice,202661,False,2016,62,0.598,0.496,0,-9.309,1,0.0804,0.0253,0.00132,0.12,0.725,128.06,"hip hop, pop, R&B"
+Garrett Nash,"i hate u, i love u (feat. olivia o'brien)",251033,True,2016,77,0.492,0.275,6,-13.4,0,0.3,0.687,0.0,0.101,0.18,92.6,"hip hop, pop"
+Hilltop Hoods,1955,239280,False,2016,63,0.766,0.5,11,-7.558,1,0.0695,0.719,5.91e-06,0.304,0.71,84.044,"hip hop, pop"
+Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),210573,False,2016,62,0.689,0.791,0,-5.194,0,0.053,0.023,0.0,0.0526,0.755,95.04,pop
+Daya,"Sit Still, Look Pretty",202221,False,2016,1,0.657,0.739,2,-4.081,1,0.274,0.141,0.0,0.178,0.543,181.994,"rock, pop, Dance/Electronic"
+Kent Jones,Don't Mind,198236,True,2016,63,0.464,0.771,8,-4.503,1,0.336,0.0235,0.0,0.063,0.69,158.777,hip hop
+Flume,Say It,262521,True,2016,53,0.581,0.531,3,-6.829,0,0.0322,0.0731,3.27e-06,0.0616,0.273,75.255,Dance/Electronic
+MØ,Final Song,235826,False,2016,66,0.695,0.672,1,-6.109,0,0.0345,0.014,7.95e-05,0.0756,0.245,104.988,"pop, Dance/Electronic"
+Beyoncé,Sorry,232560,True,2016,67,0.775,0.598,2,-7.274,1,0.0535,0.00175,4.44e-06,0.253,0.356,129.988,"pop, R&B"
+The Lumineers,Ophelia,160097,False,2016,0,0.664,0.576,5,-6.429,1,0.0286,0.63,0.000198,0.0902,0.621,76.026,"pop, Folk/Acoustic"
+Frank Ocean,Pink + White,184516,False,2016,79,0.544,0.552,9,-7.45,1,0.0991,0.67,4.57e-05,0.415,0.554,159.738,"hip hop, pop, R&B"
+Drake,Too Good,263373,True,2016,74,0.794,0.653,7,-7.839,1,0.104,0.0489,4.88e-05,0.1,0.397,117.996,"hip hop, pop, R&B"
+Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),251088,False,2016,75,0.72,0.763,9,-4.068,0,0.0523,0.406,0.0,0.18,0.742,101.965,"pop, Dance/Electronic"
+Travis Scott,goosebumps,243836,True,2016,83,0.841,0.728,7,-3.37,1,0.0484,0.0847,0.0,0.149,0.43,130.049,"hip hop, Dance/Electronic"
+Rae Sremmurd,Swang,208120,True,2016,75,0.681,0.314,8,-9.319,1,0.0581,0.2,9.82e-06,0.1,0.166,139.992,"hip hop, pop"
+Jax Jones,You Don't Know Me - Radio Edit,213946,True,2016,1,0.876,0.669,11,-6.054,0,0.138,0.163,0.0,0.185,0.682,124.007,"hip hop, pop, Dance/Electronic"
+Rae Sremmurd,Black Beatles,291893,True,2016,75,0.794,0.632,0,-6.163,1,0.0649,0.142,0.0,0.128,0.355,145.926,"hip hop, pop"
+Rob $tone,Chill Bill (feat. J. Davi$ & Spooks),177184,True,2016,76,0.886,0.427,6,-10.028,1,0.145,0.0312,0.00099,0.0906,0.23,108.034,hip hop
+Martin Jensen,Solo Dance,174933,False,2016,0,0.744,0.836,6,-2.396,0,0.0507,0.0435,0.0,0.194,0.36,114.965,"pop, Dance/Electronic"
+Post Malone,Congratulations,220293,True,2016,81,0.63,0.804,6,-4.183,1,0.0363,0.215,0.0,0.253,0.492,123.146,hip hop
+Zay Hilfigerrr,Juju on That Beat (TZ Anthem),144244,False,2016,57,0.807,0.887,1,-3.892,1,0.275,0.00381,0.0,0.391,0.78,160.517,set()
+ZAYN,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",245200,False,2016,0,0.735,0.451,0,-8.374,1,0.0585,0.0631,1.3e-05,0.325,0.0862,117.973,"pop, Dance/Electronic"
+Alessia Cara,Scars To Your Beautiful,230226,False,2016,76,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,"pop, R&B"
+Starley,Call on Me - Ryan Riback Remix,222040,False,2016,48,0.67,0.838,0,-4.031,1,0.0362,0.0605,0.000611,0.159,0.716,105.0,"pop, Dance/Electronic"
+The Weeknd,I Feel It Coming,269186,False,2016,78,0.773,0.819,0,-5.946,0,0.118,0.428,0.0,0.0679,0.585,92.987,"pop, R&B"
+Bruno Mars,24K Magic,225983,False,2016,78,0.818,0.803,1,-4.282,1,0.0797,0.034,0.0,0.153,0.632,106.97,pop

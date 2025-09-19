@@ -1,0 +1,112 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+T2,Heartbroken - Edit,178613,False,2017,59,0.716,0.757,11,-5.438,0,0.0329,0.0258,0.00392,0.16,0.877,139.986,Dance/Electronic
+Scouting For Girls,This Ain't a Love Song,210680,False,2017,52,0.458,0.905,0,-4.157,1,0.0451,0.000431,0.0,0.378,0.553,176.667,"pop, rock"
+Lemaitre,Closer,270589,False,2017,59,0.583,0.785,2,-3.991,0,0.0337,0.0012,0.0127,0.124,0.355,91.977,pop
+Zara Larsson,Never Forget You,213427,False,2017,73,0.583,0.732,11,-5.728,0,0.0457,0.00312,9.86e-06,0.269,0.276,145.992,"pop, Dance/Electronic"
+Nicky Jam,El Perdón - Forgiveness,206666,False,2017,51,0.736,0.719,8,-3.839,1,0.0357,0.256,0.0,0.0909,0.656,90.013,latin
+Meghan Trainor,NO,213506,False,2017,69,0.557,0.803,1,-3.599,0,0.213,0.0124,1.61e-06,0.737,0.657,92.134,pop
+Dua Lipa,Hotter Than Hell,187957,False,2017,65,0.532,0.868,3,-4.23,0,0.0908,0.011,0.0,0.0584,0.529,110.127,pop
+Shawn Mendes,Treat You Better,187973,False,2017,82,0.444,0.819,10,-4.078,0,0.341,0.106,0.0,0.107,0.747,82.695,pop
+Little Mix,Shout Out to My Ex,246240,False,2017,1,0.773,0.747,5,-4.061,1,0.0889,0.0239,8.23e-06,0.11,0.8,126.014,pop
+Ed Sheeran,Shape of You,233712,False,2017,84,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,pop
+Luis Fonsi,Despacito (Featuring Daddy Yankee),228200,False,2017,0,0.66,0.786,2,-4.757,1,0.17,0.209,0.0,0.112,0.846,177.833,"pop, latin"
+Sam Smith,Too Good At Goodbyes,201000,False,2017,79,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,pop
+Camila Cabello,Havana (feat. Young Thug),216896,False,2017,1,0.768,0.517,7,-4.323,0,0.0312,0.186,3.8e-05,0.104,0.418,104.992,pop
+Imagine Dragons,Thunder,187146,False,2017,1,0.6,0.81,0,-4.749,1,0.0479,0.00683,0.21,0.155,0.298,167.88,rock
+The Chainsmokers,Something Just Like This,247160,False,2017,83,0.617,0.635,11,-6.769,0,0.0317,0.0498,1.44e-05,0.164,0.446,103.019,"pop, Dance/Electronic"
+Ed Sheeran,Perfect,263400,False,2017,85,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,pop
+Billie Eilish,Bored,180933,False,2017,84,0.614,0.318,7,-12.695,1,0.0478,0.896,0.00239,0.0795,0.112,119.959,"pop, Dance/Electronic"
+Future,Mask Off,204600,True,2017,79,0.833,0.434,2,-8.795,1,0.431,0.0102,0.0219,0.165,0.281,150.062,"hip hop, pop"
+G-Eazy,Him & I,268866,True,2017,0,0.589,0.731,2,-6.343,1,0.0868,0.0534,0.0,0.308,0.191,87.908,"hip hop, pop"
+Maroon 5,Cold (feat. Future),234308,True,2017,0,0.697,0.716,9,-6.288,0,0.113,0.118,0.0,0.0424,0.506,99.905,pop
+Lil Peep,Save That Shit,231546,True,2017,77,0.534,0.583,2,-8.672,1,0.0288,0.0262,0.0,0.421,0.145,105.997,hip hop
+A$AP Ferg,Plain Jane,173600,True,2017,74,0.797,0.844,11,-5.482,1,0.275,0.0651,0.0,0.087,0.52,170.142,"hip hop, pop"
+French Montana,Unforgettable,233901,True,2017,82,0.726,0.769,6,-5.043,1,0.123,0.0293,0.0101,0.104,0.733,97.985,"hip hop, pop"
+21 Savage,Bank Account,220306,True,2017,74,0.884,0.347,8,-8.227,0,0.35,0.015,7e-06,0.0871,0.376,75.016,hip hop
+Axwell /\ Ingrosso,More Than You Know,203000,False,2017,0,0.645,0.741,5,-4.989,0,0.0339,0.0323,0.0,0.29,0.534,123.07,"pop, Dance/Electronic"
+ZAYN,Dusk Till Dawn (feat. Sia) - Radio Edit,239000,False,2017,77,0.259,0.437,11,-6.589,0,0.0386,0.102,1.32e-06,0.106,0.0951,180.042,"pop, Dance/Electronic"
+J Balvin,Mi Gente,189029,False,2017,53,0.548,0.701,11,-4.862,0,0.0914,0.0178,1.34e-05,0.134,0.309,104.237,latin
+Zara Larsson,Ain't My Fault,224030,False,2017,67,0.576,0.782,6,-4.825,0,0.0296,0.00778,0.0,0.285,0.355,141.153,"pop, Dance/Electronic"
+Travis Scott,BUTTERFLY EFFECT,190677,False,2017,0,0.763,0.598,11,-6.865,1,0.0539,0.0714,0.0,0.112,0.182,140.987,"hip hop, Dance/Electronic"
+Ayo & Teo,Rolex,238586,False,2017,69,0.804,0.886,1,-2.512,1,0.04,0.0837,0.0,0.266,0.789,144.946,"hip hop, pop"
+Lil Uzi Vert,XO Tour Llif3,182706,True,2017,81,0.732,0.75,11,-6.366,0,0.231,0.00264,0.0,0.109,0.401,155.096,hip hop
+Imagine Dragons,Whatever It Takes,201240,False,2017,80,0.672,0.655,10,-5.021,0,0.0311,0.0362,0.0,0.117,0.556,134.945,rock
+Jason Derulo,Swalla (feat. Nicki Minaj & Ty Dolla $ign),216408,True,2017,75,0.696,0.817,1,-3.862,1,0.109,0.075,0.0,0.187,0.782,98.064,"hip hop, pop"
+G-Eazy,No Limit,245386,True,2017,0,0.838,0.771,1,-3.791,1,0.244,0.0117,0.0,0.0853,0.405,175.957,"hip hop, pop"
+Playboi Carti,Magnolia,181812,True,2017,77,0.791,0.582,11,-7.323,0,0.286,0.0114,0.0,0.35,0.443,162.991,hip hop
+Chord Overstreet,Hold On,198853,False,2017,80,0.618,0.443,2,-9.681,1,0.0526,0.469,0.0,0.0829,0.167,119.949,"pop, Folk/Acoustic"
+Jax Jones,Breathe,207629,False,2017,58,0.722,0.744,11,-5.52,0,0.0363,0.0234,0.000157,0.143,0.686,125.985,"hip hop, pop, Dance/Electronic"
+Imagine Dragons,Believer,204346,False,2017,1,0.779,0.787,10,-4.305,0,0.108,0.0524,0.0,0.14,0.708,124.982,rock
+Natti Natasha,Criminal,232549,False,2017,74,0.814,0.813,2,-3.023,0,0.0561,0.03,9.33e-05,0.255,0.839,79.997,"pop, latin"
+Kendrick Lamar,HUMBLE.,177000,True,2017,0,0.906,0.625,1,-6.779,0,0.0903,0.000243,3.23e-05,0.0975,0.423,150.018,hip hop
+Selena Gomez,Fetish (feat. Gucci Mane),186112,False,2017,69,0.708,0.618,2,-4.424,1,0.0592,0.0204,6.81e-06,0.062,0.265,123.013,pop
+Charlie Puth,Attention,211475,False,2017,0,0.774,0.626,3,-4.432,0,0.0432,0.0969,3.12e-05,0.0848,0.777,100.041,pop
+Big Shaq,Man's Not Hot,186026,False,2017,62,0.905,0.884,0,-4.076,1,0.236,0.111,8.31e-05,0.107,0.588,135.048,"pop, Dance/Electronic"
+Anne-Marie,Ciao Adios,200104,False,2017,57,0.698,0.882,4,-3.078,0,0.0863,0.127,0.0,0.15,0.445,106.083,"pop, Dance/Electronic"
+Rag'n'Bone Man,Human,200186,False,2017,76,0.602,0.707,9,-4.097,1,0.302,0.393,0.0,0.165,0.554,75.087,R&B
+blackbear,do re mi,212027,True,2017,4,0.745,0.593,8,-6.35,1,0.0526,0.00522,5.25e-06,0.123,0.17,111.002,"hip hop, pop, Dance/Electronic"
+Lil Pump,Gucci Gang,124055,True,2017,64,0.936,0.523,5,-6.71,1,0.0597,0.239,0.0,0.117,0.699,119.889,hip hop
+Taylor Swift,Look What You Made Me Do,211853,False,2017,76,0.766,0.709,9,-6.471,0,0.123,0.204,1.41e-05,0.126,0.506,128.07,pop
+Enrique Iglesias,SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox),207680,False,2017,70,0.688,0.822,0,-3.304,1,0.0537,0.0642,0.0,0.241,0.66,91.011,"pop, latin"
+Kodak Black,Tunnel Vision,268186,True,2017,51,0.497,0.489,11,-7.724,0,0.294,0.0576,9.91e-05,0.122,0.231,171.853,hip hop
+Kendrick Lamar,DNA.,185946,True,2017,0,0.636,0.517,0,-6.759,1,0.36,0.00402,0.0,0.0874,0.394,139.928,hip hop
+A Boogie Wit da Hoodie,Drowning (feat. Kodak Black),209269,True,2017,0,0.839,0.81,5,-5.274,0,0.0568,0.501,0.0,0.117,0.814,129.014,hip hop
+XXXTENTACION,Jocelyn Flores,119133,True,2017,83,0.872,0.391,0,-9.144,0,0.242,0.469,4.13e-06,0.297,0.437,134.021,hip hop
+Migos,Bad and Boujee (feat. Lil Uzi Vert),343150,True,2017,72,0.926,0.666,11,-5.314,1,0.244,0.0611,0.0,0.123,0.168,127.079,"hip hop, pop"
+Yo Gotti,Rake It Up (feat. Nicki Minaj),276333,True,2017,67,0.91,0.444,1,-8.126,0,0.344,0.022,0.0,0.137,0.53,149.953,"hip hop, pop"
+Martin Garrix,Scared to Be Lonely,220883,False,2017,77,0.584,0.54,1,-7.786,0,0.0576,0.0895,0.0,0.261,0.195,137.972,"pop, Dance/Electronic"
+Jonas Blue,Mama,181614,False,2017,51,0.739,0.792,11,-4.256,0,0.0418,0.091,0.0,0.0516,0.547,104.016,"pop, Dance/Electronic"
+Taylor Swift,...Ready For It?,208186,False,2017,73,0.613,0.764,2,-6.509,1,0.136,0.0527,0.0,0.197,0.417,160.015,pop
+David Guetta,2U (feat. Justin Bieber),194896,False,2017,67,0.548,0.65,8,-5.827,0,0.0591,0.219,0.0,0.225,0.557,144.937,"hip hop, pop, Dance/Electronic"
+Migos,Slippery (feat. Gucci Mane),304041,True,2017,68,0.92,0.675,1,-5.661,0,0.263,0.307,0.0,0.104,0.749,141.967,"hip hop, pop"
+Shawn Mendes,There's Nothing Holdin' Me Back,199440,False,2017,0,0.857,0.8,2,-4.035,1,0.0583,0.381,0.0,0.0913,0.966,121.996,pop
+G-Eazy,Good Life (with G-Eazy & Kehlani),225520,False,2017,63,0.572,0.778,1,-5.208,1,0.233,0.00638,0.0,0.0563,0.54,168.073,"hip hop, pop"
+The Vamps,All Night,197640,False,2017,73,0.538,0.804,8,-5.194,1,0.0358,0.0041,0.0,0.33,0.507,144.992,pop
+Dua Lipa,New Rules,212000,False,2017,61,0.763,0.72,9,-5.181,0,0.0691,0.00261,1.11e-05,0.114,0.592,116.01,pop
+Cardi B,Bodak Yellow,223962,True,2017,59,0.929,0.723,11,-5.792,0,0.109,0.0672,0.0,0.346,0.458,125.022,"hip hop, pop"
+Rag'n'Bone Man,Skin,239626,False,2017,67,0.564,0.745,0,-7.733,1,0.31,0.265,0.0,0.147,0.351,170.661,R&B
+Zara Larsson,I Would Like,226720,False,2017,57,0.486,0.713,2,-3.949,0,0.0524,0.0853,0.0,0.0839,0.297,121.028,"pop, Dance/Electronic"
+DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),204173,True,2017,72,0.671,0.672,0,-3.094,0,0.0688,0.0329,0.0,0.118,0.632,97.979,"hip hop, pop"
+Avicii,Without You (feat. Sandro Cavazza),181672,True,2017,77,0.662,0.858,2,-4.844,1,0.0428,0.00163,0.0,0.0456,0.295,133.993,"pop, Dance/Electronic"
+Clean Bandit,Symphony (feat. Zara Larsson),214866,False,2017,0,0.718,0.609,0,-4.699,0,0.043,0.281,3.29e-05,0.234,0.497,122.95,"pop, Dance/Electronic"
+Katy Perry,Chained To The Rhythm,237733,False,2017,69,0.562,0.8,0,-5.404,1,0.112,0.0814,0.0,0.199,0.471,95.029,pop
+Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",223413,True,2017,79,0.893,0.745,11,-3.105,0,0.0571,0.0642,0.0,0.0943,0.872,101.018,"hip hop, pop, Dance/Electronic"
+Migos,T-Shirt,242407,True,2017,64,0.865,0.687,10,-3.744,0,0.217,0.242,0.0,0.158,0.486,139.023,"hip hop, pop"
+OneRepublic,Rich Love (with Seeb),201256,False,2017,64,0.401,0.872,1,-3.641,0,0.314,0.167,0.0,0.362,0.472,104.592,pop
+Maggie Lindemann,Pretty Girl - Cheat Codes X CADE Remix,193613,True,2017,61,0.703,0.868,7,-4.661,0,0.0291,0.15,0.132,0.104,0.733,121.03,"rock, pop"
+Macklemore,Glorious (feat. Skylar Grey),220454,True,2017,74,0.731,0.794,0,-5.126,0,0.0522,0.0323,2.59e-05,0.112,0.356,139.994,"hip hop, pop"
+Liam Payne,Strip That Down,204502,False,2017,1,0.869,0.485,6,-5.595,1,0.0545,0.246,0.0,0.0765,0.527,106.028,pop
+Drake,Passionfruit,298940,True,2017,0,0.809,0.463,11,-11.377,1,0.0396,0.256,0.085,0.109,0.364,111.98,"hip hop, pop, R&B"
+Justin Bieber,Friends (with BloodPop®),189466,False,2017,0,0.744,0.739,8,-5.35,1,0.0387,0.00459,0.0,0.306,0.649,104.99,pop
+2 Chainz,It's A Vibe,210200,True,2017,71,0.822,0.502,7,-7.38,1,0.148,0.0312,0.000887,0.114,0.525,73.003,"hip hop, pop"
+AJR,Weak,201160,False,2017,0,0.673,0.637,5,-4.518,1,0.0429,0.137,0.0,0.184,0.678,123.98,rock
+Lana Del Rey,Lust for Life (with The Weeknd),264011,False,2017,0,0.499,0.676,0,-8.618,0,0.0582,0.588,0.00484,0.358,0.295,99.979,pop
+CNCO,Reggaetón Lento (Remix),188786,False,2017,0,0.623,0.909,4,-3.079,0,0.0758,0.158,0.0,0.0972,0.651,93.984,"pop, latin"
+The Vamps,Middle Of The Night,174600,False,2017,61,0.588,0.749,11,-4.323,0,0.058,0.0037,0.0,0.0813,0.397,130.093,pop
+The Chainsmokers,Paris,221506,False,2017,73,0.653,0.658,2,-6.428,1,0.0304,0.0215,1.66e-06,0.0939,0.219,99.99,"pop, Dance/Electronic"
+Big Sean,Bounce Back,222360,True,2017,71,0.78,0.575,1,-5.628,0,0.139,0.106,0.0,0.129,0.273,81.502,"hip hop, pop"
+Shawn Mendes,Mercy,208733,False,2017,0,0.561,0.674,4,-4.882,0,0.0818,0.118,0.0,0.111,0.383,148.127,pop
+Avicii,Lonely Together (feat. Rita Ora),181812,False,2017,53,0.655,0.666,5,-5.309,1,0.0612,0.134,2.12e-05,0.0683,0.272,102.977,"pop, Dance/Electronic"
+Cheat Codes,No Promises (feat. Demi Lovato),223503,False,2017,68,0.741,0.667,10,-5.445,1,0.134,0.0575,0.0,0.106,0.595,112.956,"pop, Dance/Electronic"
+Lorde,Homemade Dynamite - REMIX,214254,True,2017,8,0.781,0.548,0,-4.997,0,0.0764,0.229,0.0,0.127,0.175,106.996,"pop, Dance/Electronic"
+Kygo,It Ain't Me (with Selena Gomez),220780,False,2017,75,0.64,0.533,0,-6.596,1,0.0706,0.119,0.0,0.0864,0.515,99.968,"pop, Dance/Electronic"
+Offset,Ric Flair Drip (with Metro Boomin),172800,True,2017,80,0.88,0.428,9,-8.28,1,0.206,0.149,5.05e-05,0.114,0.333,100.007,"hip hop, pop"
+G-Eazy,Him & I (with Halsey),268866,True,2017,75,0.589,0.731,2,-6.343,1,0.0868,0.0534,0.0,0.308,0.191,87.908,"hip hop, pop"
+Machine Gun Kelly,"Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",202804,False,2017,71,0.653,0.718,3,-5.232,0,0.213,0.00413,0.0,0.0537,0.216,82.034,"hip hop, pop"
+Jax Jones,Breathe,207629,False,2017,58,0.722,0.744,11,-5.52,0,0.0363,0.0234,0.000157,0.143,0.686,125.985,"hip hop, pop, Dance/Electronic"
+Jason Derulo,Tip Toe (feat. French Montana),187521,False,2017,64,0.845,0.709,10,-4.547,0,0.0714,0.0233,0.0,0.094,0.62,98.062,"hip hop, pop"
+Dennis Lloyd,Nevermind,156600,False,2017,74,0.6,0.688,5,-8.339,0,0.201,0.159,1.29e-05,0.409,0.0793,99.977,pop
+Selena Gomez,Wolves,197993,False,2017,78,0.724,0.804,11,-4.614,0,0.0448,0.124,0.0,0.204,0.306,124.987,pop
+Tom Walker,Leave a Light On,185863,False,2017,70,0.586,0.624,5,-5.946,1,0.113,0.0153,1.78e-06,0.133,0.267,68.976,"rock, pop"
+Marshmello,Silence,180822,False,2017,80,0.52,0.761,4,-3.093,1,0.0853,0.256,4.96e-06,0.17,0.286,141.971,"pop, Dance/Electronic"
+Loud Luxury,Body (feat. brando),163216,False,2017,0,0.752,0.764,1,-4.399,1,0.038,0.0476,9.44e-05,0.0543,0.582,121.958,"pop, Dance/Electronic"
+NF,Let You Down,212120,False,2017,79,0.662,0.714,5,-5.68,0,0.121,0.312,0.0,0.179,0.464,147.997,"hip hop, pop"
+Eminem,River (feat. Ed Sheeran),221013,True,2017,72,0.748,0.749,8,-5.916,0,0.516,0.142,0.0,0.0713,0.659,90.09,hip hop
+Luis Fonsi,Échame La Culpa,173720,False,2017,62,0.733,0.892,0,-3.641,1,0.0417,0.0376,0.0,0.137,0.675,95.989,"pop, latin"
+MK,17,196489,False,2017,65,0.703,0.832,0,-7.202,0,0.0689,0.00149,0.127,0.0696,0.667,122.029,"pop, Dance/Electronic"
+Rita Ora,Anywhere,215064,False,2017,63,0.628,0.797,11,-3.953,0,0.0596,0.0364,0.0,0.104,0.321,106.93,"hip hop, pop, Dance/Electronic"
+Bruno Mars,Finesse - Remix; feat. Cardi B,217288,False,2017,74,0.704,0.859,5,-4.877,0,0.0996,0.0185,0.0,0.0215,0.926,105.115,pop
+Hugh Jackman,The Greatest Show,302146,False,2017,72,0.417,0.824,11,-7.36,0,0.105,0.000239,0.0545,0.0725,0.4,157.92,easy listening
+Halsey,Bad At Love,181279,False,2017,72,0.675,0.751,0,-3.539,1,0.0296,0.0604,0.0,0.0893,0.612,118.384,"pop, Dance/Electronic"
+Dua Lipa,IDGAF,217946,True,2017,78,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,pop
+Kendrick Lamar,LOVE. FEAT. ZACARI.,213400,True,2017,80,0.8,0.585,10,-7.343,1,0.0924,0.264,0.0,0.153,0.779,126.058,hip hop

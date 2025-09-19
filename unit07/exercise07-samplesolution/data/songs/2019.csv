@@ -1,0 +1,90 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+K-Ci & JoJo,Crazy,262773,False,2019,30,0.68,0.644,0,-4.507,1,0.0258,0.084,0.0,0.549,0.484,116.097,"pop, R&B"
+Angie Martinez,If I Could Go! (feat. Lil' Mo & Sacario),244466,False,2019,40,0.583,0.643,9,-7.486,0,0.355,0.171,0.0,0.0395,0.7,195.685,pop
+Aaliyah,Rock The Boat,275026,False,2019,0,0.641,0.72,5,-5.209,1,0.0336,0.0688,0.00286,0.193,0.418,92.988,"hip hop, pop, R&B"
+Liberty X,Just A Little,237359,False,2019,43,0.786,0.614,5,-6.554,0,0.0574,0.00616,0.0,0.049,0.742,103.887,pop
+Lil' Kim,Magic Stick,359973,True,2019,47,0.849,0.498,2,-7.872,1,0.272,0.116,4.49e-05,0.268,0.502,92.98,"hip hop, pop, R&B"
+Hinder,Lips Of An Angel,261053,False,2019,35,0.474,0.744,2,-5.386,1,0.0341,0.0208,1.22e-06,0.209,0.238,129.005,"pop, rock, metal"
+Hinder,Better Than Me,223533,False,2019,30,0.451,0.682,2,-5.295,0,0.029,0.205,0.0,0.175,0.254,139.913,"pop, rock, metal"
+Chris Brown,Beautiful People,225881,False,2019,53,0.415,0.775,5,-6.366,0,0.161,0.0658,0.00431,0.0843,0.536,127.898,"hip hop, pop, R&B"
+Hayden James,NUMB,217296,True,2019,47,0.617,0.558,10,-7.046,0,0.0431,0.184,1.03e-06,0.0911,0.4,147.932,"pop, Dance/Electronic"
+Nicky Jam,X,172854,False,2019,74,0.594,0.749,9,-5.298,0,0.056,0.0338,0.00106,0.3,0.694,179.968,latin
+Lil Nas X,Old Town Road - Remix,157066,False,2019,79,0.878,0.619,6,-5.56,1,0.102,0.0533,0.0,0.113,0.639,136.041,"hip hop, pop"
+Billie Eilish,bad guy,194087,False,2019,83,0.701,0.425,7,-10.965,1,0.375,0.328,0.13,0.1,0.562,135.128,"pop, Dance/Electronic"
+Shawn Mendes,Señorita,190799,False,2019,78,0.759,0.548,9,-6.049,0,0.029,0.0392,0.0,0.0828,0.749,116.967,pop
+Ariana Grande,7 rings,178626,True,2019,83,0.778,0.317,1,-10.732,0,0.334,0.592,0.0,0.0881,0.327,140.048,pop
+Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,157560,False,2019,79,0.755,0.522,2,-4.368,1,0.0575,0.533,0.0,0.0685,0.925,89.96,hip hop
+Gesaffelstein,Lost in the Fire (feat. The Weeknd),202093,True,2019,84,0.658,0.671,2,-12.21,1,0.0363,0.0933,0.000927,0.115,0.166,100.966,Dance/Electronic
+Regard,Ride It,157605,False,2019,81,0.88,0.751,7,-4.258,0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,"pop, Dance/Electronic"
+Lewis Capaldi,Someone You Loved,182160,False,2019,84,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,pop
+Jax Jones,All Day And Night,169303,False,2019,60,0.585,0.782,1,-4.101,0,0.0897,0.269,0.0,0.156,0.521,121.908,"hip hop, pop, Dance/Electronic"
+Mustard,Pure Water (with Migos),192470,True,2019,75,0.682,0.559,0,-5.545,1,0.127,0.174,0.0,0.344,0.137,202.015,"hip hop, pop"
+NLE Choppa,Shotta Flow (feat. Blueface) [Remix],176631,True,2019,0,0.894,0.511,2,-4.768,1,0.42,0.0251,0.0,0.14,0.568,120.08,hip hop
+Daddy Yankee,Con Calma,193226,False,2019,79,0.737,0.86,8,-2.652,0,0.0593,0.11,1.94e-06,0.0574,0.656,93.989,latin
+BLACKPINK,Kill This Love,189052,False,2019,1,0.738,0.861,2,-4.141,1,0.237,0.318,0.00182,0.325,0.58,131.98,pop
+Offset,Clout (feat. Cardi B),205803,True,2019,68,0.919,0.622,1,-7.384,1,0.0997,0.228,4.24e-06,0.122,0.424,140.022,"hip hop, pop"
+MEDUZA,Piece Of Your Heart,152913,False,2019,75,0.677,0.744,10,-6.806,0,0.0295,0.0404,0.00016,0.074,0.631,124.08,"pop, Dance/Electronic"
+Ed Sheeran,Antisocial (with Travis Scott),161746,False,2019,63,0.716,0.823,5,-5.313,0,0.0495,0.132,0.0,0.361,0.91,151.957,pop
+Mabel,Mad Love,169813,False,2019,0,0.631,0.803,0,-2.974,0,0.155,0.675,0.0,0.11,0.62,198.065,"pop, Dance/Electronic"
+Lana Del Rey,Doin' Time,202192,True,2019,80,0.641,0.559,7,-11.132,0,0.0355,0.404,0.00402,0.0937,0.523,144.982,pop
+DJ Snake,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",212500,True,2019,70,0.842,0.801,8,-4.167,0,0.228,0.157,4.82e-06,0.0642,0.617,95.881,"hip hop, pop, Dance/Electronic"
+Saweetie,My Type,126446,True,2019,71,0.899,0.811,2,-6.294,1,0.258,0.000677,0.0,0.0672,0.587,105.038,"hip hop, pop, R&B"
+Lil Tecca,Ransom,131240,True,2019,78,0.745,0.642,7,-6.257,0,0.287,0.0204,0.0,0.0658,0.226,179.974,hip hop
+Russ Millions,Keisha & Becky - Remix,252906,True,2019,69,0.863,0.471,6,-9.545,1,0.478,0.251,0.0,0.121,0.644,140.969,pop
+Mabel,Don't Call Me Up,178480,False,2019,77,0.674,0.881,9,-2.853,1,0.147,0.296,3.01e-06,0.0793,0.234,98.994,"pop, Dance/Electronic"
+Lil Nas X,Old Town Road,113000,False,2019,76,0.907,0.53,1,-6.112,1,0.127,0.0578,2.23e-06,0.101,0.507,135.998,"hip hop, pop"
+Post Malone,Wow.,149546,True,2019,79,0.829,0.539,11,-7.359,0,0.208,0.136,1.78e-06,0.103,0.388,99.96,hip hop
+Doja Cat,Juicy,202333,True,2019,57,0.786,0.658,0,-2.61,1,0.0661,0.0856,0.0,0.0689,0.458,170.037,pop
+iann dior,emotions,131213,False,2019,72,0.63,0.63,9,-6.211,1,0.0395,0.0131,0.0,0.142,0.163,80.512,"hip hop, pop"
+Paulo Londra,Adan y Eva,256971,False,2019,72,0.767,0.709,1,-4.47,1,0.336,0.323,0.0,0.0745,0.72,171.993,"hip hop, latin, Dance/Electronic"
+Drake,Money In The Grave (Drake ft. Rick Ross),205426,True,2019,76,0.831,0.502,10,-4.045,0,0.046,0.101,0.0,0.122,0.101,100.541,"hip hop, pop, R&B"
+Lil Nas X,Panini,114893,False,2019,71,0.703,0.594,5,-6.146,0,0.0752,0.342,0.0,0.123,0.475,153.848,"hip hop, pop"
+Polo G,Pop Out (feat. Lil Tjay),166560,True,2019,78,0.772,0.639,1,-7.119,1,0.467,0.15,0.0,0.0698,0.261,168.112,hip hop
+Juice WRLD,Robbery,240050,True,2019,53,0.685,0.692,2,-5.122,1,0.0457,0.328,0.0,0.153,0.578,159.966,hip hop
+Young Thug,The London (feat. J. Cole & Travis Scott),200106,True,2019,69,0.796,0.586,4,-6.946,0,0.147,0.0247,0.0,0.132,0.179,97.981,"hip hop, pop"
+Anuel AA,China,301714,False,2019,76,0.786,0.808,7,-3.702,1,0.0882,0.0846,0.000289,0.0822,0.609,105.027,latin
+Camila Cabello,Liar,207038,False,2019,65,0.74,0.498,11,-6.684,0,0.0456,0.0169,0.00282,0.319,0.652,98.016,pop
+Flipp Dinero,Leave Me Alone,195637,True,2019,69,0.792,0.743,7,-2.806,1,0.0851,0.107,0.0,0.183,0.742,150.024,"hip hop, pop"
+Ariana Grande,"break up with your girlfriend, i'm bored",190440,True,2019,76,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,pop
+Dave,Location (feat. Burna Boy),241293,True,2019,78,0.812,0.496,9,-5.969,0,0.297,0.271,0.0,0.0955,0.55,109.979,hip hop
+Dua Lipa,Don't Start Now,183290,False,2019,79,0.794,0.793,11,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,pop
+Young T & Bugsey,Strike a Pose (feat. Aitch),214203,True,2019,61,0.531,0.581,1,-5.801,1,0.101,0.0107,1.62e-05,0.101,0.591,137.776,hip hop
+Calvin Harris,Giant (with Rag'n'Bone Man),229184,False,2019,73,0.807,0.887,1,-4.311,0,0.0361,0.016,0.000503,0.0811,0.606,122.015,"hip hop, pop, Dance/Electronic"
+Ed Sheeran,Take Me Back to London (feat. Stormzy),189733,True,2019,66,0.885,0.762,8,-5.513,0,0.216,0.219,0.0,0.162,0.605,138.058,pop
+Cardi B,Please Me,200889,True,2019,73,0.747,0.57,1,-6.711,1,0.081,0.0642,0.0,0.0832,0.65,133.992,"hip hop, pop"
+Stormzy,Vossi Bop,196266,True,2019,64,0.682,0.653,8,-6.062,1,0.339,0.13,0.00116,0.129,0.428,188.115,"hip hop, Dance/Electronic"
+Tones And I,Dance Monkey,209438,False,2019,78,0.824,0.588,6,-6.4,0,0.0924,0.692,0.000104,0.149,0.513,98.027,pop
+Ariana Grande,boyfriend (with Social House),186106,True,2019,77,0.4,0.795,10,-3.731,0,0.461,0.119,0.0,0.159,0.702,190.097,pop
+Bad Bunny,Callaita,250533,True,2019,81,0.61,0.624,2,-4.773,1,0.309,0.6,2.12e-06,0.243,0.244,176.169,latin
+Ava Max,So Am I,183026,False,2019,4,0.682,0.656,6,-4.67,1,0.0435,0.0737,0.0,0.353,0.607,130.089,pop
+J. Cole,MIDDLE CHILD,213593,True,2019,80,0.837,0.364,8,-11.713,1,0.276,0.149,0.0,0.271,0.463,123.984,hip hop
+Lunay,Soltera - Remix,266086,False,2019,70,0.795,0.783,5,-4.271,1,0.0432,0.361,0.0,0.437,0.799,92.01,"pop, latin"
+DaBaby,Suge,163320,True,2019,72,0.876,0.662,2,-6.482,0,0.426,0.0608,0.0,0.127,0.844,75.445,hip hop
+AJ Tracey,Ladbroke Grove,190537,False,2019,69,0.903,0.839,11,-9.447,0,0.208,0.0939,0.0,0.102,0.727,133.986,"hip hop, Dance/Electronic"
+Billie Eilish,bury a friend,193143,False,2019,75,0.905,0.389,8,-14.505,1,0.332,0.74,0.162,0.106,0.196,120.046,"pop, Dance/Electronic"
+BTS,Boy With Luv (feat. Halsey),229773,False,2019,35,0.645,0.862,11,-4.757,0,0.0965,0.0923,0.0,0.192,0.798,119.991,pop
+Wiley,Boasty (feat. Idris Elba),177185,True,2019,64,0.887,0.765,2,-5.207,1,0.0669,0.00915,0.000872,0.0907,0.456,102.958,"hip hop, Dance/Electronic"
+Jonas Brothers,Only Human,183000,False,2019,71,0.795,0.496,0,-5.883,1,0.0722,0.108,0.0,0.0645,0.874,94.01,pop
+5 Seconds of Summer,Easier,157492,False,2019,1,0.505,0.428,5,-5.604,1,0.221,0.489,0.0,0.0977,0.618,175.813,pop
+Avicii,SOS (feat. Aloe Blacc),157202,False,2019,71,0.802,0.645,5,-6.181,0,0.0715,0.272,0.0,0.119,0.376,100.001,"pop, Dance/Electronic"
+"Tyler, The Creator",EARFQUAKE,190066,True,2019,80,0.554,0.498,9,-8.866,1,0.0685,0.23,5.98e-06,0.795,0.413,79.635,hip hop
+Ashley O,On A Roll,154447,False,2019,57,0.736,0.81,5,-6.354,1,0.0906,0.077,0.0,0.0523,0.387,125.011,set()
+Sigala,Wish You Well,205653,False,2019,64,0.669,0.895,5,-3.787,0,0.0575,0.128,0.0,0.297,0.576,124.975,"pop, Dance/Electronic"
+Megan Thee Stallion,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),199427,True,2019,69,0.872,0.814,0,-4.568,1,0.155,0.00485,1.96e-06,0.214,0.57,98.985,"hip hop, pop, R&B"
+Anuel AA,Secreto,258800,False,2019,75,0.807,0.803,11,-4.156,1,0.126,0.602,0.00853,0.136,0.706,91.987,latin
+Sam Feldt,Post Malone (feat. RANI),174444,False,2019,69,0.59,0.642,7,-3.87,1,0.122,0.0771,0.0,0.105,0.651,107.356,"pop, Dance/Electronic"
+Kehlani,Nights Like This (feat. Ty Dolla $ign),201787,True,2019,74,0.61,0.725,8,-5.131,1,0.15,0.367,0.0,0.154,0.291,146.163,"hip hop, pop, R&B"
+Sech,Otro Trago,225933,True,2019,71,0.746,0.7,0,-4.669,1,0.341,0.136,0.000159,0.11,0.619,176.044,latin
+Ed Sheeran,Cross Me (feat. Chance the Rapper & PnB Rock),206186,True,2019,64,0.746,0.787,4,-6.373,1,0.12,0.214,0.0,0.0669,0.607,95.005,pop
+Lauv,i'm so tired...,162582,False,2019,2,0.599,0.733,11,-7.058,1,0.203,0.176,0.0,0.242,0.534,102.211,"pop, Dance/Electronic"
+iann dior,gone girl,136568,True,2019,69,0.677,0.714,11,-5.637,1,0.0287,0.162,0.0,0.0717,0.355,94.956,"hip hop, pop"
+Marshmello,One Thing Right,181823,False,2019,73,0.659,0.625,4,-2.253,1,0.045,0.0644,0.0,0.582,0.442,88.042,"pop, Dance/Electronic"
+Sam Smith,How Do You Sleep?,202204,False,2019,73,0.477,0.682,1,-4.931,0,0.0925,0.153,0.0,0.0763,0.345,110.567,pop
+Normani,Motivation,193837,False,2019,71,0.599,0.887,4,-3.967,1,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,"pop, R&B"
+Joel Corry,Sorry,188640,False,2019,63,0.744,0.79,8,-4.617,0,0.0562,0.0547,0.000802,0.32,0.847,125.002,"pop, Dance/Electronic"
+Post Malone,Goodbyes (Feat. Young Thug),174960,True,2019,1,0.58,0.653,5,-3.818,1,0.0745,0.447,0.0,0.111,0.175,150.231,hip hop
+Jonas Brothers,Sucker,181026,False,2019,79,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,pop
+Taylor Swift,Cruel Summer,178426,False,2019,78,0.552,0.702,9,-5.707,1,0.157,0.117,2.06e-05,0.105,0.564,169.994,pop
+Blanco Brown,The Git Up,200593,False,2019,69,0.847,0.678,9,-8.635,1,0.109,0.0669,0.0,0.274,0.811,97.984,"hip hop, country"
+Sam Smith,Dancing With A Stranger (with Normani),171029,False,2019,75,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,pop
+Post Malone,Circles,215280,False,2019,85,0.695,0.762,0,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,hip hop

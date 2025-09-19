@@ -1,0 +1,39 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+blink-182,All The Small Things,167066,False,1999,79,0.434,0.897,0,-4.918,1,0.0488,0.0103,0.0,0.612,0.684,148.726,"rock, pop"
+Faith Hill,Breathe,250546,False,1999,66,0.529,0.496,7,-9.007,1,0.029,0.173,0.0,0.251,0.278,136.859,"pop, country"
+Sisqo,Thong Song,253733,True,1999,69,0.706,0.888,2,-6.959,1,0.0654,0.119,9.64e-05,0.07,0.714,121.549,"hip hop, pop, R&B"
+Destiny's Child,Say My Name,271333,False,1999,75,0.713,0.678,5,-3.525,0,0.102,0.273,0.0,0.149,0.734,138.009,"pop, R&B"
+Eiffel 65,Move Your Body - Gabry Ponte Original Radio Edit,268863,False,1999,56,0.745,0.958,7,-9.664,1,0.0287,0.0813,0.324,0.533,0.96,129.962,pop
+Sting,Desert Rose,285960,False,1999,62,0.586,0.659,0,-7.92,0,0.0304,0.011,0.0,0.106,0.147,111.989,"rock, pop"
+Melanie C,Never Be The Same Again,294200,False,1999,61,0.689,0.685,3,-5.153,1,0.0478,0.0921,0.0,0.119,0.398,160.067,"pop, Dance/Electronic"
+Anastacia,I'm Outta Love - Radio Edit,245400,False,1999,64,0.761,0.716,10,-5.8,0,0.056,0.396,0.0,0.0771,0.649,119.41,pop
+Gigi D'Agostino,The Riddle,285426,False,1999,64,0.74,0.876,6,-6.87,0,0.0369,0.0173,0.00152,0.0785,0.825,127.002,pop
+Dr. Dre,The Next Episode,161506,True,1999,82,0.922,0.909,10,-2.429,0,0.27,0.0281,0.0,0.0856,0.309,95.295,hip hop
+Tom Jones,Sexbomb,211893,False,1999,65,0.801,0.876,8,-3.94,0,0.0446,0.144,1.38e-05,0.104,0.932,122.979,"rock, Folk/Acoustic, easy listening"
+Melanie C,I Turn To You,352173,False,1999,54,0.522,0.803,1,-5.825,1,0.0327,0.00117,0.00167,0.31,0.0783,135.205,"pop, Dance/Electronic"
+DMX,Party Up,268866,True,1999,71,0.51,0.931,11,-3.302,1,0.347,0.0738,0.0,0.5,0.53,201.936,"hip hop, pop"
+Britney Spears,Born to Make You Happy,243533,False,1999,58,0.633,0.922,11,-4.842,0,0.0454,0.116,0.000465,0.071,0.686,84.11,pop
+Montell Jordan,Get It On Tonite,276266,False,1999,59,0.813,0.491,10,-9.923,0,0.077,0.241,4.61e-05,0.0817,0.868,99.008,"hip hop, pop, R&B"
+JAY-Z,Big Pimpin',283066,True,1999,69,0.88,0.814,11,-6.307,0,0.14,0.168,0.00672,0.0584,0.942,138.083,hip hop
+Enrique Iglesias,Be With You,219360,False,1999,54,0.683,0.866,1,-5.436,0,0.0329,0.0395,0.00161,0.0483,0.542,121.996,"pop, latin"
+Dr. Dre,Forgot About Dre,222293,True,1999,79,0.924,0.74,8,-1.299,1,0.0774,0.0827,0.0,0.163,0.621,133.974,hip hop
+Backstreet Boys,Show Me the Meaning of Being Lonely,234960,False,1999,68,0.63,0.625,6,-5.088,0,0.0252,0.231,0.0,0.0765,0.683,167.998,pop
+Sisqo,Incomplete,274226,True,1999,60,0.746,0.443,1,-7.693,0,0.0771,0.282,0.0,0.14,0.272,119.311,"hip hop, pop, R&B"
+Mariah Carey,Thank God I Found You (feat. Joe & 98°),257360,False,1999,59,0.348,0.532,10,-5.882,1,0.0331,0.592,0.0,0.106,0.148,129.297,"pop, R&B"
+Donell Jones,"U Know What's Up (feat. Lisa ""Left Eye"" Lopes)",243733,True,1999,63,0.854,0.543,8,-6.166,0,0.0844,0.0402,5.73e-05,0.0419,0.868,103.032,"pop, R&B"
+Christina Aguilera,I Turn to You,273706,False,1999,61,0.599,0.47,1,-8.356,1,0.0376,0.38,0.0,0.111,0.298,127.177,pop
+Red Hot Chili Peppers,Otherside,255373,False,1999,78,0.458,0.795,0,-3.265,1,0.0574,0.00316,0.000202,0.0756,0.513,123.229,rock
+Santana,Maria Maria (feat. The Product G&B),261973,False,1999,66,0.777,0.601,2,-5.931,1,0.126,0.0406,0.00201,0.0348,0.68,97.911,"rock, blues, latin"
+Madison Avenue,Don't Call Me Baby,228140,False,1999,56,0.808,0.982,3,-6.588,0,0.0311,0.0585,0.00689,0.35,0.961,124.999,Dance/Electronic
+Destiny's Child,"Jumpin', Jumpin'",230200,False,1999,70,0.771,0.685,1,-4.639,1,0.0567,0.00543,0.00157,0.0537,0.683,88.997,"pop, R&B"
+Céline Dion,That's the Way It Is,241373,False,1999,64,0.634,0.886,9,-5.424,1,0.0434,0.154,0.0,0.118,0.577,93.04,pop
+Donell Jones,Where I Wanna Be,253626,False,1999,57,0.664,0.396,5,-9.131,0,0.0298,0.52,0.0,0.268,0.453,102.053,"pop, R&B"
+Savage Garden,Crash and Burn,281466,False,1999,54,0.581,0.607,4,-8.458,1,0.028,0.189,1.6e-06,0.0882,0.213,102.03,pop
+Marc Anthony,You Sang To Me,347106,False,1999,56,0.578,0.894,10,-5.42,1,0.0296,0.0103,2.66e-06,0.216,0.741,165.98,"pop, latin"
+Creed,With Arms Wide Open,274800,False,1999,64,0.41,0.539,0,-8.412,1,0.0302,0.00425,0.00089,0.117,0.141,138.852,"pop, rock, metal"
+Wheatus,Teenage Dirtbag,241666,True,1999,71,0.625,0.85,4,-3.904,1,0.0495,0.346,0.000233,0.174,0.633,94.661,set()
+Christina Aguilera,Come on over Baby (All I Want Is You) - Radio Version,203333,False,1999,64,0.829,0.915,8,-3.205,1,0.106,0.226,1.25e-05,0.246,0.779,118.903,pop
+Creed,Higher,316733,False,1999,69,0.459,0.83,2,-6.254,1,0.0364,5.15e-05,0.00014,0.206,0.431,155.827,"pop, rock, metal"
+Crazy Town,Butterfly,216733,False,1999,71,0.736,0.811,9,-4.17,0,0.081,0.00132,0.000142,0.107,0.609,103.502,"rock, metal"
+Dido,Thank You,218360,False,1999,73,0.725,0.583,1,-9.942,0,0.0427,0.3,0.000238,0.0665,0.762,79.984,pop
+Anastacia,Sick and Tired,212266,False,1999,56,0.598,0.868,0,-4.552,1,0.0373,0.00908,0.0,0.279,0.47,99.848,pop

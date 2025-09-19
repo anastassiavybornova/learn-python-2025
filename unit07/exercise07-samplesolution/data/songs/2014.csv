@@ -1,0 +1,105 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre
+Azealia Banks,212,204956,True,2014,0,0.847,0.769,11,-5.761,0,0.258,0.0145,0.00012,0.0767,0.626,126.017,"hip hop, pop, R&B"
+Klangkarussell,Sonnentanz - Sun Don't Shine,238120,False,2014,68,0.579,0.549,5,-8.262,0,0.0909,0.104,0.0202,0.0964,0.155,119.74,"pop, Dance/Electronic"
+Ellie Goulding,Burn,231211,False,2014,70,0.559,0.777,1,-5.031,1,0.0432,0.31,0.0,0.105,0.329,87.016,"pop, rock, Dance/Electronic"
+Storm Queen,Look Right Through - MK Vocal Edit,150400,False,2014,0,0.832,0.815,0,-8.035,0,0.081,0.00304,0.00553,0.263,0.519,119.995,Dance/Electronic
+Pharrell Williams,"Happy - From ""Despicable Me 2""",232720,False,2014,79,0.647,0.822,5,-4.662,0,0.183,0.219,0.0,0.0908,0.962,160.019,"hip hop, pop"
+ScHoolboy Q,Collard Greens,299960,True,2014,0,0.826,0.571,11,-4.871,1,0.064,0.0239,7.38e-06,0.207,0.666,153.972,"hip hop, pop"
+Iggy Azalea,Fancy,199938,True,2014,69,0.912,0.716,10,-4.141,0,0.0697,0.0904,0.0,0.0491,0.377,94.981,"hip hop, pop"
+Maroon 5,Animals,231013,False,2014,79,0.279,0.742,4,-6.46,0,0.0898,0.000185,0.0,0.593,0.328,189.868,pop
+Sam Smith,Stay With Me,172723,False,2014,80,0.418,0.42,0,-6.444,1,0.0414,0.588,6.39e-05,0.11,0.184,84.094,pop
+MAGIC!,Rude,224840,False,2014,80,0.773,0.758,1,-4.993,1,0.0381,0.0422,0.0,0.305,0.925,144.033,set()
+Sia,Chandelier,216120,False,2014,78,0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,pop
+ZHU,Faded,223386,False,2014,49,0.861,0.475,9,-7.195,0,0.0487,0.00865,0.119,0.122,0.599,124.96,Dance/Electronic
+David Guetta,Lovers on the Sun (feat. Sam Martin),203520,False,2014,50,0.645,0.891,6,-2.505,0,0.0387,0.0932,3.88e-06,0.379,0.568,124.915,"hip hop, pop, Dance/Electronic"
+Iggy Azalea,Black Widow,209423,True,2014,67,0.743,0.72,11,-3.753,1,0.124,0.192,0.000386,0.109,0.519,163.99,"hip hop, pop"
+Tove Lo,Habits (Stay High),209160,False,2014,74,0.733,0.65,5,-3.539,1,0.0315,0.0703,6.59e-05,0.0829,0.348,110.003,"pop, Dance/Electronic"
+Oliver Heldens,Gecko (Overdrive) - Radio Edit,165440,False,2014,67,0.609,0.885,0,-5.469,1,0.0642,0.00521,1.15e-05,0.336,0.76,124.959,"pop, Dance/Electronic"
+DJ Snake,You Know You Like It,247266,False,2014,69,0.407,0.725,5,-5.346,0,0.188,0.0141,2.46e-06,0.306,0.247,196.093,"hip hop, pop, Dance/Electronic"
+Maroon 5,Maps,189840,False,2014,0,0.737,0.723,1,-5.51,0,0.0295,0.0179,0.0,0.0675,0.893,120.003,pop
+David Guetta,Bad (feat. Vassy) - Radio Edit,170625,False,2014,45,0.614,0.972,5,-3.927,0,0.088,0.00125,0.0186,0.328,0.411,127.966,"hip hop, pop, Dance/Electronic"
+Tinashe,2 On (feat. ScHoolboy Q),227000,True,2014,71,0.742,0.595,9,-7.51,1,0.107,0.15,0.0,0.111,0.431,101.013,"hip hop, pop, R&B, Dance/Electronic"
+Route 94,My Love (feat. Jess Glynne),259934,False,2014,72,0.814,0.622,8,-7.573,1,0.0492,0.000132,0.72,0.0658,0.726,119.976,"pop, Dance/Electronic"
+Taylor Swift,Bad Blood,211933,False,2014,54,0.646,0.794,7,-6.104,1,0.19,0.0885,6.16e-06,0.201,0.287,170.216,pop
+Calvin Harris,Under Control (feat. Hurts),184280,False,2014,72,0.544,0.915,8,-3.405,1,0.0841,0.129,0.000914,0.115,0.51,126.094,"hip hop, pop, Dance/Electronic"
+O.T. Genasis,CoCo,239573,True,2014,61,0.886,0.628,8,-5.949,1,0.131,0.00215,1.15e-05,0.31,0.178,119.906,"hip hop, pop"
+Lilly Wood and The Prick,Prayer in C - Robin Schulz Radio Edit,189399,False,2014,66,0.76,0.886,9,-5.356,0,0.0258,0.0219,7.43e-06,0.623,0.78,123.002,"pop, rock"
+Nicki Minaj,Anaconda,260240,True,2014,66,0.964,0.605,9,-6.223,1,0.179,0.0668,7.78e-06,0.214,0.646,129.994,"hip hop, pop"
+Calvin Harris,Blame (feat. John Newman),212960,False,2014,75,0.414,0.857,0,-4.078,0,0.0808,0.0287,0.00574,0.343,0.348,128.024,"hip hop, pop, Dance/Electronic"
+OneRepublic,Counting Stars,257386,False,2014,62,0.663,0.705,1,-4.972,0,0.0385,0.0654,0.0,0.117,0.477,122.014,pop
+Bobby Shmurda,Hot N*gga,194561,True,2014,73,0.794,0.51,9,-7.314,1,0.42,0.0505,1.81e-06,0.0562,0.18,167.879,"hip hop, pop"
+Calvin Harris,Summer,224506,False,2014,21,0.603,0.861,4,-3.565,0,0.0325,0.0215,0.043,0.1,0.72,127.962,"hip hop, pop, Dance/Electronic"
+ScHoolboy Q,Man Of The Year,216013,True,2014,0,0.743,0.861,3,-5.234,1,0.0428,0.00518,0.0,0.181,0.391,111.959,"hip hop, pop"
+Nico & Vinz,Am I Wrong,245866,False,2014,76,0.729,0.675,8,-6.003,1,0.0312,0.175,1.58e-06,0.55,0.779,119.968,"hip hop, pop"
+Becky G,Shower,206166,False,2014,78,0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,"pop, latin"
+Sigma,Nobody To Love - Radio Edit,189720,False,2014,62,0.441,0.921,8,-3.32,1,0.0436,0.000526,6.34e-06,0.177,0.182,175.001,"pop, Dance/Electronic"
+The Chainsmokers,#SELFIE - Original Mix,183750,False,2014,0,0.789,0.915,0,-3.263,1,0.248,0.0135,8.77e-06,0.0818,0.66,127.955,"pop, Dance/Electronic"
+Rixton,Me And My Broken Heart,193733,False,2014,77,0.545,0.783,5,-4.261,0,0.0345,0.00489,0.0,0.132,0.551,174.084,pop
+Mr. Probz,Waves - Robin Schulz Radio Edit,208133,False,2014,2,0.829,0.51,5,-9.334,0,0.0369,0.00821,0.0014,0.0829,0.45,119.993,"hip hop, Dance/Electronic"
+Paloma Faith,Only Love Can Hurt Like This,232893,False,2014,80,0.566,0.885,8,-4.528,1,0.0818,0.0958,9.97e-05,0.334,0.304,90.99,"pop, R&B, Dance/Electronic"
+Kiesza,Hideaway,251986,False,2014,64,0.838,0.72,7,-4.135,0,0.0483,0.0862,0.00696,0.0772,0.203,122.993,"pop, Dance/Electronic"
+Ellie Goulding,Burn,231211,False,2014,70,0.559,0.777,1,-5.031,1,0.0432,0.31,0.0,0.105,0.329,87.016,"pop, rock, Dance/Electronic"
+Ariana Grande,Break Free,214840,False,2014,0,0.687,0.702,7,-5.324,0,0.0455,0.0064,4.35e-05,0.204,0.284,129.956,pop
+Kid Ink,Show Me (feat. Chris Brown),217800,True,2014,68,0.711,0.508,7,-7.299,1,0.0502,0.0355,0.0,0.141,0.663,98.098,"hip hop, pop"
+Tove Lo,Talking Body,238426,True,2014,66,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,"pop, Dance/Electronic"
+Chris Brown,Loyal (feat. Lil Wayne & Tyga),264946,True,2014,72,0.841,0.522,10,-5.963,0,0.049,0.0168,1.37e-06,0.188,0.616,99.059,"hip hop, pop, R&B"
+OneRepublic,Love Runs Out,224226,False,2014,59,0.719,0.935,7,-3.752,1,0.0589,0.167,0.0,0.0973,0.738,120.022,pop
+Olly Murs,Up (feat. Demi Lovato),224293,False,2014,0,0.69,0.845,9,-4.676,1,0.0339,0.0193,0.0,0.101,0.638,114.948,"pop, Dance/Electronic"
+Peking Duk,High (feat. Nicole Millar),228000,False,2014,48,0.525,0.803,0,-4.052,0,0.0492,0.00129,0.000868,0.29,0.383,100.094,Dance/Electronic
+Milky Chance,Stolen Dance,313684,False,2014,73,0.885,0.581,11,-8.813,1,0.0378,0.427,0.000204,0.0759,0.728,114.016,set()
+Ed Sheeran,Don't,219840,False,2014,72,0.806,0.608,1,-7.008,1,0.0659,0.0113,0.0,0.635,0.849,95.049,pop
+Ariana Grande,Love Me Harder,236133,False,2014,74,0.472,0.714,1,-4.389,0,0.0334,0.00937,0.0,0.0764,0.24,98.992,pop
+Enrique Iglesias,Bailando - Spanish Version,243386,False,2014,66,0.718,0.792,7,-3.519,1,0.105,0.0467,3.65e-06,0.0399,0.96,90.949,"pop, latin"
+Jessie J,Bang Bang,199386,False,2014,77,0.706,0.786,0,-3.417,0,0.091,0.26,0.0,0.38,0.751,150.028,"hip hop, pop"
+Duke Dumont,I Got U,285596,False,2014,67,0.636,0.761,9,-7.752,0,0.035,0.00377,0.00784,0.0851,0.463,120.837,"pop, Dance/Electronic"
+Gorgon City,Ready For Your Love,198880,False,2014,61,0.677,0.753,5,-7.038,1,0.154,0.0531,0.0128,0.333,0.471,121.939,"pop, Dance/Electronic"
+Taylor Swift,Style,231000,False,2014,61,0.588,0.791,7,-5.595,1,0.0402,0.00245,0.00258,0.118,0.487,94.933,pop
+Ariana Grande,Problem,193920,False,2014,73,0.66,0.805,1,-5.352,0,0.153,0.0192,8.83e-06,0.159,0.625,103.008,pop
+Charli XCX,Boom Clap,169866,False,2014,49,0.659,0.911,4,-2.28,1,0.0786,0.154,0.000304,0.191,0.576,91.999,"pop, Dance/Electronic"
+One Direction,Steal My Girl,228133,False,2014,79,0.536,0.768,10,-5.948,0,0.0347,0.00433,0.0,0.114,0.545,77.217,pop
+Selena Gomez,The Heart Wants What It Wants,227360,False,2014,58,0.616,0.789,7,-4.874,0,0.0377,0.053,0.0,0.142,0.621,83.066,pop
+Rita Ora,I Will Never Let You Down,203466,False,2014,65,0.753,0.801,4,-3.215,1,0.0296,0.403,0.0,0.128,0.794,128.011,"hip hop, pop, Dance/Electronic"
+5 Seconds of Summer,She Looks So Perfect,202496,False,2014,74,0.494,0.951,9,-4.237,1,0.132,0.000569,0.0,0.327,0.441,160.025,pop
+The Script,Superheroes,245466,False,2014,74,0.49,0.885,3,-4.121,1,0.0396,0.00218,0.0,0.0741,0.64,166.996,"pop, rock"
+Taylor Swift,Shake It Off,219200,False,2014,79,0.647,0.8,7,-5.384,1,0.165,0.0647,0.0,0.334,0.942,160.078,pop
+One Direction,Night Changes,226600,False,2014,83,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,pop
+Ed Sheeran,Sing,235382,False,2014,69,0.818,0.67,8,-4.451,0,0.0472,0.304,1.22e-06,0.0601,0.939,119.988,pop
+Alesso,Heroes (we could be),209866,False,2014,52,0.521,0.754,5,-4.144,1,0.0634,0.0373,0.0,0.239,0.352,125.876,"pop, Dance/Electronic"
+Tiësto,Wasted,188371,False,2014,0,0.645,0.832,2,-5.595,1,0.0294,0.00106,0.00264,0.199,0.375,112.028,"pop, Dance/Electronic"
+G.R.L.,Ugly Heart,198306,False,2014,64,0.65,0.786,9,-5.488,1,0.0463,0.019,0.0,0.323,0.446,124.96,pop
+Coldplay,A Sky Full of Stars,267866,False,2014,80,0.545,0.675,6,-6.474,1,0.0279,0.00617,0.00197,0.209,0.162,124.97,"rock, pop"
+Clean Bandit,Rather Be (feat. Jess Glynne),227833,False,2014,72,0.799,0.586,11,-6.735,1,0.0377,0.162,2.03e-06,0.193,0.549,120.97,"pop, Dance/Electronic"
+Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,217346,False,2014,63,0.596,0.738,8,-3.109,1,0.0411,0.109,0.0,0.0947,0.461,127.961,"hip hop, pop, Dance/Electronic"
+Sia,Elastic Heart,257200,False,2014,70,0.421,0.791,9,-4.998,1,0.0496,0.0117,1.48e-05,0.146,0.499,130.075,pop
+Alex & Sierra,Little Do You Know,185200,False,2014,75,0.5,0.292,0,-8.554,1,0.0323,0.746,0.0,0.188,0.37,145.879,pop
+Omarion,Post to Be (feat. Chris Brown & Jhene Aiko),226580,True,2014,55,0.733,0.676,10,-5.655,0,0.0432,0.0697,0.0,0.208,0.701,97.448,"hip hop, pop, R&B"
+Natalie La Rose,Somebody,189906,False,2014,66,0.83,0.52,0,-8.714,1,0.0376,0.000792,1.25e-05,0.0656,0.735,104.99,set()
+Vance Joy,Riptide,204280,False,2014,80,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,"rock, pop"
+Beyoncé,Drunk in Love (feat. Jay-Z),323480,True,2014,70,0.589,0.621,5,-6.902,0,0.0468,0.00969,0.00104,0.181,0.401,140.03,"pop, R&B"
+Maroon 5,Sugar,235493,True,2014,0,0.744,0.783,1,-7.077,1,0.0337,0.0553,0.0,0.086,0.885,120.042,pop
+Ella Henderson,Ghost,213213,False,2014,63,0.68,0.84,9,-3.823,1,0.0414,0.0457,8.66e-06,0.143,0.468,104.975,"pop, Dance/Electronic"
+Chris Brown,New Flame (feat. Usher & Rick Ross),244226,True,2014,67,0.702,0.629,1,-4.292,1,0.041,0.0506,0.0,0.0963,0.446,141.967,"hip hop, pop, R&B"
+Sheppard,Geronimo,218227,False,2014,0,0.707,0.771,7,-6.275,1,0.0783,0.434,0.0013,0.115,0.437,142.016,"pop, rock, Dance/Electronic"
+Olly Murs,Wrapped Up (feat. Travie McCoy),185640,False,2014,0,0.787,0.848,1,-4.696,1,0.0549,0.0915,0.0,0.15,0.947,121.989,"pop, Dance/Electronic"
+Sam Smith,Money On My Mind,192670,False,2014,62,0.688,0.841,2,-5.217,1,0.179,0.204,0.000295,0.229,0.743,133.912,pop
+Nicki Minaj,Bed Of Lies,269946,True,2014,53,0.716,0.67,11,-5.779,1,0.194,0.251,0.0,0.109,0.124,86.01,"hip hop, pop"
+Nick Jonas,Jealous - Remix,222213,True,2014,0,0.685,0.709,11,-3.578,0,0.0748,0.0132,0.0,0.452,0.504,93.047,pop
+Ed Sheeran,Thinking out Loud,281560,False,2014,81,0.781,0.445,2,-6.061,1,0.0295,0.474,0.0,0.184,0.591,78.998,pop
+The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",252226,False,2014,76,0.659,0.381,2,-5.922,0,0.0304,0.385,0.0,0.0972,0.426,119.844,"pop, R&B"
+Calvin Harris,Outside (feat. Ellie Goulding),227266,False,2014,78,0.646,0.823,2,-4.123,0,0.0394,0.213,0.0,0.322,0.418,128.035,"hip hop, pop, Dance/Electronic"
+David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",192560,False,2014,75,0.596,0.73,9,-4.091,1,0.151,0.24,0.0,0.325,0.525,85.979,"hip hop, pop, Dance/Electronic"
+Taylor Swift,Blank Space,231826,False,2014,82,0.76,0.703,5,-5.412,1,0.054,0.103,0.0,0.0913,0.57,95.997,pop
+Avicii,The Nights,176658,False,2014,85,0.527,0.835,6,-5.298,1,0.0433,0.0166,0.0,0.249,0.654,125.983,"pop, Dance/Electronic"
+DJ Snake,You Know You Like It,247266,False,2014,69,0.407,0.725,5,-5.346,0,0.188,0.0141,2.46e-06,0.306,0.247,196.093,"hip hop, pop, Dance/Electronic"
+Philip George,Wish You Were Mine - Radio Edit,177560,False,2014,65,0.654,0.832,7,-4.164,0,0.0293,0.0126,0.0901,0.102,0.407,123.002,"pop, Dance/Electronic"
+Lost Frequencies,Are You With Me - Radio Edit,138842,False,2014,33,0.776,0.574,5,-9.882,0,0.0317,0.466,7.83e-05,0.131,0.412,121.03,"pop, Dance/Electronic"
+Sam Smith,Like I Can,167065,False,2014,79,0.656,0.627,7,-6.627,0,0.0379,0.343,2.17e-05,0.124,0.481,99.933,pop
+Taylor Swift,Wildest Dreams,220440,False,2014,78,0.553,0.664,8,-7.417,1,0.0741,0.0709,0.0056,0.106,0.467,140.06,pop
+Pitbull,Time of Our Lives,229360,True,2014,80,0.721,0.802,1,-5.797,1,0.0583,0.0921,0.0,0.694,0.724,124.022,"hip hop, pop, latin"
+Tove Lo,Talking Body,238426,True,2014,66,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,"pop, Dance/Electronic"
+Beyoncé,7/11,213506,False,2014,69,0.747,0.705,9,-5.137,0,0.126,0.0128,0.0,0.126,0.56,136.024,"pop, R&B"
+Ariana Grande,Love Me Harder,236133,False,2014,74,0.472,0.714,1,-4.389,0,0.0334,0.00937,0.0,0.0764,0.24,98.992,pop
+Hozier,Take Me To Church,241688,False,2014,81,0.566,0.664,4,-5.303,0,0.0464,0.634,0.0,0.116,0.437,128.945,"Folk/Acoustic, pop"
+Taylor Swift,Style,231000,False,2014,77,0.588,0.791,7,-5.595,1,0.0402,0.00245,0.00258,0.118,0.487,94.933,pop
+Selena Gomez,The Heart Wants What It Wants,227373,False,2014,64,0.616,0.789,7,-4.874,0,0.0377,0.053,0.0,0.142,0.621,83.066,pop
+Ariana Grande,One Last Time,197266,False,2014,79,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,pop
